@@ -1,0 +1,1025 @@
+resistant_phenotype,antibiotic,genome_id,genome_name,label,organism
+susceptible,tetracycline,1280.16076,Staphylococcus aureus strain Staphylococcus aureus 171,0,Staphylococcus aureus
+susceptible,gentamicin,1280.16076,Staphylococcus aureus strain Staphylococcus aureus 171,0,Staphylococcus aureus
+susceptible,ciprofloxacin,1280.31939,Staphylococcus aureus strain Staphylococcus_aureus_BgEED30,0,Staphylococcus aureus
+susceptible,gentamicin,1280.31939,Staphylococcus aureus strain Staphylococcus_aureus_BgEED30,0,Staphylococcus aureus
+susceptible,tetracycline,1280.31939,Staphylococcus aureus strain Staphylococcus_aureus_BgEED30,0,Staphylococcus aureus
+susceptible,ciprofloxacin,1280.16076,Staphylococcus aureus strain Staphylococcus aureus 171,0,Staphylococcus aureus
+susceptible,ciprofloxacin,1280.16076,Staphylococcus aureus strain Staphylococcus aureus 171,0,Staphylococcus aureus
+susceptible,gentamicin,1280.16076,Staphylococcus aureus strain Staphylococcus aureus 171,0,Staphylococcus aureus
+susceptible,tetracycline,1280.16076,Staphylococcus aureus strain Staphylococcus aureus 171,0,Staphylococcus aureus
+susceptible,ciprofloxacin,1280.31939,Staphylococcus aureus strain Staphylococcus_aureus_BgEED30,0,Staphylococcus aureus
+susceptible,gentamicin,1280.31939,Staphylococcus aureus strain Staphylococcus_aureus_BgEED30,0,Staphylococcus aureus
+susceptible,tetracycline,1280.31939,Staphylococcus aureus strain Staphylococcus_aureus_BgEED30,0,Staphylococcus aureus
+susceptible,tetracycline,46170.318,Staphylococcus aureus subsp. aureus strain SA13-192,0,Staphylococcus aureus
+resistant,gentamicin,46170.723,Staphylococcus aureus subsp. aureus strain LTF25,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1194,Staphylococcus aureus subsp. aureus strain Q38,0,Staphylococcus aureus
+susceptible,ciprofloxacin,561307.24,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1149,Staphylococcus aureus subsp. aureus strain RR103,0,Staphylococcus aureus
+resistant,tetracycline,46170.1121,Staphylococcus aureus subsp. aureus strain Sau56,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1087,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe6,0,Staphylococcus aureus
+resistant,tetracycline,46170.1184,Staphylococcus aureus subsp. aureus strain ABR102,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1124,Staphylococcus aureus subsp. aureus strain Sau100,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1092,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1160,Staphylococcus aureus subsp. aureus strain LCR01,0,Staphylococcus aureus
+resistant,gentamicin,46170.633,Staphylococcus aureus subsp. aureus strain M6KS0564_1,1,Staphylococcus aureus
+resistant,gentamicin,46170.816,Staphylococcus aureus subsp. aureus strain 19,1,Staphylococcus aureus
+resistant,gentamicin,46170.606,Staphylococcus aureus subsp. aureus strain M6KS0094_1,1,Staphylococcus aureus
+susceptible,ciprofloxacin,904741.3,Staphylococcus aureus subsp. aureus 21248,0,Staphylococcus aureus
+susceptible,gentamicin,46170.582,Staphylococcus aureus subsp. aureus strain M1KS0526_1,0,Staphylococcus aureus
+resistant,tetracycline,93062.74,Staphylococcus aureus subsp. aureus COL,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1166,Staphylococcus aureus subsp. aureus strain JGR38,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1146,Staphylococcus aureus subsp. aureus strain RR107,0,Staphylococcus aureus
+susceptible,tetracycline,46170.363,Staphylococcus aureus subsp. aureus strain TW20,0,Staphylococcus aureus
+susceptible,gentamicin,46170.323,Staphylococcus aureus subsp. aureus strain SA14-118,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1113,Staphylococcus aureus subsp. aureus strain sta1645,0,Staphylococcus aureus
+susceptible,gentamicin,46170.566,Staphylococcus aureus subsp. aureus strain M1KS0165_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1168,Staphylococcus aureus subsp. aureus strain ILR37,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1120,Staphylococcus aureus subsp. aureus strain Sau62,0,Staphylococcus aureus
+resistant,gentamicin,46170.743,Staphylococcus aureus subsp. aureus strain LTF22,1,Staphylococcus aureus
+susceptible,ciprofloxacin,1330461.3,Staphylococcus aureus subsp. aureus SA8601,0,Staphylococcus aureus
+susceptible,tetracycline,46170.632,Staphylococcus aureus subsp. aureus strain M6KS0560_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.562,Staphylococcus aureus subsp. aureus strain M1KS0130_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.594,Staphylococcus aureus subsp. aureus strain M1KS0564_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1143,Staphylococcus aureus subsp. aureus strain RR105,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.742,Staphylococcus aureus subsp. aureus strain LTF23,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1192,Staphylococcus aureus subsp. aureus strain SA G5,0,Staphylococcus aureus
+resistant,gentamicin,46170.594,Staphylococcus aureus subsp. aureus strain M1KS0564_1,1,Staphylococcus aureus
+susceptible,tetracycline,561307.27,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.812,Staphylococcus aureus subsp. aureus strain 42,1,Staphylococcus aureus
+susceptible,gentamicin,46170.362,Staphylococcus aureus subsp. aureus strain TW17,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1136,Staphylococcus aureus subsp. aureus strain RR51,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1185,Staphylococcus aureus subsp. aureus strain ABR39,0,Staphylococcus aureus
+susceptible,ciprofloxacin,904733.3,Staphylococcus aureus subsp. aureus 21204,0,Staphylococcus aureus
+susceptible,gentamicin,46170.574,Staphylococcus aureus subsp. aureus strain M1KS0321_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.576,Staphylococcus aureus subsp. aureus strain M1KS0367_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,904800.3,Staphylococcus aureus subsp. aureus CO-85,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1158,Staphylococcus aureus subsp. aureus strain MKR24,0,Staphylococcus aureus
+resistant,tetracycline,46170.1137,Staphylococcus aureus subsp. aureus strain RR62,1,Staphylococcus aureus
+susceptible,tetracycline,523796.84,Staphylococcus aureus subsp. aureus ST398 2012-3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.608,Staphylococcus aureus subsp. aureus strain M6KS0165_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.356,Staphylococcus aureus subsp. aureus strain TW13,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1171,Staphylococcus aureus subsp. aureus strain ACR52,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.616,Staphylococcus aureus subsp. aureus strain M6KS0265_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.747,Staphylococcus aureus subsp. aureus strain LTF15,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1150,Staphylococcus aureus subsp. aureus strain NCHR59,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1085,Staphylococcus aureus subsp. aureus strain Oerebro-086360,0,Staphylococcus aureus
+susceptible,tetracycline,46170.358,Staphylococcus aureus subsp. aureus strain TW23,0,Staphylococcus aureus
+susceptible,tetracycline,46170.585,Staphylococcus aureus subsp. aureus strain M1KS0526_3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.596,Staphylococcus aureus subsp. aureus strain M1KS0564_3,0,Staphylococcus aureus
+susceptible,tetracycline,904779.3,Staphylococcus aureus subsp. aureus IS-91,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1130,Staphylococcus aureus subsp. aureus strain Sau114,0,Staphylococcus aureus
+susceptible,tetracycline,46170.607,Staphylococcus aureus subsp. aureus strain M6KS0094_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1192,Staphylococcus aureus subsp. aureus strain SA G5,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.461,Staphylococcus aureus subsp. aureus strain EDCC5458,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.350,Staphylococcus aureus subsp. aureus strain TW09,0,Staphylococcus aureus
+susceptible,tetracycline,46170.592,Staphylococcus aureus subsp. aureus strain M1KS0560_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.737,Staphylococcus aureus subsp. aureus strain LTF32,0,Staphylococcus aureus
+susceptible,tetracycline,46170.346,Staphylococcus aureus subsp. aureus strain TW07_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.620,Staphylococcus aureus subsp. aureus strain M6KS0367_3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.611,Staphylococcus aureus subsp. aureus strain M6KS0260_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1165,Staphylococcus aureus subsp. aureus strain JGR12,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1153,Staphylococcus aureus subsp. aureus strain NCHR53,0,Staphylococcus aureus
+resistant,gentamicin,46170.559,Staphylococcus aureus subsp. aureus strain M1KS0094_1,1,Staphylococcus aureus
+resistant,tetracycline,46170.1097,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg2,1,Staphylococcus aureus
+resistant,gentamicin,46170.724,Staphylococcus aureus subsp. aureus strain LTF31,1,Staphylococcus aureus
+susceptible,tetracycline,46170.809,Staphylococcus aureus subsp. aureus strain 48,0,Staphylococcus aureus
+resistant,ampicillin,904787.3,Staphylococcus aureus subsp. aureus IS-189,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1157,Staphylococcus aureus subsp. aureus strain RR1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.733,Staphylococcus aureus subsp. aureus strain LTF06,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1098,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg3,0,Staphylococcus aureus
+resistant,ampicillin,904792.3,Staphylococcus aureus subsp. aureus IS-M,1,Staphylococcus aureus
+susceptible,tetracycline,46170.501,Staphylococcus aureus subsp. aureus strain CAR,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1122,Staphylococcus aureus subsp. aureus strain Sau54,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1250,Staphylococcus aureus subsp. aureus PartF-Saureus-RM8376,0,Staphylococcus aureus
+susceptible,tetracycline,46170.732,Staphylococcus aureus subsp. aureus strain LTF07,0,Staphylococcus aureus
+susceptible,ciprofloxacin,904786.3,Staphylococcus aureus subsp. aureus IS-160,0,Staphylococcus aureus
+resistant,gentamicin,46170.599,Staphylococcus aureus subsp. aureus strain M1KS0584_2,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.592,Staphylococcus aureus subsp. aureus strain M1KS0560_3,0,Staphylococcus aureus
+susceptible,gentamicin,561307.24,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,gentamicin,46170.324,Staphylococcus aureus subsp. aureus strain SA12-154,0,Staphylococcus aureus
+susceptible,tetracycline,46170.598,Staphylococcus aureus subsp. aureus strain M1KS0584_4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1085,Staphylococcus aureus subsp. aureus strain Oerebro-086360,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.339,Staphylococcus aureus subsp. aureus strain TW01,0,Staphylococcus aureus
+resistant,gentamicin,46170.805,Staphylococcus aureus subsp. aureus strain VB9352,1,Staphylococcus aureus
+susceptible,tetracycline,904801.3,Staphylococcus aureus subsp. aureus CO-86,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1117,Staphylococcus aureus subsp. aureus strain Sau73,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.578,Staphylococcus aureus subsp. aureus strain M1KS0391_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1097,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg2,0,Staphylococcus aureus
+resistant,gentamicin,46170.815,Staphylococcus aureus subsp. aureus strain 3 (B) strain 3 (B) strain 3 (B),1,Staphylococcus aureus
+susceptible,tetracycline,46170.1119,Staphylococcus aureus subsp. aureus strain Sau57,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1169,Staphylococcus aureus subsp. aureus strain ILR17,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1193,Staphylococcus aureus subsp. aureus strain CC1153-MRSA,0,Staphylococcus aureus
+resistant,tetracycline,46170.1194,Staphylococcus aureus subsp. aureus strain Q38,1,Staphylococcus aureus
+susceptible,tetracycline,1330459.3,Staphylococcus aureus subsp. aureus SA9908,0,Staphylococcus aureus
+resistant,tetracycline,46170.1129,Staphylococcus aureus subsp. aureus strain Sau122,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1167,Staphylococcus aureus subsp. aureus strain ILR76,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1143,Staphylococcus aureus subsp. aureus strain RR105,0,Staphylococcus aureus
+resistant,ampicillin,904785.3,Staphylococcus aureus subsp. aureus IS-157,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.359,Staphylococcus aureus subsp. aureus strain TW18,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1119,Staphylococcus aureus subsp. aureus strain Sau57,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1132,Staphylococcus aureus subsp. aureus strain RR8,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1154,Staphylococcus aureus subsp. aureus strain MKR53,0,Staphylococcus aureus
+resistant,ampicillin,904786.3,Staphylococcus aureus subsp. aureus IS-160,1,Staphylococcus aureus
+susceptible,tetracycline,46170.338,Staphylococcus aureus subsp. aureus strain ATCC,0,Staphylococcus aureus
+susceptible,ciprofloxacin,904785.3,Staphylococcus aureus subsp. aureus IS-157,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1160,Staphylococcus aureus subsp. aureus strain LCR01,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1088,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.565,Staphylococcus aureus subsp. aureus strain M1KS0165_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.821,Staphylococcus aureus subsp. aureus strain 14,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1134,Staphylococcus aureus subsp. aureus strain RR68,0,Staphylococcus aureus
+susceptible,gentamicin,46170.319,Staphylococcus aureus subsp. aureus strain SA33924,0,Staphylococcus aureus
+susceptible,tetracycline,46170.640,Staphylococcus aureus subsp. aureus strain M6KS0591_4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1195,Staphylococcus aureus subsp. aureus strain Q47,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1167,Staphylococcus aureus subsp. aureus strain ILR76,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.732,Staphylococcus aureus subsp. aureus strain LTF07,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1194,Staphylococcus aureus subsp. aureus strain Q38,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1188,Staphylococcus aureus subsp. aureus strain SA H29,0,Staphylococcus aureus
+susceptible,tetracycline,46170.599,Staphylococcus aureus subsp. aureus strain M1KS0584_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.350,Staphylococcus aureus subsp. aureus strain TW09,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1177,Staphylococcus aureus subsp. aureus strain ACR34,0,Staphylococcus aureus
+resistant,tetracycline,46170.1144,Staphylococcus aureus subsp. aureus strain RR111,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1174,Staphylococcus aureus subsp. aureus strain ACR37,0,Staphylococcus aureus
+resistant,gentamicin,46170.601,Staphylococcus aureus subsp. aureus strain M1KS0591_2,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.590,Staphylococcus aureus subsp. aureus strain M1KS0560_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.1186,Staphylococcus aureus subsp. aureus strain ABR10,1,Staphylococcus aureus
+susceptible,tetracycline,46170.810,Staphylococcus aureus subsp. aureus strain 41,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1183,Staphylococcus aureus subsp. aureus strain ABR29,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.818,Staphylococcus aureus subsp. aureus strain 40,0,Staphylococcus aureus
+resistant,gentamicin,46170.747,Staphylococcus aureus subsp. aureus strain LTF15,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1148,Staphylococcus aureus subsp. aureus strain QR1130,0,Staphylococcus aureus
+susceptible,tetracycline,46170.344,Staphylococcus aureus subsp. aureus strain TW06,0,Staphylococcus aureus
+susceptible,ciprofloxacin,904799.3,Staphylococcus aureus subsp. aureus CO-49,0,Staphylococcus aureus
+susceptible,tetracycline,46170.806,Staphylococcus aureus subsp. aureus strain VB31683,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1153,Staphylococcus aureus subsp. aureus strain NCHR53,0,Staphylococcus aureus
+resistant,gentamicin,46170.637,Staphylococcus aureus subsp. aureus strain M6KS0584_3,1,Staphylococcus aureus
+resistant,gentamicin,46170.746,Staphylococcus aureus subsp. aureus strain LTF18,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1095,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg6,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.615,Staphylococcus aureus subsp. aureus strain M6KS0265_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.341,Staphylococcus aureus subsp. aureus strain TW02,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.343,Staphylococcus aureus subsp. aureus strain TW04,0,Staphylococcus aureus
+susceptible,ciprofloxacin,426430.63,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,tetracycline,523796.83,Staphylococcus aureus subsp. aureus ST398 strain 2012-3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1179,Staphylococcus aureus subsp. aureus strain ACR15,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.819,Staphylococcus aureus subsp. aureus strain 43,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1139,Staphylococcus aureus subsp. aureus strain RR23,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.564,Staphylococcus aureus subsp. aureus strain M1KS0165_3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.589,Staphylococcus aureus subsp. aureus strain M1KS0528_4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1091,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe5,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.500,Staphylococcus aureus subsp. aureus strain OXLIM,0,Staphylococcus aureus
+susceptible,gentamicin,46170.821,Staphylococcus aureus subsp. aureus strain 14,0,Staphylococcus aureus
+resistant,tetracycline,46170.814,Staphylococcus aureus subsp. aureus strain 50,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1088,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe4,0,Staphylococcus aureus
+susceptible,tetracycline,1330461.3,Staphylococcus aureus subsp. aureus SA8601,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1140,Staphylococcus aureus subsp. aureus strain RR20,0,Staphylococcus aureus
+susceptible,tetracycline,46170.613,Staphylococcus aureus subsp. aureus strain M6KS0260_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1158,Staphylococcus aureus subsp. aureus strain MKR24,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.729,Staphylococcus aureus subsp. aureus strain LTF16,0,Staphylococcus aureus
+susceptible,gentamicin,46170.359,Staphylococcus aureus subsp. aureus strain TW18,0,Staphylococcus aureus
+susceptible,gentamicin,561307.22,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,tetracycline,46170.738,Staphylococcus aureus subsp. aureus strain LTF29,0,Staphylococcus aureus
+susceptible,gentamicin,46170.824,Staphylococcus aureus subsp. aureus strain ATCC 12600,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1165,Staphylococcus aureus subsp. aureus strain JGR12,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.342,Staphylococcus aureus subsp. aureus strain TW03,0,Staphylococcus aureus
+susceptible,tetracycline,46170.637,Staphylococcus aureus subsp. aureus strain M6KS0584_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.556,Staphylococcus aureus subsp. aureus strain M1KS0073_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1087,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe6,0,Staphylococcus aureus
+susceptible,gentamicin,46170.409,Staphylococcus aureus subsp. aureus strain SR389,0,Staphylococcus aureus
+resistant,ampicillin,904779.3,Staphylococcus aureus subsp. aureus IS-91,1,Staphylococcus aureus
+susceptible,tetracycline,46170.557,Staphylococcus aureus subsp. aureus strain M1KS0088_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1095,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg6,0,Staphylococcus aureus
+susceptible,gentamicin,46170.351,Staphylococcus aureus subsp. aureus strain TW08,0,Staphylococcus aureus
+susceptible,tetracycline,904786.3,Staphylococcus aureus subsp. aureus IS-160,0,Staphylococcus aureus
+resistant,gentamicin,46170.752,Staphylococcus aureus subsp. aureus strain LTF08,1,Staphylococcus aureus
+susceptible,tetracycline,46170.573,Staphylococcus aureus subsp. aureus strain M1KS0265_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.460,Staphylococcus aureus subsp. aureus strain EDCC5464,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1095,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg6,0,Staphylococcus aureus
+susceptible,tetracycline,46170.745,Staphylococcus aureus subsp. aureus strain LTF19,0,Staphylococcus aureus
+susceptible,gentamicin,46170.614,Staphylococcus aureus subsp. aureus strain M6KS0260_3,0,Staphylococcus aureus
+resistant,ampicillin,904782.3,Staphylococcus aureus subsp. aureus IS-111,1,Staphylococcus aureus
+susceptible,gentamicin,46170.365,Staphylococcus aureus subsp. aureus strain TW22,0,Staphylococcus aureus
+susceptible,tetracycline,904799.3,Staphylococcus aureus subsp. aureus CO-49,0,Staphylococcus aureus
+resistant,tetracycline,46170.1122,Staphylococcus aureus subsp. aureus strain Sau54,1,Staphylococcus aureus
+susceptible,gentamicin,46170.617,Staphylococcus aureus subsp. aureus strain M6KS0321_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1178,Staphylococcus aureus subsp. aureus strain ACR3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.611,Staphylococcus aureus subsp. aureus strain M6KS0260_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.752,Staphylococcus aureus subsp. aureus strain LTF08,0,Staphylococcus aureus
+susceptible,tetracycline,46170.588,Staphylococcus aureus subsp. aureus strain M1KS0528_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1136,Staphylococcus aureus subsp. aureus strain RR51,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1175,Staphylococcus aureus subsp. aureus strain ACR40,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.571,Staphylococcus aureus subsp. aureus strain M1KS0260_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.583,Staphylococcus aureus subsp. aureus strain M1KS0501_3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.588,Staphylococcus aureus subsp. aureus strain M1KS0528_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.342,Staphylococcus aureus subsp. aureus strain TW03,0,Staphylococcus aureus
+susceptible,gentamicin,904733.3,Staphylococcus aureus subsp. aureus 21204,0,Staphylococcus aureus
+susceptible,tetracycline,46170.329,Staphylococcus aureus subsp. aureus strain SA14-639,0,Staphylococcus aureus
+susceptible,gentamicin,46170.629,Staphylococcus aureus subsp. aureus strain M6KS0528_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1186,Staphylococcus aureus subsp. aureus strain ABR10,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1148,Staphylococcus aureus subsp. aureus strain QR1130,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.599,Staphylococcus aureus subsp. aureus strain M1KS0584_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.304,Staphylococcus aureus subsp. aureus strain ATCC 6538,0,Staphylococcus aureus
+resistant,gentamicin,46170.597,Staphylococcus aureus subsp. aureus strain M1KS0584_1,1,Staphylococcus aureus
+susceptible,tetracycline,46170.353,Staphylococcus aureus subsp. aureus strain TW11,0,Staphylococcus aureus
+susceptible,gentamicin,46170.348,Staphylococcus aureus subsp. aureus strain TW07_3,0,Staphylococcus aureus
+resistant,tetracycline,46170.1157,Staphylococcus aureus subsp. aureus strain RR1,1,Staphylococcus aureus
+susceptible,tetracycline,46170.622,Staphylococcus aureus subsp. aureus strain M6KS0367_4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1128,Staphylococcus aureus subsp. aureus strain Sau41,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1153,Staphylococcus aureus subsp. aureus strain NCHR53,0,Staphylococcus aureus
+resistant,gentamicin,46170.742,Staphylococcus aureus subsp. aureus strain LTF23,1,Staphylococcus aureus
+susceptible,gentamicin,46170.627,Staphylococcus aureus subsp. aureus strain M6KS0526_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.813,Staphylococcus aureus subsp. aureus strain 23,0,Staphylococcus aureus
+susceptible,tetracycline,46170.597,Staphylococcus aureus subsp. aureus strain M1KS0584_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1178,Staphylococcus aureus subsp. aureus strain ACR3,0,Staphylococcus aureus
+resistant,gentamicin,46170.639,Staphylococcus aureus subsp. aureus strain M6KS0591_2,1,Staphylococcus aureus
+resistant,gentamicin,46170.730,Staphylococcus aureus subsp. aureus strain LTF13,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1089,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.819,Staphylococcus aureus subsp. aureus strain 43,0,Staphylococcus aureus
+susceptible,gentamicin,46170.822,Staphylococcus aureus subsp. aureus strain 16,0,Staphylococcus aureus
+susceptible,gentamicin,46170.498,Staphylococcus aureus subsp. aureus strain NCTC 08532,0,Staphylococcus aureus
+susceptible,tetracycline,46170.570,Staphylococcus aureus subsp. aureus strain M1KS0260_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.601,Staphylococcus aureus subsp. aureus strain M1KS0591_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.357,Staphylococcus aureus subsp. aureus strain TW15,0,Staphylococcus aureus
+susceptible,gentamicin,46170.609,Staphylococcus aureus subsp. aureus strain M6KS0130_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.575,Staphylococcus aureus subsp. aureus strain M1KS0321_2,0,Staphylococcus aureus
+resistant,gentamicin,46170.726,Staphylococcus aureus subsp. aureus strain LTF30,1,Staphylococcus aureus
+susceptible,gentamicin,46170.625,Staphylococcus aureus subsp. aureus strain M6KS0501_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.805,Staphylococcus aureus subsp. aureus strain VB9352,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1094,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1193,Staphylococcus aureus subsp. aureus strain CC1153-MRSA,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1164,Staphylococcus aureus subsp. aureus strain KTR43,0,Staphylococcus aureus
+susceptible,gentamicin,46170.605,Staphylococcus aureus subsp. aureus strain M6KS0088_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1154,Staphylococcus aureus subsp. aureus strain MKR53,0,Staphylococcus aureus
+susceptible,tetracycline,46170.502,Staphylococcus aureus subsp. aureus strain CIT,0,Staphylococcus aureus
+susceptible,tetracycline,46170.303,Staphylococcus aureus subsp. aureus strain UCI 28,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.558,Staphylococcus aureus subsp. aureus strain M1KS0088_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.739,Staphylococcus aureus subsp. aureus strain LTF27,0,Staphylococcus aureus
+resistant,gentamicin,46170.753,Staphylococcus aureus subsp. aureus strain LTF02,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.748,Staphylococcus aureus subsp. aureus strain LTF12,0,Staphylococcus aureus
+susceptible,ciprofloxacin,523796.83,Staphylococcus aureus subsp. aureus ST398 strain 2012-3,0,Staphylococcus aureus
+resistant,tetracycline,46170.808,Staphylococcus aureus subsp. aureus strain 42 (B) strain 42 (B) strain 42 (B),1,Staphylococcus aureus
+resistant,gentamicin,46170.623,Staphylococcus aureus subsp. aureus strain M6KS0391_1,1,Staphylococcus aureus
+susceptible,gentamicin,46170.557,Staphylococcus aureus subsp. aureus strain M1KS0088_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.1157,Staphylococcus aureus subsp. aureus strain RR1,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.641,Staphylococcus aureus subsp. aureus strain M6KS0591_5,0,Staphylococcus aureus
+susceptible,gentamicin,46170.618,Staphylococcus aureus subsp. aureus strain M6KS0321_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.625,Staphylococcus aureus subsp. aureus strain M6KS0501_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.322,Staphylococcus aureus subsp. aureus strain SA10-17,0,Staphylococcus aureus
+susceptible,gentamicin,46170.604,Staphylococcus aureus subsp. aureus strain M6KS0088_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.734,Staphylococcus aureus subsp. aureus strain LTF05,0,Staphylococcus aureus
+resistant,gentamicin,46170.733,Staphylococcus aureus subsp. aureus strain LTF06,1,Staphylococcus aureus
+susceptible,tetracycline,46170.736,Staphylococcus aureus subsp. aureus strain LTF03,0,Staphylococcus aureus
+susceptible,gentamicin,46170.342,Staphylococcus aureus subsp. aureus strain TW03,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1166,Staphylococcus aureus subsp. aureus strain JGR38,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.722,Staphylococcus aureus subsp. aureus strain 80wphwpl,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.319,Staphylococcus aureus subsp. aureus strain SA33924,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1177,Staphylococcus aureus subsp. aureus strain ACR34,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1175,Staphylococcus aureus subsp. aureus strain ACR40,0,Staphylococcus aureus
+susceptible,gentamicin,46170.587,Staphylococcus aureus subsp. aureus strain M1KS0528_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.744,Staphylococcus aureus subsp. aureus strain LTF20,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1119,Staphylococcus aureus subsp. aureus strain Sau57,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.604,Staphylococcus aureus subsp. aureus strain M6KS0088_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1133,Staphylococcus aureus subsp. aureus strain RR7,1,Staphylococcus aureus
+susceptible,tetracycline,46170.616,Staphylococcus aureus subsp. aureus strain M6KS0265_2,0,Staphylococcus aureus
+resistant,gentamicin,46170.1136,Staphylococcus aureus subsp. aureus strain RR51,1,Staphylococcus aureus
+resistant,gentamicin,46170.607,Staphylococcus aureus subsp. aureus strain M6KS0094_2,1,Staphylococcus aureus
+resistant,ciprofloxacin,46170.310,Staphylococcus aureus subsp. aureus strain VB4283,1,Staphylococcus aureus
+susceptible,tetracycline,46170.634,Staphylococcus aureus subsp. aureus strain M6KS0564_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1176,Staphylococcus aureus subsp. aureus strain ACR33,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.608,Staphylococcus aureus subsp. aureus strain M6KS0165_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.628,Staphylococcus aureus subsp. aureus strain M6KS0526_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.581,Staphylococcus aureus subsp. aureus strain M1KS0501_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1159,Staphylococcus aureus subsp. aureus strain LCR11,1,Staphylococcus aureus
+susceptible,ciprofloxacin,561307.22,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+resistant,tetracycline,46170.1183,Staphylococcus aureus subsp. aureus strain ABR29,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1114,Staphylococcus aureus subsp. aureus strain Sau92,0,Staphylococcus aureus
+resistant,gentamicin,46170.1169,Staphylococcus aureus subsp. aureus strain ILR17,1,Staphylococcus aureus
+susceptible,gentamicin,46170.641,Staphylococcus aureus subsp. aureus strain M6KS0591_5,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1134,Staphylococcus aureus subsp. aureus strain RR68,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.726,Staphylococcus aureus subsp. aureus strain LTF30,0,Staphylococcus aureus
+resistant,gentamicin,46170.749,Staphylococcus aureus subsp. aureus strain LTF14,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.344,Staphylococcus aureus subsp. aureus strain TW06,0,Staphylococcus aureus
+susceptible,tetracycline,46170.594,Staphylococcus aureus subsp. aureus strain M1KS0564_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1140,Staphylococcus aureus subsp. aureus strain RR20,1,Staphylococcus aureus
+susceptible,tetracycline,46170.561,Staphylococcus aureus subsp. aureus strain M1KS0094_4,0,Staphylococcus aureus
+resistant,gentamicin,46170.1170,Staphylococcus aureus subsp. aureus strain DR4,1,Staphylococcus aureus
+susceptible,gentamicin,46170.361,Staphylococcus aureus subsp. aureus strain TW19,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1144,Staphylococcus aureus subsp. aureus strain RR111,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.691,Staphylococcus aureus subsp. aureus strain CCUG 35601,0,Staphylococcus aureus
+susceptible,tetracycline,46170.750,Staphylococcus aureus subsp. aureus strain LTF10,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1123,Staphylococcus aureus subsp. aureus strain Sau84,0,Staphylococcus aureus
+susceptible,tetracycline,46170.726,Staphylococcus aureus subsp. aureus strain LTF30,0,Staphylococcus aureus
+susceptible,tetracycline,46170.323,Staphylococcus aureus subsp. aureus strain SA14-118,0,Staphylococcus aureus
+resistant,tetracycline,46170.1114,Staphylococcus aureus subsp. aureus strain Sau92,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1173,Staphylococcus aureus subsp. aureus strain ACR35,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1154,Staphylococcus aureus subsp. aureus strain MKR53,0,Staphylococcus aureus
+susceptible,gentamicin,46170.329,Staphylococcus aureus subsp. aureus strain SA14-639,0,Staphylococcus aureus
+susceptible,tetracycline,46170.304,Staphylococcus aureus subsp. aureus strain ATCC 6538,0,Staphylococcus aureus
+susceptible,gentamicin,561307.27,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+resistant,gentamicin,46170.738,Staphylococcus aureus subsp. aureus strain LTF29,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1120,Staphylococcus aureus subsp. aureus strain Sau62,0,Staphylococcus aureus
+susceptible,tetracycline,46170.608,Staphylococcus aureus subsp. aureus strain M6KS0165_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.573,Staphylococcus aureus subsp. aureus strain M1KS0265_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.461,Staphylococcus aureus subsp. aureus strain EDCC5458,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.563,Staphylococcus aureus subsp. aureus strain M1KS0130_2,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1180,Staphylococcus aureus subsp. aureus strain ACR10,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1184,Staphylococcus aureus subsp. aureus strain ABR102,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1182,Staphylococcus aureus subsp. aureus strain ABR23,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1178,Staphylococcus aureus subsp. aureus strain ACR3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1151,Staphylococcus aureus subsp. aureus strain QR949,0,Staphylococcus aureus
+susceptible,gentamicin,904782.3,Staphylococcus aureus subsp. aureus IS-111,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1187,Staphylococcus aureus subsp. aureus strain SA H27,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1196,Staphylococcus aureus subsp. aureus strain Q85,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.612,Staphylococcus aureus subsp. aureus strain M6KS0176_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.556,Staphylococcus aureus subsp. aureus strain M1KS0073_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.815,Staphylococcus aureus subsp. aureus strain 3 (B) strain 3 (B) strain 3 (B),0,Staphylococcus aureus
+susceptible,tetracycline,46170.1171,Staphylococcus aureus subsp. aureus strain ACR52,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.622,Staphylococcus aureus subsp. aureus strain M6KS0367_4,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1191,Staphylococcus aureus subsp. aureus strain G6 strain SA G6,0,Staphylococcus aureus
+susceptible,gentamicin,46170.356,Staphylococcus aureus subsp. aureus strain TW13,0,Staphylococcus aureus
+resistant,gentamicin,46170.600,Staphylococcus aureus subsp. aureus strain M1KS0591_1,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.303,Staphylococcus aureus subsp. aureus strain UCI 28,0,Staphylococcus aureus
+resistant,gentamicin,46170.1188,Staphylococcus aureus subsp. aureus strain SA H29,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.318,Staphylococcus aureus subsp. aureus strain SA13-192,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1185,Staphylococcus aureus subsp. aureus strain ABR39,0,Staphylococcus aureus
+susceptible,tetracycline,46170.498,Staphylococcus aureus subsp. aureus strain NCTC 08532,0,Staphylococcus aureus
+resistant,gentamicin,46170.570,Staphylococcus aureus subsp. aureus strain M1KS0260_1,1,Staphylococcus aureus
+resistant,gentamicin,46170.745,Staphylococcus aureus subsp. aureus strain LTF19,1,Staphylococcus aureus
+susceptible,tetracycline,46170.595,Staphylococcus aureus subsp. aureus strain M1KS0564_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1151,Staphylococcus aureus subsp. aureus strain QR949,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.559,Staphylococcus aureus subsp. aureus strain M1KS0094_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.572,Staphylococcus aureus subsp. aureus strain M1KS0265_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.614,Staphylococcus aureus subsp. aureus strain M6KS0260_3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.363,Staphylococcus aureus subsp. aureus strain TW20,0,Staphylococcus aureus
+susceptible,tetracycline,46170.619,Staphylococcus aureus subsp. aureus strain M6KS0367_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.353,Staphylococcus aureus subsp. aureus strain TW11,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.321,Staphylococcus aureus subsp. aureus strain SA10-285,0,Staphylococcus aureus
+resistant,gentamicin,46170.809,Staphylococcus aureus subsp. aureus strain 48,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.724,Staphylococcus aureus subsp. aureus strain LTF31,0,Staphylococcus aureus
+susceptible,tetracycline,46170.631,Staphylococcus aureus subsp. aureus strain M6KS0560_1,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.1187,Staphylococcus aureus subsp. aureus strain SA H27,1,Staphylococcus aureus
+susceptible,gentamicin,46170.317,Staphylococcus aureus subsp. aureus strain ISU926,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.751,Staphylococcus aureus subsp. aureus strain LTF09,0,Staphylococcus aureus
+susceptible,gentamicin,46170.355,Staphylococcus aureus subsp. aureus strain TW14,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1128,Staphylococcus aureus subsp. aureus strain Sau41,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.584,Staphylococcus aureus subsp. aureus strain M1KS0526_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.583,Staphylococcus aureus subsp. aureus strain M1KS0501_3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1161,Staphylococcus aureus subsp. aureus strain KTR58,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1195,Staphylococcus aureus subsp. aureus strain Q47,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.820,Staphylococcus aureus subsp. aureus strain 15,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.320,Staphylococcus aureus subsp. aureus strain SA13-246,0,Staphylococcus aureus
+resistant,tetracycline,46170.1147,Staphylococcus aureus subsp. aureus strain RR14,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.574,Staphylococcus aureus subsp. aureus strain M1KS0321_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.584,Staphylococcus aureus subsp. aureus strain M1KS0526_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.590,Staphylococcus aureus subsp. aureus strain M1KS0560_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.591,Staphylococcus aureus subsp. aureus strain M1KS0560_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.746,Staphylococcus aureus subsp. aureus strain LTF18,0,Staphylococcus aureus
+susceptible,gentamicin,46170.338,Staphylococcus aureus subsp. aureus strain ATCC,0,Staphylococcus aureus
+susceptible,tetracycline,46170.558,Staphylococcus aureus subsp. aureus strain M1KS0088_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1172,Staphylococcus aureus subsp. aureus strain ACR36,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.327,Staphylococcus aureus subsp. aureus strain SA33972,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1189,Staphylococcus aureus subsp. aureus strain G8 strain SA G8,0,Staphylococcus aureus
+resistant,gentamicin,46170.635,Staphylococcus aureus subsp. aureus strain M6KS0584_1,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1176,Staphylococcus aureus subsp. aureus strain ACR33,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1094,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.636,Staphylococcus aureus subsp. aureus strain M6KS0584_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.341,Staphylococcus aureus subsp. aureus strain TW02,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1118,Staphylococcus aureus subsp. aureus strain Sau70,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1088,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe4,0,Staphylococcus aureus
+susceptible,tetracycline,46170.568,Staphylococcus aureus subsp. aureus strain M1KS0176_1,0,Staphylococcus aureus
+susceptible,gentamicin,548473.13,Staphylococcus aureus subsp. aureus TCH60 SA-9397,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1089,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1161,Staphylococcus aureus subsp. aureus strain KTR58,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1156,Staphylococcus aureus subsp. aureus strain LCR13,0,Staphylococcus aureus
+susceptible,tetracycline,46170.818,Staphylococcus aureus subsp. aureus strain 40,0,Staphylococcus aureus
+susceptible,tetracycline,46170.609,Staphylococcus aureus subsp. aureus strain M6KS0130_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.329,Staphylococcus aureus subsp. aureus strain SA14-639,0,Staphylococcus aureus
+susceptible,tetracycline,46170.625,Staphylococcus aureus subsp. aureus strain M6KS0501_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1132,Staphylococcus aureus subsp. aureus strain RR8,1,Staphylococcus aureus
+resistant,gentamicin,46170.634,Staphylococcus aureus subsp. aureus strain M6KS0564_2,1,Staphylococcus aureus
+susceptible,tetracycline,46170.751,Staphylococcus aureus subsp. aureus strain LTF09,0,Staphylococcus aureus
+susceptible,tetracycline,904733.3,Staphylococcus aureus subsp. aureus 21204,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.338,Staphylococcus aureus subsp. aureus strain ATCC,0,Staphylococcus aureus
+susceptible,tetracycline,46170.730,Staphylococcus aureus subsp. aureus strain LTF13,0,Staphylococcus aureus
+susceptible,gentamicin,46170.630,Staphylococcus aureus subsp. aureus strain M6KS0528_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.354,Staphylococcus aureus subsp. aureus strain TW12,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.1082,Staphylococcus aureus subsp. aureus strain EDCC5398,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1114,Staphylococcus aureus subsp. aureus strain Sau92,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.606,Staphylococcus aureus subsp. aureus strain M6KS0094_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.739,Staphylococcus aureus subsp. aureus strain LTF27,1,Staphylococcus aureus
+susceptible,tetracycline,46170.364,Staphylococcus aureus subsp. aureus strain TW21,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.1251,Staphylococcus aureus subsp. aureus PartE-Saureus-RM8376,1,Staphylococcus aureus
+resistant,gentamicin,46170.1122,Staphylococcus aureus subsp. aureus strain Sau54,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1146,Staphylococcus aureus subsp. aureus strain RR107,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1147,Staphylococcus aureus subsp. aureus strain RR14,0,Staphylococcus aureus
+resistant,tetracycline,46170.691,Staphylococcus aureus subsp. aureus strain CCUG 35601,1,Staphylococcus aureus
+resistant,tetracycline,46170.1141,Staphylococcus aureus subsp. aureus strain RR19,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1024,Staphylococcus aureus subsp. aureus strain murR6,0,Staphylococcus aureus
+susceptible,gentamicin,46170.369,Staphylococcus aureus subsp. aureus UAMS-1,0,Staphylococcus aureus
+susceptible,gentamicin,1330461.3,Staphylococcus aureus subsp. aureus SA8601,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1145,Staphylococcus aureus subsp. aureus strain RR13,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.570,Staphylococcus aureus subsp. aureus strain M1KS0260_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.819,Staphylococcus aureus subsp. aureus strain 43,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1143,Staphylococcus aureus subsp. aureus strain RR105,0,Staphylococcus aureus
+susceptible,tetracycline,46170.753,Staphylococcus aureus subsp. aureus strain LTF02,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1127,Staphylococcus aureus subsp. aureus strain Sau116,0,Staphylococcus aureus
+susceptible,gentamicin,46170.619,Staphylococcus aureus subsp. aureus strain M6KS0367_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.347,Staphylococcus aureus subsp. aureus strain TW07_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.563,Staphylococcus aureus subsp. aureus strain M1KS0130_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.325,Staphylococcus aureus subsp. aureus strain SA14-265,1,Staphylococcus aureus
+susceptible,ciprofloxacin,523796.84,Staphylococcus aureus subsp. aureus ST398 2012-3,0,Staphylococcus aureus
+resistant,gentamicin,46170.808,Staphylococcus aureus subsp. aureus strain 42 (B) strain 42 (B) strain 42 (B),1,Staphylococcus aureus
+susceptible,gentamicin,426430.63,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,tetracycline,46170.618,Staphylococcus aureus subsp. aureus strain M6KS0321_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.728,Staphylococcus aureus subsp. aureus strain LTF17,0,Staphylococcus aureus
+resistant,gentamicin,46170.598,Staphylococcus aureus subsp. aureus strain M1KS0584_4,1,Staphylococcus aureus
+resistant,gentamicin,46170.602,Staphylococcus aureus subsp. aureus strain M6KS0073_1,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.353,Staphylococcus aureus subsp. aureus strain TW11,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.749,Staphylococcus aureus subsp. aureus strain LTF14,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1192,Staphylococcus aureus subsp. aureus strain SA G5,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.410,Staphylococcus aureus subsp. aureus strain SR411,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.607,Staphylococcus aureus subsp. aureus strain M6KS0094_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,523796.82,Staphylococcus aureus subsp. aureus ST398 strain 2012-3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1112,Staphylococcus aureus subsp. aureus strain sta1676,0,Staphylococcus aureus
+susceptible,tetracycline,46170.816,Staphylococcus aureus subsp. aureus strain 19,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.502,Staphylococcus aureus subsp. aureus strain CIT,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1142,Staphylococcus aureus subsp. aureus strain RR17,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1170,Staphylococcus aureus subsp. aureus strain DR4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1180,Staphylococcus aureus subsp. aureus strain ACR10,0,Staphylococcus aureus
+susceptible,tetracycline,46170.604,Staphylococcus aureus subsp. aureus strain M6KS0088_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.613,Staphylococcus aureus subsp. aureus strain M6KS0260_2,1,Staphylococcus aureus
+susceptible,gentamicin,46170.722,Staphylococcus aureus subsp. aureus strain 80wphwpl,0,Staphylococcus aureus
+resistant,tetracycline,46170.322,Staphylococcus aureus subsp. aureus strain SA10-17,1,Staphylococcus aureus
+resistant,gentamicin,46170.1181,Staphylococcus aureus subsp. aureus strain ACR14,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1126,Staphylococcus aureus subsp. aureus strain RR97,0,Staphylococcus aureus
+susceptible,gentamicin,904779.3,Staphylococcus aureus subsp. aureus IS-91,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.357,Staphylococcus aureus subsp. aureus strain TW15,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.816,Staphylococcus aureus subsp. aureus strain 19,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1082,Staphylococcus aureus subsp. aureus strain EDCC5398,0,Staphylococcus aureus
+susceptible,tetracycline,46170.601,Staphylococcus aureus subsp. aureus strain M1KS0591_2,0,Staphylococcus aureus
+susceptible,gentamicin,523796.84,Staphylococcus aureus subsp. aureus ST398 2012-3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.581,Staphylococcus aureus subsp. aureus strain M1KS0501_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1131,Staphylococcus aureus subsp. aureus strain RR96,1,Staphylococcus aureus
+susceptible,tetracycline,46170.731,Staphylococcus aureus subsp. aureus strain LTF11,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.634,Staphylococcus aureus subsp. aureus strain M6KS0564_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.572,Staphylococcus aureus subsp. aureus strain M1KS0265_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.354,Staphylococcus aureus subsp. aureus strain TW12,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1090,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe2,0,Staphylococcus aureus
+resistant,tetracycline,46170.327,Staphylococcus aureus subsp. aureus strain SA33972,1,Staphylococcus aureus
+susceptible,gentamicin,46170.590,Staphylococcus aureus subsp. aureus strain M1KS0560_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.1166,Staphylococcus aureus subsp. aureus strain JGR38,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1188,Staphylococcus aureus subsp. aureus strain SA H29,0,Staphylococcus aureus
+resistant,gentamicin,46170.1135,Staphylococcus aureus subsp. aureus strain RR5,1,Staphylococcus aureus
+susceptible,gentamicin,1330459.3,Staphylococcus aureus subsp. aureus SA9908,0,Staphylococcus aureus
+susceptible,ciprofloxacin,1330459.3,Staphylococcus aureus subsp. aureus SA9908,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1081,Staphylococcus aureus subsp. aureus strain HL20709,0,Staphylococcus aureus
+susceptible,gentamicin,46170.303,Staphylococcus aureus subsp. aureus strain UCI 28,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.349,Staphylococcus aureus subsp. aureus strain TW07_4,0,Staphylococcus aureus
+resistant,gentamicin,46170.751,Staphylococcus aureus subsp. aureus strain LTF09,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.577,Staphylococcus aureus subsp. aureus strain M1KS0367_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.725,Staphylococcus aureus subsp. aureus strain LTF24,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1168,Staphylococcus aureus subsp. aureus strain ILR37,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1164,Staphylococcus aureus subsp. aureus strain KTR43,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1134,Staphylococcus aureus subsp. aureus strain RR68,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1128,Staphylococcus aureus subsp. aureus strain Sau41,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.638,Staphylococcus aureus subsp. aureus strain M6KS0591_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.621,Staphylococcus aureus subsp. aureus strain M6KS0367_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1197,Staphylococcus aureus subsp. aureus strain Q37,1,Staphylococcus aureus
+susceptible,gentamicin,46170.346,Staphylococcus aureus subsp. aureus strain TW07_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.603,Staphylococcus aureus subsp. aureus strain M6KS0073_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1159,Staphylococcus aureus subsp. aureus strain LCR11,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1190,Staphylococcus aureus subsp. aureus strain H32 strain SA H32,0,Staphylococcus aureus
+susceptible,ciprofloxacin,426430.24,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,tetracycline,46170.611,Staphylococcus aureus subsp. aureus strain M6KS0260_1,0,Staphylococcus aureus
+resistant,gentamicin,904741.3,Staphylococcus aureus subsp. aureus 21248,1,Staphylococcus aureus
+resistant,gentamicin,46170.741,Staphylococcus aureus subsp. aureus strain LTF26,1,Staphylococcus aureus
+susceptible,tetracycline,46170.359,Staphylococcus aureus subsp. aureus strain TW18,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.633,Staphylococcus aureus subsp. aureus strain M6KS0564_1,0,Staphylococcus aureus
+susceptible,gentamicin,1330460.3,Staphylococcus aureus subsp. aureus SA5211,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1163,Staphylococcus aureus subsp. aureus strain JGR69,0,Staphylococcus aureus
+resistant,tetracycline,46170.1168,Staphylococcus aureus subsp. aureus strain ILR37,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1025,Staphylococcus aureus subsp. aureus strain cntA52,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.623,Staphylococcus aureus subsp. aureus strain M6KS0391_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.581,Staphylococcus aureus subsp. aureus strain M1KS0501_2,0,Staphylococcus aureus
+resistant,gentamicin,904784.3,Staphylococcus aureus subsp. aureus IS-125,1,Staphylococcus aureus
+susceptible,tetracycline,46170.813,Staphylococcus aureus subsp. aureus strain 23,0,Staphylococcus aureus
+resistant,gentamicin,46170.734,Staphylococcus aureus subsp. aureus strain LTF05,1,Staphylococcus aureus
+resistant,gentamicin,46170.691,Staphylococcus aureus subsp. aureus strain CCUG 35601,1,Staphylococcus aureus
+susceptible,tetracycline,46170.348,Staphylococcus aureus subsp. aureus strain TW07_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.824,Staphylococcus aureus subsp. aureus strain ATCC 12600,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1163,Staphylococcus aureus subsp. aureus strain JGR69,0,Staphylococcus aureus
+susceptible,gentamicin,46170.325,Staphylococcus aureus subsp. aureus strain SA14-265,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1151,Staphylococcus aureus subsp. aureus strain QR949,0,Staphylococcus aureus
+susceptible,tetracycline,46170.305,Staphylococcus aureus subsp. aureus strain USA300_SUR1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.555,Staphylococcus aureus subsp. aureus strain M1KS0073_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1186,Staphylococcus aureus subsp. aureus strain ABR10,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1083,Staphylococcus aureus subsp. aureus strain Dresden-275757,0,Staphylococcus aureus
+susceptible,gentamicin,46170.321,Staphylococcus aureus subsp. aureus strain SA10-285,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.348,Staphylococcus aureus subsp. aureus strain TW07_3,0,Staphylococcus aureus
+resistant,tetracycline,46170.1162,Staphylococcus aureus subsp. aureus strain KTR35,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1140,Staphylococcus aureus subsp. aureus strain RR20,0,Staphylococcus aureus
+susceptible,tetracycline,46170.630,Staphylococcus aureus subsp. aureus strain M6KS0528_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1155,Staphylococcus aureus subsp. aureus strain MKR4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.304,Staphylococcus aureus subsp. aureus strain ATCC 6538,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.501,Staphylococcus aureus subsp. aureus strain CAR,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1147,Staphylococcus aureus subsp. aureus strain RR14,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.639,Staphylococcus aureus subsp. aureus strain M6KS0591_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1137,Staphylococcus aureus subsp. aureus strain RR62,0,Staphylococcus aureus
+susceptible,ciprofloxacin,93061.132,Staphylococcus aureus subsp. aureus NCTC 8325 strain NCTC8325,0,Staphylococcus aureus
+susceptible,gentamicin,46170.502,Staphylococcus aureus subsp. aureus strain CIT,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1112,Staphylococcus aureus subsp. aureus strain sta1676,0,Staphylococcus aureus
+resistant,gentamicin,1330462.3,Staphylococcus aureus subsp. aureus SA9080,1,Staphylococcus aureus
+resistant,tetracycline,46170.1098,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg3,1,Staphylococcus aureus
+susceptible,tetracycline,46170.749,Staphylococcus aureus subsp. aureus strain LTF14,0,Staphylococcus aureus
+resistant,gentamicin,46170.1118,Staphylococcus aureus subsp. aureus strain Sau70,1,Staphylococcus aureus
+susceptible,tetracycline,46170.638,Staphylococcus aureus subsp. aureus strain M6KS0591_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1197,Staphylococcus aureus subsp. aureus strain Q37,0,Staphylococcus aureus
+susceptible,tetracycline,46170.328,Staphylococcus aureus subsp. aureus strain SA11-192,0,Staphylococcus aureus
+susceptible,tetracycline,46170.345,Staphylococcus aureus subsp. aureus strain TW05,0,Staphylococcus aureus
+susceptible,tetracycline,46170.596,Staphylococcus aureus subsp. aureus strain M1KS0564_3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1025,Staphylococcus aureus subsp. aureus strain cntA52,0,Staphylococcus aureus
+resistant,gentamicin,46170.737,Staphylococcus aureus subsp. aureus strain LTF32,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.323,Staphylococcus aureus subsp. aureus strain SA14-118,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1124,Staphylococcus aureus subsp. aureus strain Sau100,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.562,Staphylococcus aureus subsp. aureus strain M1KS0130_1,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.617,Staphylococcus aureus subsp. aureus strain M6KS0321_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.589,Staphylococcus aureus subsp. aureus strain M1KS0528_4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,1330462.3,Staphylococcus aureus subsp. aureus SA9080,0,Staphylococcus aureus
+susceptible,tetracycline,46170.754,Staphylococcus aureus subsp. aureus strain LTF01,0,Staphylococcus aureus
+susceptible,tetracycline,46170.606,Staphylococcus aureus subsp. aureus strain M6KS0094_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1082,Staphylococcus aureus subsp. aureus strain EDCC5398,0,Staphylococcus aureus
+susceptible,ciprofloxacin,93062.74,Staphylococcus aureus subsp. aureus COL,0,Staphylococcus aureus
+susceptible,gentamicin,93062.74,Staphylococcus aureus subsp. aureus COL,0,Staphylococcus aureus
+resistant,ciprofloxacin,367830.75,Staphylococcus aureus subsp. aureus USA300 strain NRS384 strain USA300 NRS384,1,Staphylococcus aureus
+susceptible,gentamicin,93061.132,Staphylococcus aureus subsp. aureus NCTC 8325 strain NCTC8325,0,Staphylococcus aureus
+resistant,gentamicin,46170.1251,Staphylococcus aureus subsp. aureus PartE-Saureus-RM8376,1,Staphylococcus aureus
+susceptible,tetracycline,46170.564,Staphylococcus aureus subsp. aureus strain M1KS0165_3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1144,Staphylococcus aureus subsp. aureus strain RR111,0,Staphylococcus aureus
+resistant,tetracycline,46170.1120,Staphylococcus aureus subsp. aureus strain Sau62,1,Staphylococcus aureus
+susceptible,tetracycline,46170.579,Staphylococcus aureus subsp. aureus strain M1KS0391_2,0,Staphylococcus aureus
+resistant,ciprofloxacin,904787.3,Staphylococcus aureus subsp. aureus IS-189,1,Staphylococcus aureus
+resistant,gentamicin,46170.1164,Staphylococcus aureus subsp. aureus strain KTR43,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1091,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe5,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.735,Staphylococcus aureus subsp. aureus strain LTF04,0,Staphylococcus aureus
+resistant,gentamicin,46170.750,Staphylococcus aureus subsp. aureus strain LTF10,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1092,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg4,0,Staphylococcus aureus
+resistant,tetracycline,46170.1116,Staphylococcus aureus subsp. aureus strain Sau80,1,Staphylococcus aureus
+susceptible,tetracycline,904800.3,Staphylococcus aureus subsp. aureus CO-85,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.556,Staphylococcus aureus subsp. aureus strain M1KS0073_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.747,Staphylococcus aureus subsp. aureus strain LTF15,0,Staphylococcus aureus
+resistant,gentamicin,46170.823,Staphylococcus aureus subsp. aureus strain 3 (A) strain 3 (A) strain 3 (A),1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.630,Staphylococcus aureus subsp. aureus strain M6KS0528_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.741,Staphylococcus aureus subsp. aureus strain LTF26,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.823,Staphylococcus aureus subsp. aureus strain 3 (A) strain 3 (A) strain 3 (A),0,Staphylococcus aureus
+resistant,tetracycline,46170.1169,Staphylococcus aureus subsp. aureus strain ILR17,1,Staphylococcus aureus
+susceptible,tetracycline,46170.360,Staphylococcus aureus subsp. aureus strain TW16,0,Staphylococcus aureus
+susceptible,tetracycline,46170.357,Staphylococcus aureus subsp. aureus strain TW15,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1125,Staphylococcus aureus subsp. aureus strain Sau102,0,Staphylococcus aureus
+susceptible,tetracycline,46170.326,Staphylococcus aureus subsp. aureus strain SA14-613,0,Staphylococcus aureus
+susceptible,tetracycline,46170.587,Staphylococcus aureus subsp. aureus strain M1KS0528_2,0,Staphylococcus aureus
+resistant,gentamicin,46170.1171,Staphylococcus aureus subsp. aureus strain ACR52,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1090,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1097,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.566,Staphylococcus aureus subsp. aureus strain M1KS0165_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.557,Staphylococcus aureus subsp. aureus strain M1KS0088_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.743,Staphylococcus aureus subsp. aureus strain LTF22,0,Staphylococcus aureus
+susceptible,tetracycline,46170.642,Staphylococcus aureus subsp. aureus strain M1KS0094_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1182,Staphylococcus aureus subsp. aureus strain ABR23,1,Staphylococcus aureus
+resistant,gentamicin,46170.1184,Staphylococcus aureus subsp. aureus strain ABR102,1,Staphylococcus aureus
+susceptible,gentamicin,46170.615,Staphylococcus aureus subsp. aureus strain M6KS0265_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.619,Staphylococcus aureus subsp. aureus strain M6KS0367_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.580,Staphylococcus aureus subsp. aureus strain M1KS0501_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.582,Staphylococcus aureus subsp. aureus strain M1KS0526_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.638,Staphylococcus aureus subsp. aureus strain M6KS0591_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1126,Staphylococcus aureus subsp. aureus strain RR97,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1129,Staphylococcus aureus subsp. aureus strain Sau122,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1196,Staphylococcus aureus subsp. aureus strain Q85,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1085,Staphylococcus aureus subsp. aureus strain Oerebro-086360,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1094,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1115,Staphylococcus aureus subsp. aureus strain Sau95,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1081,Staphylococcus aureus subsp. aureus strain HL20709,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.745,Staphylococcus aureus subsp. aureus strain LTF19,0,Staphylococcus aureus
+susceptible,gentamicin,46170.577,Staphylococcus aureus subsp. aureus strain M1KS0367_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.345,Staphylococcus aureus subsp. aureus strain TW05,0,Staphylococcus aureus
+susceptible,tetracycline,46170.591,Staphylococcus aureus subsp. aureus strain M1KS0560_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.820,Staphylococcus aureus subsp. aureus strain 15,1,Staphylococcus aureus
+resistant,tetracycline,46170.1142,Staphylococcus aureus subsp. aureus strain RR17,1,Staphylococcus aureus
+susceptible,gentamicin,46170.558,Staphylococcus aureus subsp. aureus strain M1KS0088_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.576,Staphylococcus aureus subsp. aureus strain M1KS0367_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.807,Staphylococcus aureus subsp. aureus strain WCUH29,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1113,Staphylococcus aureus subsp. aureus strain sta1645,0,Staphylococcus aureus
+susceptible,gentamicin,46170.320,Staphylococcus aureus subsp. aureus strain SA13-246,0,Staphylococcus aureus
+susceptible,tetracycline,46170.350,Staphylococcus aureus subsp. aureus strain TW09,0,Staphylococcus aureus
+susceptible,gentamicin,46170.626,Staphylococcus aureus subsp. aureus strain M6KS0501_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1196,Staphylococcus aureus subsp. aureus strain Q85,0,Staphylococcus aureus
+susceptible,gentamicin,46170.580,Staphylococcus aureus subsp. aureus strain M1KS0501_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.624,Staphylococcus aureus subsp. aureus strain M6KS0391_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.580,Staphylococcus aureus subsp. aureus strain M1KS0501_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1189,Staphylococcus aureus subsp. aureus strain G8 strain SA G8,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1142,Staphylococcus aureus subsp. aureus strain RR17,0,Staphylococcus aureus
+susceptible,tetracycline,46170.576,Staphylococcus aureus subsp. aureus strain M1KS0367_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.815,Staphylococcus aureus subsp. aureus strain 3 (B) strain 3 (B) strain 3 (B),0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.579,Staphylococcus aureus subsp. aureus strain M1KS0391_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.369,Staphylococcus aureus subsp. aureus UAMS-1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1161,Staphylococcus aureus subsp. aureus strain KTR58,1,Staphylococcus aureus
+susceptible,gentamicin,46170.642,Staphylococcus aureus subsp. aureus strain M1KS0094_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,904784.3,Staphylococcus aureus subsp. aureus IS-125,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1141,Staphylococcus aureus subsp. aureus strain RR19,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1179,Staphylococcus aureus subsp. aureus strain ACR15,0,Staphylococcus aureus
+susceptible,gentamicin,46170.810,Staphylococcus aureus subsp. aureus strain 41,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1156,Staphylococcus aureus subsp. aureus strain LCR13,0,Staphylococcus aureus
+resistant,gentamicin,46170.807,Staphylococcus aureus subsp. aureus strain WCUH29,1,Staphylococcus aureus
+susceptible,tetracycline,46170.614,Staphylococcus aureus subsp. aureus strain M6KS0260_3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1133,Staphylococcus aureus subsp. aureus strain RR7,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.356,Staphylococcus aureus subsp. aureus strain TW13,0,Staphylococcus aureus
+susceptible,tetracycline,46170.589,Staphylococcus aureus subsp. aureus strain M1KS0528_4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1158,Staphylococcus aureus subsp. aureus strain MKR24,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.603,Staphylococcus aureus subsp. aureus strain M6KS0073_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.562,Staphylococcus aureus subsp. aureus strain M1KS0130_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.731,Staphylococcus aureus subsp. aureus strain LTF11,1,Staphylococcus aureus
+susceptible,tetracycline,46170.635,Staphylococcus aureus subsp. aureus strain M6KS0584_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1145,Staphylococcus aureus subsp. aureus strain RR13,0,Staphylococcus aureus
+resistant,tetracycline,46170.1115,Staphylococcus aureus subsp. aureus strain Sau95,1,Staphylococcus aureus
+susceptible,gentamicin,46170.341,Staphylococcus aureus subsp. aureus strain TW02,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.734,Staphylococcus aureus subsp. aureus strain LTF05,0,Staphylococcus aureus
+resistant,gentamicin,46170.578,Staphylococcus aureus subsp. aureus strain M1KS0391_1,1,Staphylococcus aureus
+susceptible,gentamicin,46170.620,Staphylococcus aureus subsp. aureus strain M6KS0367_3,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.609,Staphylococcus aureus subsp. aureus strain M6KS0130_1,1,Staphylococcus aureus
+susceptible,gentamicin,46170.410,Staphylococcus aureus subsp. aureus strain SR411,0,Staphylococcus aureus
+susceptible,tetracycline,46170.567,Staphylococcus aureus subsp. aureus strain M1KS0165_4,0,Staphylococcus aureus
+resistant,gentamicin,46170.1138,Staphylococcus aureus subsp. aureus strain RR34,1,Staphylococcus aureus
+susceptible,gentamicin,46170.561,Staphylococcus aureus subsp. aureus strain M1KS0094_4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.344,Staphylococcus aureus subsp. aureus strain TW06,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1195,Staphylococcus aureus subsp. aureus strain Q47,0,Staphylococcus aureus
+susceptible,gentamicin,46170.569,Staphylococcus aureus subsp. aureus strain M1KS0176_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.824,Staphylococcus aureus subsp. aureus strain ATCC 12600,0,Staphylococcus aureus
+susceptible,tetracycline,46170.565,Staphylococcus aureus subsp. aureus strain M1KS0165_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.591,Staphylococcus aureus subsp. aureus strain M1KS0560_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1251,Staphylococcus aureus subsp. aureus PartE-Saureus-RM8376,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.363,Staphylococcus aureus subsp. aureus strain TW20,0,Staphylococcus aureus
+susceptible,tetracycline,46170.578,Staphylococcus aureus subsp. aureus strain M1KS0391_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.305,Staphylococcus aureus subsp. aureus strain USA300_SUR1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1197,Staphylococcus aureus subsp. aureus strain Q37,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1113,Staphylococcus aureus subsp. aureus strain sta1645,0,Staphylococcus aureus
+susceptible,tetracycline,46170.340,Staphylococcus aureus subsp. aureus strain TW01_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.322,Staphylococcus aureus subsp. aureus strain SA10-17,0,Staphylococcus aureus
+susceptible,gentamicin,426430.24,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+resistant,tetracycline,46170.1163,Staphylococcus aureus subsp. aureus strain JGR69,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.739,Staphylococcus aureus subsp. aureus strain LTF27,0,Staphylococcus aureus
+susceptible,ciprofloxacin,548473.13,Staphylococcus aureus subsp. aureus TCH60 SA-9397,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1117,Staphylococcus aureus subsp. aureus strain Sau73,0,Staphylococcus aureus
+susceptible,tetracycline,46170.733,Staphylococcus aureus subsp. aureus strain LTF06,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1159,Staphylococcus aureus subsp. aureus strain LCR11,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1131,Staphylococcus aureus subsp. aureus strain RR96,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.723,Staphylococcus aureus subsp. aureus strain LTF25,0,Staphylococcus aureus
+resistant,tetracycline,46170.1175,Staphylococcus aureus subsp. aureus strain ACR40,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.613,Staphylococcus aureus subsp. aureus strain M6KS0260_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1173,Staphylococcus aureus subsp. aureus strain ACR35,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.806,Staphylococcus aureus subsp. aureus strain VB31683,1,Staphylococcus aureus
+susceptible,tetracycline,46170.621,Staphylococcus aureus subsp. aureus strain M6KS0367_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.559,Staphylococcus aureus subsp. aureus strain M1KS0094_1,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1135,Staphylococcus aureus subsp. aureus strain RR5,0,Staphylococcus aureus
+susceptible,gentamicin,523796.83,Staphylococcus aureus subsp. aureus ST398 strain 2012-3,0,Staphylococcus aureus
+resistant,tetracycline,46170.1089,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe3,1,Staphylococcus aureus
+susceptible,gentamicin,46170.327,Staphylococcus aureus subsp. aureus strain SA33972,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.621,Staphylococcus aureus subsp. aureus strain M6KS0367_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.737,Staphylococcus aureus subsp. aureus strain LTF32,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.567,Staphylococcus aureus subsp. aureus strain M1KS0165_4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.318,Staphylococcus aureus subsp. aureus strain SA13-192,0,Staphylococcus aureus
+susceptible,gentamicin,46170.584,Staphylococcus aureus subsp. aureus strain M1KS0526_2,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.1189,Staphylococcus aureus subsp. aureus strain G8 strain SA G8,1,Staphylococcus aureus
+susceptible,tetracycline,46170.339,Staphylococcus aureus subsp. aureus strain TW01,0,Staphylococcus aureus
+susceptible,tetracycline,46170.560,Staphylococcus aureus subsp. aureus strain M1KS0094_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.811,Staphylococcus aureus subsp. aureus strain 6 (A) strain 6 (A) strain 6 (A),0,Staphylococcus aureus
+resistant,gentamicin,46170.728,Staphylococcus aureus subsp. aureus strain LTF17,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.326,Staphylococcus aureus subsp. aureus strain SA14-613,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.566,Staphylococcus aureus subsp. aureus strain M1KS0165_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.561,Staphylococcus aureus subsp. aureus strain M1KS0094_4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.620,Staphylococcus aureus subsp. aureus strain M6KS0367_3,0,Staphylococcus aureus
+susceptible,tetracycline,548473.13,Staphylococcus aureus subsp. aureus TCH60 SA-9397,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.345,Staphylococcus aureus subsp. aureus strain TW05,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.585,Staphylococcus aureus subsp. aureus strain M1KS0526_3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.573,Staphylococcus aureus subsp. aureus strain M1KS0265_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.750,Staphylococcus aureus subsp. aureus strain LTF10,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1173,Staphylococcus aureus subsp. aureus strain ACR35,0,Staphylococcus aureus
+resistant,gentamicin,46170.1117,Staphylococcus aureus subsp. aureus strain Sau73,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1024,Staphylococcus aureus subsp. aureus strain murR6,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1137,Staphylococcus aureus subsp. aureus strain RR62,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1024,Staphylococcus aureus subsp. aureus strain murR6,0,Staphylococcus aureus
+susceptible,tetracycline,46170.569,Staphylococcus aureus subsp. aureus strain M1KS0176_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.461,Staphylococcus aureus subsp. aureus strain EDCC5458,0,Staphylococcus aureus
+susceptible,gentamicin,46170.610,Staphylococcus aureus subsp. aureus strain M6KS0165_2,0,Staphylococcus aureus
+resistant,gentamicin,46170.754,Staphylococcus aureus subsp. aureus strain LTF01,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1152,Staphylococcus aureus subsp. aureus strain NCHR52,0,Staphylococcus aureus
+susceptible,gentamicin,904785.3,Staphylococcus aureus subsp. aureus IS-157,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.808,Staphylococcus aureus subsp. aureus strain 42 (B) strain 42 (B) strain 42 (B),1,Staphylococcus aureus
+susceptible,tetracycline,46170.1176,Staphylococcus aureus subsp. aureus strain ACR33,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.809,Staphylococcus aureus subsp. aureus strain 48,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1126,Staphylococcus aureus subsp. aureus strain RR97,0,Staphylococcus aureus
+resistant,tetracycline,46170.1130,Staphylococcus aureus subsp. aureus strain Sau114,1,Staphylococcus aureus
+resistant,gentamicin,46170.636,Staphylococcus aureus subsp. aureus strain M6KS0584_2,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1086,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1172,Staphylococcus aureus subsp. aureus strain ACR36,0,Staphylococcus aureus
+susceptible,tetracycline,46170.610,Staphylococcus aureus subsp. aureus strain M6KS0165_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.409,Staphylococcus aureus subsp. aureus strain SR389,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.610,Staphylococcus aureus subsp. aureus strain M6KS0165_2,0,Staphylococcus aureus
+susceptible,tetracycline,904792.3,Staphylococcus aureus subsp. aureus IS-M,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.730,Staphylococcus aureus subsp. aureus strain LTF13,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1152,Staphylococcus aureus subsp. aureus strain NCHR52,0,Staphylococcus aureus
+susceptible,ciprofloxacin,561307.27,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,gentamicin,46170.567,Staphylococcus aureus subsp. aureus strain M1KS0165_4,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1167,Staphylococcus aureus subsp. aureus strain ILR76,0,Staphylococcus aureus
+resistant,gentamicin,46170.814,Staphylococcus aureus subsp. aureus strain 50,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.753,Staphylococcus aureus subsp. aureus strain LTF02,0,Staphylococcus aureus
+susceptible,gentamicin,904800.3,Staphylococcus aureus subsp. aureus CO-85,0,Staphylococcus aureus
+susceptible,gentamicin,46170.571,Staphylococcus aureus subsp. aureus strain M1KS0260_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1138,Staphylococcus aureus subsp. aureus strain RR34,0,Staphylococcus aureus
+resistant,tetracycline,46170.317,Staphylococcus aureus subsp. aureus strain ISU926,1,Staphylococcus aureus
+resistant,gentamicin,46170.732,Staphylococcus aureus subsp. aureus strain LTF07,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.631,Staphylococcus aureus subsp. aureus strain M6KS0560_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.352,Staphylococcus aureus subsp. aureus strain TW10,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.595,Staphylococcus aureus subsp. aureus strain M1KS0564_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.585,Staphylococcus aureus subsp. aureus strain M1KS0526_3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.637,Staphylococcus aureus subsp. aureus strain M6KS0584_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.746,Staphylococcus aureus subsp. aureus strain LTF18,0,Staphylococcus aureus
+resistant,gentamicin,46170.812,Staphylococcus aureus subsp. aureus strain 42,1,Staphylococcus aureus
+resistant,tetracycline,46170.1118,Staphylococcus aureus subsp. aureus strain Sau70,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.598,Staphylococcus aureus subsp. aureus strain M1KS0584_4,0,Staphylococcus aureus
+susceptible,tetracycline,46170.319,Staphylococcus aureus subsp. aureus strain SA33924,0,Staphylococcus aureus
+susceptible,gentamicin,46170.565,Staphylococcus aureus subsp. aureus strain M1KS0165_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.362,Staphylococcus aureus subsp. aureus strain TW17,0,Staphylococcus aureus
+susceptible,gentamicin,46170.460,Staphylococcus aureus subsp. aureus strain EDCC5464,0,Staphylococcus aureus
+susceptible,tetracycline,46170.352,Staphylococcus aureus subsp. aureus strain TW10,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1177,Staphylococcus aureus subsp. aureus strain ACR34,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1135,Staphylococcus aureus subsp. aureus strain RR5,0,Staphylococcus aureus
+susceptible,tetracycline,1330460.3,Staphylococcus aureus subsp. aureus SA5211,0,Staphylococcus aureus
+resistant,ciprofloxacin,904792.3,Staphylococcus aureus subsp. aureus IS-M,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1121,Staphylococcus aureus subsp. aureus strain Sau56,0,Staphylococcus aureus
+susceptible,ciprofloxacin,904801.3,Staphylococcus aureus subsp. aureus CO-86,0,Staphylococcus aureus
+susceptible,tetracycline,1330462.3,Staphylococcus aureus subsp. aureus SA9080,0,Staphylococcus aureus
+susceptible,gentamicin,904792.3,Staphylococcus aureus subsp. aureus IS-M,0,Staphylococcus aureus
+susceptible,tetracycline,46170.410,Staphylococcus aureus subsp. aureus strain SR411,0,Staphylococcus aureus
+susceptible,gentamicin,46170.343,Staphylococcus aureus subsp. aureus strain TW04,0,Staphylococcus aureus
+resistant,gentamicin,46170.748,Staphylococcus aureus subsp. aureus strain LTF12,1,Staphylococcus aureus
+susceptible,gentamicin,46170.631,Staphylococcus aureus subsp. aureus strain M6KS0560_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.343,Staphylococcus aureus subsp. aureus strain TW04,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.499,Staphylococcus aureus subsp. aureus strain SA75,0,Staphylococcus aureus
+susceptible,tetracycline,46170.409,Staphylococcus aureus subsp. aureus strain SR389,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1155,Staphylococcus aureus subsp. aureus strain MKR4,0,Staphylococcus aureus
+resistant,gentamicin,46170.1191,Staphylococcus aureus subsp. aureus strain G6 strain SA G6,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1083,Staphylococcus aureus subsp. aureus strain Dresden-275757,0,Staphylococcus aureus
+susceptible,tetracycline,46170.636,Staphylococcus aureus subsp. aureus strain M6KS0584_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.642,Staphylococcus aureus subsp. aureus strain M1KS0094_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.822,Staphylococcus aureus subsp. aureus strain 16,0,Staphylococcus aureus
+susceptible,tetracycline,46170.593,Staphylococcus aureus subsp. aureus strain M1KS0560_4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.351,Staphylococcus aureus subsp. aureus strain TW08,0,Staphylococcus aureus
+resistant,gentamicin,46170.736,Staphylococcus aureus subsp. aureus strain LTF03,1,Staphylococcus aureus
+susceptible,tetracycline,46170.324,Staphylococcus aureus subsp. aureus strain SA12-154,0,Staphylococcus aureus
+susceptible,tetracycline,46170.612,Staphylococcus aureus subsp. aureus strain M6KS0176_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.639,Staphylococcus aureus subsp. aureus strain M6KS0591_2,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.1190,Staphylococcus aureus subsp. aureus strain H32 strain SA H32,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.347,Staphylococcus aureus subsp. aureus strain TW07_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.628,Staphylococcus aureus subsp. aureus strain M6KS0526_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.725,Staphylococcus aureus subsp. aureus strain LTF24,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.361,Staphylococcus aureus subsp. aureus strain TW19,0,Staphylococcus aureus
+susceptible,tetracycline,46170.365,Staphylococcus aureus subsp. aureus strain TW22,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.629,Staphylococcus aureus subsp. aureus strain M6KS0528_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.568,Staphylococcus aureus subsp. aureus strain M1KS0176_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.729,Staphylococcus aureus subsp. aureus strain LTF16,0,Staphylococcus aureus
+resistant,gentamicin,46170.740,Staphylococcus aureus subsp. aureus strain LTF28,1,Staphylococcus aureus
+susceptible,tetracycline,46170.347,Staphylococcus aureus subsp. aureus strain TW07_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1096,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg5,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1129,Staphylococcus aureus subsp. aureus strain Sau122,0,Staphylococcus aureus
+resistant,tetracycline,46170.1155,Staphylococcus aureus subsp. aureus strain MKR4,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.635,Staphylococcus aureus subsp. aureus strain M6KS0584_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1125,Staphylococcus aureus subsp. aureus strain Sau102,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.324,Staphylococcus aureus subsp. aureus strain SA12-154,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.600,Staphylococcus aureus subsp. aureus strain M1KS0591_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.624,Staphylococcus aureus subsp. aureus strain M6KS0391_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.588,Staphylococcus aureus subsp. aureus strain M1KS0528_3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.728,Staphylococcus aureus subsp. aureus strain LTF17,0,Staphylococcus aureus
+susceptible,gentamicin,46170.564,Staphylococcus aureus subsp. aureus strain M1KS0165_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.563,Staphylococcus aureus subsp. aureus strain M1KS0130_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1146,Staphylococcus aureus subsp. aureus strain RR107,1,Staphylococcus aureus
+resistant,tetracycline,46170.1149,Staphylococcus aureus subsp. aureus strain RR103,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.805,Staphylococcus aureus subsp. aureus strain VB9352,0,Staphylococcus aureus
+susceptible,tetracycline,46170.615,Staphylococcus aureus subsp. aureus strain M6KS0265_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.617,Staphylococcus aureus subsp. aureus strain M6KS0321_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.592,Staphylococcus aureus subsp. aureus strain M1KS0560_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.727,Staphylococcus aureus subsp. aureus strain LTF21,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.1191,Staphylococcus aureus subsp. aureus strain G6 strain SA G6,1,Staphylococcus aureus
+susceptible,tetracycline,426430.63,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,gentamicin,46170.326,Staphylococcus aureus subsp. aureus strain SA14-613,0,Staphylococcus aureus
+resistant,tetracycline,46170.1123,Staphylococcus aureus subsp. aureus strain Sau84,1,Staphylococcus aureus
+susceptible,tetracycline,46170.641,Staphylococcus aureus subsp. aureus strain M6KS0591_5,0,Staphylococcus aureus
+susceptible,tetracycline,561307.24,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1250,Staphylococcus aureus subsp. aureus PartF-Saureus-RM8376,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.817,Staphylococcus aureus subsp. aureus strain 46,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1087,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe6,0,Staphylococcus aureus
+susceptible,gentamicin,46170.818,Staphylococcus aureus subsp. aureus strain 40,0,Staphylococcus aureus
+susceptible,gentamicin,46170.352,Staphylococcus aureus subsp. aureus strain TW10,0,Staphylococcus aureus
+susceptible,tetracycline,46170.722,Staphylococcus aureus subsp. aureus strain 80wphwpl,0,Staphylococcus aureus
+susceptible,gentamicin,46170.501,Staphylococcus aureus subsp. aureus strain CAR,0,Staphylococcus aureus
+susceptible,gentamicin,46170.305,Staphylococcus aureus subsp. aureus strain USA300_SUR1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.351,Staphylococcus aureus subsp. aureus strain TW08,0,Staphylococcus aureus
+susceptible,tetracycline,46170.629,Staphylococcus aureus subsp. aureus strain M6KS0528_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1139,Staphylococcus aureus subsp. aureus strain RR23,1,Staphylococcus aureus
+resistant,gentamicin,904787.3,Staphylococcus aureus subsp. aureus IS-189,1,Staphylococcus aureus
+resistant,gentamicin,46170.603,Staphylococcus aureus subsp. aureus strain M6KS0073_2,1,Staphylococcus aureus
+susceptible,gentamicin,46170.339,Staphylococcus aureus subsp. aureus strain TW01,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.602,Staphylococcus aureus subsp. aureus strain M6KS0073_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1156,Staphylococcus aureus subsp. aureus strain LCR13,1,Staphylococcus aureus
+susceptible,gentamicin,904801.3,Staphylococcus aureus subsp. aureus CO-86,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.568,Staphylococcus aureus subsp. aureus strain M1KS0176_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.340,Staphylococcus aureus subsp. aureus strain TW01_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1081,Staphylococcus aureus subsp. aureus strain HL20709,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1096,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg5,0,Staphylococcus aureus
+susceptible,tetracycline,46170.602,Staphylococcus aureus subsp. aureus strain M6KS0073_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.577,Staphylococcus aureus subsp. aureus strain M1KS0367_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.346,Staphylococcus aureus subsp. aureus strain TW07_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1083,Staphylococcus aureus subsp. aureus strain Dresden-275757,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.328,Staphylococcus aureus subsp. aureus strain SA11-192,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1162,Staphylococcus aureus subsp. aureus strain KTR35,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.727,Staphylococcus aureus subsp. aureus strain LTF21,0,Staphylococcus aureus
+susceptible,tetracycline,46170.724,Staphylococcus aureus subsp. aureus strain LTF31,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.741,Staphylococcus aureus subsp. aureus strain LTF26,0,Staphylococcus aureus
+resistant,gentamicin,46170.729,Staphylococcus aureus subsp. aureus strain LTF16,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1190,Staphylococcus aureus subsp. aureus strain H32 strain SA H32,0,Staphylococcus aureus
+resistant,gentamicin,46170.595,Staphylococcus aureus subsp. aureus strain M1KS0564_2,1,Staphylococcus aureus
+susceptible,gentamicin,46170.1091,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe5,0,Staphylococcus aureus
+resistant,gentamicin,46170.624,Staphylococcus aureus subsp. aureus strain M6KS0391_2,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.632,Staphylococcus aureus subsp. aureus strain M6KS0560_2,0,Staphylococcus aureus
+resistant,tetracycline,46170.1145,Staphylococcus aureus subsp. aureus strain RR13,1,Staphylococcus aureus
+resistant,gentamicin,46170.817,Staphylococcus aureus subsp. aureus strain 46,1,Staphylococcus aureus
+susceptible,tetracycline,46170.500,Staphylococcus aureus subsp. aureus strain OXLIM,0,Staphylococcus aureus
+resistant,gentamicin,46170.725,Staphylococcus aureus subsp. aureus strain LTF24,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.597,Staphylococcus aureus subsp. aureus strain M1KS0584_1,0,Staphylococcus aureus
+susceptible,gentamicin,367830.75,Staphylococcus aureus subsp. aureus USA300 strain NRS384 strain USA300 NRS384,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.754,Staphylococcus aureus subsp. aureus strain LTF01,0,Staphylococcus aureus
+susceptible,tetracycline,904741.3,Staphylococcus aureus subsp. aureus 21248,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1086,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.360,Staphylococcus aureus subsp. aureus strain TW16,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1139,Staphylococcus aureus subsp. aureus strain RR23,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1141,Staphylococcus aureus subsp. aureus strain RR19,0,Staphylococcus aureus
+resistant,gentamicin,46170.310,Staphylococcus aureus subsp. aureus strain VB4283,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1179,Staphylococcus aureus subsp. aureus strain ACR15,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.555,Staphylococcus aureus subsp. aureus strain M1KS0073_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.579,Staphylococcus aureus subsp. aureus strain M1KS0391_2,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1116,Staphylococcus aureus subsp. aureus strain Sau80,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1148,Staphylococcus aureus subsp. aureus strain QR1130,0,Staphylococcus aureus
+resistant,gentamicin,46170.806,Staphylococcus aureus subsp. aureus strain VB31683,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.365,Staphylococcus aureus subsp. aureus strain TW22,0,Staphylococcus aureus
+susceptible,gentamicin,46170.583,Staphylococcus aureus subsp. aureus strain M1KS0501_3,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.358,Staphylococcus aureus subsp. aureus strain TW23,0,Staphylococcus aureus
+susceptible,tetracycline,46170.499,Staphylococcus aureus subsp. aureus strain SA75,0,Staphylococcus aureus
+susceptible,tetracycline,904785.3,Staphylococcus aureus subsp. aureus IS-157,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1187,Staphylococcus aureus subsp. aureus strain SA H27,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.498,Staphylococcus aureus subsp. aureus strain NCTC 08532,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.587,Staphylococcus aureus subsp. aureus strain M1KS0528_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1172,Staphylococcus aureus subsp. aureus strain ACR36,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.626,Staphylococcus aureus subsp. aureus strain M6KS0501_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.627,Staphylococcus aureus subsp. aureus strain M6KS0526_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.569,Staphylococcus aureus subsp. aureus strain M1KS0176_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.736,Staphylococcus aureus subsp. aureus strain LTF03,0,Staphylococcus aureus
+susceptible,gentamicin,46170.640,Staphylococcus aureus subsp. aureus strain M6KS0591_4,0,Staphylococcus aureus
+resistant,tetracycline,46170.1150,Staphylococcus aureus subsp. aureus strain NCHR59,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.810,Staphylococcus aureus subsp. aureus strain 41,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1152,Staphylococcus aureus subsp. aureus strain NCHR52,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.354,Staphylococcus aureus subsp. aureus strain TW12,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1092,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg4,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1090,Staphylococcus aureus subsp. aureus strain ATCC 33591_Moe2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1121,Staphylococcus aureus subsp. aureus strain Sau56,0,Staphylococcus aureus
+susceptible,tetracycline,46170.361,Staphylococcus aureus subsp. aureus strain TW19,0,Staphylococcus aureus
+susceptible,tetracycline,561307.22,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,tetracycline,46170.571,Staphylococcus aureus subsp. aureus strain M1KS0260_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.358,Staphylococcus aureus subsp. aureus strain TW23,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1180,Staphylococcus aureus subsp. aureus strain ACR10,0,Staphylococcus aureus
+susceptible,gentamicin,904799.3,Staphylococcus aureus subsp. aureus CO-49,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.744,Staphylococcus aureus subsp. aureus strain LTF20,0,Staphylococcus aureus
+resistant,tetracycline,367830.75,Staphylococcus aureus subsp. aureus USA300 strain NRS384 strain USA300 NRS384,1,Staphylococcus aureus
+susceptible,tetracycline,46170.320,Staphylococcus aureus subsp. aureus strain SA13-246,0,Staphylococcus aureus
+susceptible,tetracycline,426430.24,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,gentamicin,46170.593,Staphylococcus aureus subsp. aureus strain M1KS0560_4,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1181,Staphylococcus aureus subsp. aureus strain ACR14,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1131,Staphylococcus aureus subsp. aureus strain RR96,0,Staphylococcus aureus
+resistant,gentamicin,46170.744,Staphylococcus aureus subsp. aureus strain LTF20,1,Staphylococcus aureus
+susceptible,tetracycline,46170.586,Staphylococcus aureus subsp. aureus strain M1KS0528_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1112,Staphylococcus aureus subsp. aureus strain sta1676,1,Staphylococcus aureus
+resistant,tetracycline,46170.817,Staphylococcus aureus subsp. aureus strain 46,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1250,Staphylococcus aureus subsp. aureus PartF-Saureus-RM8376,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1165,Staphylococcus aureus subsp. aureus strain JGR12,0,Staphylococcus aureus
+susceptible,tetracycline,46170.742,Staphylococcus aureus subsp. aureus strain LTF23,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.364,Staphylococcus aureus subsp. aureus strain TW21,0,Staphylococcus aureus
+resistant,tetracycline,46170.1160,Staphylococcus aureus subsp. aureus strain LCR01,1,Staphylococcus aureus
+susceptible,tetracycline,46170.743,Staphylococcus aureus subsp. aureus strain LTF22,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1130,Staphylococcus aureus subsp. aureus strain Sau114,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.593,Staphylococcus aureus subsp. aureus strain M1KS0560_4,0,Staphylococcus aureus
+susceptible,tetracycline,46170.349,Staphylococcus aureus subsp. aureus strain TW07_4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1096,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg5,0,Staphylococcus aureus
+resistant,ciprofloxacin,1330460.3,Staphylococcus aureus subsp. aureus SA5211,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1150,Staphylococcus aureus subsp. aureus strain NCHR59,0,Staphylococcus aureus
+susceptible,gentamicin,46170.572,Staphylococcus aureus subsp. aureus strain M1KS0265_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1127,Staphylococcus aureus subsp. aureus strain Sau116,0,Staphylococcus aureus
+resistant,ciprofloxacin,46170.814,Staphylococcus aureus subsp. aureus strain 50,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.738,Staphylococcus aureus subsp. aureus strain LTF29,0,Staphylococcus aureus
+resistant,tetracycline,46170.822,Staphylococcus aureus subsp. aureus strain 16,1,Staphylococcus aureus
+resistant,tetracycline,904787.3,Staphylococcus aureus subsp. aureus IS-189,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1181,Staphylococcus aureus subsp. aureus strain ACR14,0,Staphylococcus aureus
+susceptible,gentamicin,46170.349,Staphylococcus aureus subsp. aureus strain TW07_4,0,Staphylococcus aureus
+susceptible,tetracycline,904782.3,Staphylococcus aureus subsp. aureus IS-111,0,Staphylococcus aureus
+resistant,gentamicin,46170.727,Staphylococcus aureus subsp. aureus strain LTF21,1,Staphylococcus aureus
+susceptible,tetracycline,46170.740,Staphylococcus aureus subsp. aureus strain LTF28,0,Staphylococcus aureus
+susceptible,gentamicin,46170.340,Staphylococcus aureus subsp. aureus strain TW01_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1116,Staphylococcus aureus subsp. aureus strain Sau80,0,Staphylococcus aureus
+resistant,gentamicin,46170.735,Staphylococcus aureus subsp. aureus strain LTF04,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.355,Staphylococcus aureus subsp. aureus strain TW14,0,Staphylococcus aureus
+resistant,tetracycline,46170.812,Staphylococcus aureus subsp. aureus strain 42,1,Staphylococcus aureus
+susceptible,gentamicin,46170.575,Staphylococcus aureus subsp. aureus strain M1KS0321_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.612,Staphylococcus aureus subsp. aureus strain M6KS0176_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.807,Staphylococcus aureus subsp. aureus strain WCUH29,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.605,Staphylococcus aureus subsp. aureus strain M6KS0088_2,0,Staphylococcus aureus
+resistant,ampicillin,904784.3,Staphylococcus aureus subsp. aureus IS-125,1,Staphylococcus aureus
+susceptible,tetracycline,46170.362,Staphylococcus aureus subsp. aureus strain TW17,0,Staphylococcus aureus
+resistant,tetracycline,46170.1125,Staphylococcus aureus subsp. aureus strain Sau102,1,Staphylococcus aureus
+susceptible,tetracycline,46170.605,Staphylococcus aureus subsp. aureus strain M6KS0088_2,0,Staphylococcus aureus
+resistant,gentamicin,46170.596,Staphylococcus aureus subsp. aureus strain M1KS0564_3,1,Staphylococcus aureus
+susceptible,tetracycline,46170.623,Staphylococcus aureus subsp. aureus strain M6KS0391_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.500,Staphylococcus aureus subsp. aureus strain OXLIM,0,Staphylococcus aureus
+susceptible,gentamicin,46170.364,Staphylococcus aureus subsp. aureus strain TW21,0,Staphylococcus aureus
+susceptible,tetracycline,46170.574,Staphylococcus aureus subsp. aureus strain M1KS0321_1,0,Staphylococcus aureus
+resistant,gentamicin,46170.628,Staphylococcus aureus subsp. aureus strain M6KS0526_2,1,Staphylococcus aureus
+susceptible,tetracycline,46170.1170,Staphylococcus aureus subsp. aureus strain DR4,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1193,Staphylococcus aureus subsp. aureus strain CC1153-MRSA,0,Staphylococcus aureus
+susceptible,tetracycline,46170.1025,Staphylococcus aureus subsp. aureus strain cntA52,0,Staphylococcus aureus
+susceptible,gentamicin,523796.82,Staphylococcus aureus subsp. aureus ST398 strain 2012-3,0,Staphylococcus aureus
+resistant,tetracycline,904784.3,Staphylococcus aureus subsp. aureus IS-125,1,Staphylococcus aureus
+resistant,gentamicin,46170.1123,Staphylococcus aureus subsp. aureus strain Sau84,1,Staphylococcus aureus
+susceptible,tetracycline,523796.82,Staphylococcus aureus subsp. aureus ST398 strain 2012-3,0,Staphylococcus aureus
+susceptible,gentamicin,46170.499,Staphylococcus aureus subsp. aureus strain SA75,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1182,Staphylococcus aureus subsp. aureus strain ABR23,0,Staphylococcus aureus
+susceptible,gentamicin,46170.622,Staphylococcus aureus subsp. aureus strain M6KS0367_4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1162,Staphylococcus aureus subsp. aureus strain KTR35,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1183,Staphylococcus aureus subsp. aureus strain ABR29,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1133,Staphylococcus aureus subsp. aureus strain RR7,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.821,Staphylococcus aureus subsp. aureus strain 14,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1115,Staphylococcus aureus subsp. aureus strain Sau95,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1098,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg3,0,Staphylococcus aureus
+resistant,gentamicin,46170.811,Staphylococcus aureus subsp. aureus strain 6 (A) strain 6 (A) strain 6 (A),1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.640,Staphylococcus aureus subsp. aureus strain M6KS0591_4,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.560,Staphylococcus aureus subsp. aureus strain M1KS0094_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.626,Staphylococcus aureus subsp. aureus strain M6KS0501_2,0,Staphylococcus aureus
+susceptible,gentamicin,46170.586,Staphylococcus aureus subsp. aureus strain M1KS0528_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.813,Staphylococcus aureus subsp. aureus strain 23,0,Staphylococcus aureus
+resistant,ciprofloxacin,904779.3,Staphylococcus aureus subsp. aureus IS-91,1,Staphylococcus aureus
+susceptible,tetracycline,46170.735,Staphylococcus aureus subsp. aureus strain LTF04,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1086,Staphylococcus aureus subsp. aureus strain ATCC 33591_Arg1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.820,Staphylococcus aureus subsp. aureus strain 15,0,Staphylococcus aureus
+susceptible,tetracycline,46170.823,Staphylococcus aureus subsp. aureus strain 3 (A) strain 3 (A) strain 3 (A),0,Staphylococcus aureus
+susceptible,tetracycline,46170.355,Staphylococcus aureus subsp. aureus strain TW14,0,Staphylococcus aureus
+susceptible,gentamicin,46170.560,Staphylococcus aureus subsp. aureus strain M1KS0094_3,0,Staphylococcus aureus
+susceptible,tetracycline,46170.633,Staphylococcus aureus subsp. aureus strain M6KS0564_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.1174,Staphylococcus aureus subsp. aureus strain ACR37,0,Staphylococcus aureus
+resistant,tetracycline,46170.1124,Staphylococcus aureus subsp. aureus strain Sau100,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.575,Staphylococcus aureus subsp. aureus strain M1KS0321_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.740,Staphylococcus aureus subsp. aureus strain LTF28,0,Staphylococcus aureus
+susceptible,tetracycline,46170.600,Staphylococcus aureus subsp. aureus strain M1KS0591_1,0,Staphylococcus aureus
+susceptible,gentamicin,46170.632,Staphylococcus aureus subsp. aureus strain M6KS0560_2,0,Staphylococcus aureus
+susceptible,gentamicin,904786.3,Staphylococcus aureus subsp. aureus IS-160,0,Staphylococcus aureus
+susceptible,tetracycline,46170.321,Staphylococcus aureus subsp. aureus strain SA10-285,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1174,Staphylococcus aureus subsp. aureus strain ACR37,0,Staphylococcus aureus
+resistant,tetracycline,46170.1185,Staphylococcus aureus subsp. aureus strain ABR39,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.731,Staphylococcus aureus subsp. aureus strain LTF11,0,Staphylococcus aureus
+susceptible,tetracycline,46170.723,Staphylococcus aureus subsp. aureus strain LTF25,0,Staphylococcus aureus
+resistant,gentamicin,46170.360,Staphylococcus aureus subsp. aureus strain TW16,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.586,Staphylococcus aureus subsp. aureus strain M1KS0528_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.618,Staphylococcus aureus subsp. aureus strain M6KS0321_2,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.627,Staphylococcus aureus subsp. aureus strain M6KS0526_1,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1149,Staphylococcus aureus subsp. aureus strain RR103,0,Staphylococcus aureus
+susceptible,tetracycline,46170.582,Staphylococcus aureus subsp. aureus strain M1KS0526_1,0,Staphylococcus aureus
+resistant,tetracycline,46170.1127,Staphylococcus aureus subsp. aureus strain Sau116,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.1132,Staphylococcus aureus subsp. aureus strain RR8,0,Staphylococcus aureus
+resistant,tetracycline,46170.1138,Staphylococcus aureus subsp. aureus strain RR34,1,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.317,Staphylococcus aureus subsp. aureus strain ISU926,0,Staphylococcus aureus
+susceptible,gentamicin,46170.555,Staphylococcus aureus subsp. aureus strain M1KS0073_1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.460,Staphylococcus aureus subsp. aureus strain EDCC5464,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.325,Staphylococcus aureus subsp. aureus strain SA14-265,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.811,Staphylococcus aureus subsp. aureus strain 6 (A) strain 6 (A) strain 6 (A),0,Staphylococcus aureus
+susceptible,ciprofloxacin,561307.43,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,gentamicin,561307.43,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,tetracycline,561307.43,Staphylococcus aureus subsp. aureus RN4220,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.752,Staphylococcus aureus subsp. aureus strain LTF08,0,Staphylococcus aureus
+susceptible,tetracycline,93061.132,Staphylococcus aureus subsp. aureus NCTC 8325 strain NCTC8325,0,Staphylococcus aureus
+susceptible,gentamicin,46170.616,Staphylococcus aureus subsp. aureus strain M6KS0265_2,0,Staphylococcus aureus
+susceptible,tetracycline,46170.310,Staphylococcus aureus subsp. aureus strain VB4283,0,Staphylococcus aureus
+susceptible,gentamicin,46170.328,Staphylococcus aureus subsp. aureus strain SA11-192,0,Staphylococcus aureus
+susceptible,ciprofloxacin,46170.369,Staphylococcus aureus subsp. aureus UAMS-1,0,Staphylococcus aureus
+susceptible,tetracycline,46170.748,Staphylococcus aureus subsp. aureus strain LTF12,0,Staphylococcus aureus
+susceptible,ciprofloxacin,426430.67,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,gentamicin,426430.67,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,tetracycline,426430.67,Staphylococcus aureus subsp. aureus str. Newman,0,Staphylococcus aureus
+susceptible,ciprofloxacin,1280.57535,Staphylococcus aureus subspecie aureus F-182,0,Staphylococcus aureus
+susceptible,gentamicin,1280.57535,Staphylococcus aureus subspecie aureus F-182,0,Staphylococcus aureus
+susceptible,tetracycline,1280.57535,Staphylococcus aureus subspecie aureus F-182,0,Staphylococcus aureus
+resistant,ciprofloxacin,1004953.3,Staphylococcus aureus subsp. aureus MRSA_PR1,1,Staphylococcus aureus
+susceptible,gentamicin,1004953.3,Staphylococcus aureus subsp. aureus MRSA_PR1,0,Staphylococcus aureus
+resistant,tetracycline,1004953.3,Staphylococcus aureus subsp. aureus MRSA_PR1,1,Staphylococcus aureus
+resistant,ciprofloxacin,1006543.3,Staphylococcus aureus subsp. aureus T0131,1,Staphylococcus aureus

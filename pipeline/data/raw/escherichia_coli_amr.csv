@@ -1,0 +1,499 @@
+genome_id,genome_name,antibiotic,resistant_phenotype,label,organism
+562.135136,Escherichia coli Escherichia coli AZ1114,ampicillin,resistant,1,Escherichia coli
+562.135136,Escherichia coli Escherichia coli AZ1114,ciprofloxacin,resistant,1,Escherichia coli
+562.135136,Escherichia coli Escherichia coli AZ1114,gentamicin,susceptible,0,Escherichia coli
+562.135136,Escherichia coli Escherichia coli AZ1114,imipenem,susceptible,0,Escherichia coli
+562.135136,Escherichia coli Escherichia coli AZ1114,tetracycline,resistant,1,Escherichia coli
+562.135136,Escherichia coli Escherichia coli AZ1114,trimethoprim,resistant,1,Escherichia coli
+562.135137,Escherichia coli Escherichia coli EC16256,ampicillin,resistant,1,Escherichia coli
+562.135137,Escherichia coli Escherichia coli EC16256,ciprofloxacin,resistant,1,Escherichia coli
+562.135137,Escherichia coli Escherichia coli EC16256,gentamicin,resistant,1,Escherichia coli
+562.135137,Escherichia coli Escherichia coli EC16256,imipenem,susceptible,0,Escherichia coli
+562.135137,Escherichia coli Escherichia coli EC16256,tetracycline,resistant,1,Escherichia coli
+562.135137,Escherichia coli Escherichia coli EC16256,trimethoprim,resistant,1,Escherichia coli
+562.135138,Escherichia coli Escherichia coli EC16639,ampicillin,resistant,1,Escherichia coli
+562.135138,Escherichia coli Escherichia coli EC16639,ciprofloxacin,resistant,1,Escherichia coli
+562.135138,Escherichia coli Escherichia coli EC16639,gentamicin,resistant,1,Escherichia coli
+562.135138,Escherichia coli Escherichia coli EC16639,imipenem,susceptible,0,Escherichia coli
+562.135138,Escherichia coli Escherichia coli EC16639,tetracycline,resistant,1,Escherichia coli
+562.135138,Escherichia coli Escherichia coli EC16639,trimethoprim,resistant,1,Escherichia coli
+562.135139,Escherichia coli Escherichia coli EC12011,ampicillin,resistant,1,Escherichia coli
+562.135139,Escherichia coli Escherichia coli EC12011,ciprofloxacin,resistant,1,Escherichia coli
+562.135139,Escherichia coli Escherichia coli EC12011,gentamicin,susceptible,0,Escherichia coli
+562.135139,Escherichia coli Escherichia coli EC12011,imipenem,susceptible,0,Escherichia coli
+562.135139,Escherichia coli Escherichia coli EC12011,tetracycline,resistant,1,Escherichia coli
+562.135139,Escherichia coli Escherichia coli EC12011,trimethoprim,resistant,1,Escherichia coli
+562.135140,Escherichia coli Escherichia coli EC16611,ampicillin,resistant,1,Escherichia coli
+562.135140,Escherichia coli Escherichia coli EC16611,ciprofloxacin,resistant,1,Escherichia coli
+562.135140,Escherichia coli Escherichia coli EC16611,gentamicin,susceptible,0,Escherichia coli
+562.135140,Escherichia coli Escherichia coli EC16611,imipenem,susceptible,0,Escherichia coli
+562.135140,Escherichia coli Escherichia coli EC16611,tetracycline,susceptible,0,Escherichia coli
+562.135140,Escherichia coli Escherichia coli EC16611,trimethoprim,resistant,1,Escherichia coli
+562.135141,Escherichia coli Escherichia coli EC16409,ampicillin,resistant,1,Escherichia coli
+562.135141,Escherichia coli Escherichia coli EC16409,ciprofloxacin,resistant,1,Escherichia coli
+562.135141,Escherichia coli Escherichia coli EC16409,gentamicin,susceptible,0,Escherichia coli
+562.135141,Escherichia coli Escherichia coli EC16409,imipenem,susceptible,0,Escherichia coli
+562.135141,Escherichia coli Escherichia coli EC16409,tetracycline,resistant,1,Escherichia coli
+562.135141,Escherichia coli Escherichia coli EC16409,trimethoprim,resistant,1,Escherichia coli
+562.135142,Escherichia coli Escherichia coli EC12401,ampicillin,resistant,1,Escherichia coli
+562.135142,Escherichia coli Escherichia coli EC12401,ciprofloxacin,susceptible,0,Escherichia coli
+562.135142,Escherichia coli Escherichia coli EC12401,gentamicin,resistant,1,Escherichia coli
+562.135142,Escherichia coli Escherichia coli EC12401,imipenem,susceptible,0,Escherichia coli
+562.135142,Escherichia coli Escherichia coli EC12401,tetracycline,susceptible,0,Escherichia coli
+562.135142,Escherichia coli Escherichia coli EC12401,trimethoprim,resistant,1,Escherichia coli
+562.135143,Escherichia coli Escherichia coli EC16019,ampicillin,resistant,1,Escherichia coli
+562.135143,Escherichia coli Escherichia coli EC16019,ciprofloxacin,resistant,1,Escherichia coli
+562.135143,Escherichia coli Escherichia coli EC16019,gentamicin,resistant,1,Escherichia coli
+562.135143,Escherichia coli Escherichia coli EC16019,imipenem,susceptible,0,Escherichia coli
+562.135143,Escherichia coli Escherichia coli EC16019,tetracycline,susceptible,0,Escherichia coli
+562.135143,Escherichia coli Escherichia coli EC16019,trimethoprim,susceptible,0,Escherichia coli
+244319.9,Escherichia coli O26:H11 strain Escherichia coli O26:H11 21765,ampicillin,susceptible,0,Escherichia coli
+244319.9,Escherichia coli O26:H11 strain Escherichia coli O26:H11 21765,ciprofloxacin,susceptible,0,Escherichia coli
+244319.9,Escherichia coli O26:H11 strain Escherichia coli O26:H11 21765,gentamicin,susceptible,0,Escherichia coli
+244319.9,Escherichia coli O26:H11 strain Escherichia coli O26:H11 21765,imipenem,susceptible,0,Escherichia coli
+244319.9,Escherichia coli O26:H11 strain Escherichia coli O26:H11 21765,tetracycline,susceptible,0,Escherichia coli
+244319.9,Escherichia coli O26:H11 strain Escherichia coli O26:H11 21765,trimethoprim,susceptible,0,Escherichia coli
+562.70789,Escherichia coli strain Escherichia_coli_BgEED10,ampicillin,susceptible,0,Escherichia coli
+562.70789,Escherichia coli strain Escherichia_coli_BgEED10,ciprofloxacin,susceptible,0,Escherichia coli
+562.70789,Escherichia coli strain Escherichia_coli_BgEED10,gentamicin,susceptible,0,Escherichia coli
+562.70789,Escherichia coli strain Escherichia_coli_BgEED10,imipenem,susceptible,0,Escherichia coli
+562.70789,Escherichia coli strain Escherichia_coli_BgEED10,tetracycline,susceptible,0,Escherichia coli
+562.70789,Escherichia coli strain Escherichia_coli_BgEED10,trimethoprim,susceptible,0,Escherichia coli
+562.48220,Escherichia coli strain Escherichia coli str. TO6,ampicillin,resistant,1,Escherichia coli
+562.48220,Escherichia coli strain Escherichia coli str. TO6,ciprofloxacin,susceptible,0,Escherichia coli
+562.48220,Escherichia coli strain Escherichia coli str. TO6,gentamicin,susceptible,0,Escherichia coli
+562.48220,Escherichia coli strain Escherichia coli str. TO6,imipenem,susceptible,0,Escherichia coli
+562.48220,Escherichia coli strain Escherichia coli str. TO6,tetracycline,resistant,1,Escherichia coli
+562.48220,Escherichia coli strain Escherichia coli str. TO6,trimethoprim,resistant,1,Escherichia coli
+562.48221,Escherichia coli strain Escherichia coli str. TO73,ampicillin,resistant,1,Escherichia coli
+562.48221,Escherichia coli strain Escherichia coli str. TO73,ciprofloxacin,resistant,1,Escherichia coli
+562.48221,Escherichia coli strain Escherichia coli str. TO73,gentamicin,susceptible,0,Escherichia coli
+562.48221,Escherichia coli strain Escherichia coli str. TO73,imipenem,susceptible,0,Escherichia coli
+562.48221,Escherichia coli strain Escherichia coli str. TO73,tetracycline,resistant,1,Escherichia coli
+562.48221,Escherichia coli strain Escherichia coli str. TO73,trimethoprim,susceptible,0,Escherichia coli
+562.48222,Escherichia coli strain Escherichia coli str. TO60,ampicillin,resistant,1,Escherichia coli
+562.48222,Escherichia coli strain Escherichia coli str. TO60,ciprofloxacin,resistant,1,Escherichia coli
+562.48222,Escherichia coli strain Escherichia coli str. TO60,gentamicin,resistant,1,Escherichia coli
+562.48222,Escherichia coli strain Escherichia coli str. TO60,imipenem,susceptible,0,Escherichia coli
+562.48222,Escherichia coli strain Escherichia coli str. TO60,tetracycline,resistant,1,Escherichia coli
+562.48222,Escherichia coli strain Escherichia coli str. TO60,trimethoprim,resistant,1,Escherichia coli
+562.48223,Escherichia coli strain Escherichia coli str. TO124,ampicillin,resistant,1,Escherichia coli
+562.48223,Escherichia coli strain Escherichia coli str. TO124,ciprofloxacin,resistant,1,Escherichia coli
+562.48223,Escherichia coli strain Escherichia coli str. TO124,gentamicin,susceptible,0,Escherichia coli
+562.48223,Escherichia coli strain Escherichia coli str. TO124,imipenem,susceptible,0,Escherichia coli
+562.48223,Escherichia coli strain Escherichia coli str. TO124,tetracycline,resistant,1,Escherichia coli
+562.48223,Escherichia coli strain Escherichia coli str. TO124,trimethoprim,resistant,1,Escherichia coli
+562.48225,Escherichia coli strain Escherichia coli str. TO217,ampicillin,resistant,1,Escherichia coli
+562.48225,Escherichia coli strain Escherichia coli str. TO217,ciprofloxacin,resistant,1,Escherichia coli
+562.48225,Escherichia coli strain Escherichia coli str. TO217,gentamicin,resistant,1,Escherichia coli
+562.48225,Escherichia coli strain Escherichia coli str. TO217,imipenem,susceptible,0,Escherichia coli
+562.48225,Escherichia coli strain Escherichia coli str. TO217,tetracycline,susceptible,0,Escherichia coli
+562.48225,Escherichia coli strain Escherichia coli str. TO217,trimethoprim,susceptible,0,Escherichia coli
+562.48226,Escherichia coli strain Escherichia coli str. 3426,ampicillin,susceptible,0,Escherichia coli
+562.48226,Escherichia coli strain Escherichia coli str. 3426,ciprofloxacin,resistant,1,Escherichia coli
+562.48226,Escherichia coli strain Escherichia coli str. 3426,gentamicin,resistant,1,Escherichia coli
+562.48226,Escherichia coli strain Escherichia coli str. 3426,imipenem,resistant,1,Escherichia coli
+562.48226,Escherichia coli strain Escherichia coli str. 3426,tetracycline,resistant,1,Escherichia coli
+562.48226,Escherichia coli strain Escherichia coli str. 3426,trimethoprim,resistant,1,Escherichia coli
+562.48227,Escherichia coli strain Escherichia coli str. TO148,ampicillin,resistant,1,Escherichia coli
+562.48227,Escherichia coli strain Escherichia coli str. TO148,ciprofloxacin,resistant,1,Escherichia coli
+562.48227,Escherichia coli strain Escherichia coli str. TO148,gentamicin,susceptible,0,Escherichia coli
+562.48227,Escherichia coli strain Escherichia coli str. TO148,imipenem,susceptible,0,Escherichia coli
+562.48227,Escherichia coli strain Escherichia coli str. TO148,tetracycline,resistant,1,Escherichia coli
+562.48227,Escherichia coli strain Escherichia coli str. TO148,trimethoprim,resistant,1,Escherichia coli
+562.50955,Escherichia coli strain Escherichia_coli_MC1,ampicillin,resistant,1,Escherichia coli
+562.50955,Escherichia coli strain Escherichia_coli_MC1,ciprofloxacin,susceptible,0,Escherichia coli
+562.50955,Escherichia coli strain Escherichia_coli_MC1,gentamicin,susceptible,0,Escherichia coli
+562.50955,Escherichia coli strain Escherichia_coli_MC1,imipenem,susceptible,0,Escherichia coli
+562.50955,Escherichia coli strain Escherichia_coli_MC1,tetracycline,resistant,1,Escherichia coli
+562.50955,Escherichia coli strain Escherichia_coli_MC1,trimethoprim,resistant,1,Escherichia coli
+562.51014,Escherichia coli strain Escherichia_coli_BgPS.131.S11,ampicillin,resistant,1,Escherichia coli
+562.51014,Escherichia coli strain Escherichia_coli_BgPS.131.S11,ciprofloxacin,susceptible,0,Escherichia coli
+562.51014,Escherichia coli strain Escherichia_coli_BgPS.131.S11,gentamicin,susceptible,0,Escherichia coli
+562.51014,Escherichia coli strain Escherichia_coli_BgPS.131.S11,imipenem,susceptible,0,Escherichia coli
+562.51014,Escherichia coli strain Escherichia_coli_BgPS.131.S11,tetracycline,susceptible,0,Escherichia coli
+562.51014,Escherichia coli strain Escherichia_coli_BgPS.131.S11,trimethoprim,susceptible,0,Escherichia coli
+562.102861,Escherichia coli Escherichia_coli_DSM112125,ampicillin,susceptible,0,Escherichia coli
+562.102861,Escherichia coli Escherichia_coli_DSM112125,ciprofloxacin,susceptible,0,Escherichia coli
+562.102861,Escherichia coli Escherichia_coli_DSM112125,gentamicin,susceptible,0,Escherichia coli
+562.102861,Escherichia coli Escherichia_coli_DSM112125,imipenem,susceptible,0,Escherichia coli
+562.102861,Escherichia coli Escherichia_coli_DSM112125,tetracycline,susceptible,0,Escherichia coli
+562.102861,Escherichia coli Escherichia_coli_DSM112125,trimethoprim,susceptible,0,Escherichia coli
+562.102862,Escherichia coli Escherichia_coli_DSM112128,ampicillin,susceptible,0,Escherichia coli
+562.102862,Escherichia coli Escherichia_coli_DSM112128,ciprofloxacin,susceptible,0,Escherichia coli
+562.102862,Escherichia coli Escherichia_coli_DSM112128,gentamicin,susceptible,0,Escherichia coli
+562.102862,Escherichia coli Escherichia_coli_DSM112128,imipenem,susceptible,0,Escherichia coli
+562.102862,Escherichia coli Escherichia_coli_DSM112128,tetracycline,susceptible,0,Escherichia coli
+562.102862,Escherichia coli Escherichia_coli_DSM112128,trimethoprim,susceptible,0,Escherichia coli
+562.102863,Escherichia coli Escherichia_coli_DSM112121,ampicillin,susceptible,0,Escherichia coli
+562.102863,Escherichia coli Escherichia_coli_DSM112121,ciprofloxacin,susceptible,0,Escherichia coli
+562.102863,Escherichia coli Escherichia_coli_DSM112121,gentamicin,susceptible,0,Escherichia coli
+562.102863,Escherichia coli Escherichia_coli_DSM112121,imipenem,susceptible,0,Escherichia coli
+562.102863,Escherichia coli Escherichia_coli_DSM112121,tetracycline,susceptible,0,Escherichia coli
+562.102863,Escherichia coli Escherichia_coli_DSM112121,trimethoprim,susceptible,0,Escherichia coli
+562.102864,Escherichia coli Escherichia_coli_DSM112113,ampicillin,susceptible,0,Escherichia coli
+562.102864,Escherichia coli Escherichia_coli_DSM112113,ciprofloxacin,susceptible,0,Escherichia coli
+562.102864,Escherichia coli Escherichia_coli_DSM112113,gentamicin,susceptible,0,Escherichia coli
+562.102864,Escherichia coli Escherichia_coli_DSM112113,imipenem,susceptible,0,Escherichia coli
+562.102864,Escherichia coli Escherichia_coli_DSM112113,tetracycline,susceptible,0,Escherichia coli
+562.102864,Escherichia coli Escherichia_coli_DSM112113,trimethoprim,susceptible,0,Escherichia coli
+562.102865,Escherichia coli Escherichia_coli_DSM112109,ampicillin,susceptible,0,Escherichia coli
+562.102865,Escherichia coli Escherichia_coli_DSM112109,ciprofloxacin,susceptible,0,Escherichia coli
+562.102865,Escherichia coli Escherichia_coli_DSM112109,gentamicin,susceptible,0,Escherichia coli
+562.102865,Escherichia coli Escherichia_coli_DSM112109,imipenem,susceptible,0,Escherichia coli
+562.102865,Escherichia coli Escherichia_coli_DSM112109,tetracycline,susceptible,0,Escherichia coli
+562.102865,Escherichia coli Escherichia_coli_DSM112109,trimethoprim,susceptible,0,Escherichia coli
+562.102866,Escherichia coli Escherichia_coli_DSM112117,ampicillin,susceptible,0,Escherichia coli
+562.102866,Escherichia coli Escherichia_coli_DSM112117,ciprofloxacin,susceptible,0,Escherichia coli
+562.102866,Escherichia coli Escherichia_coli_DSM112117,gentamicin,susceptible,0,Escherichia coli
+562.102866,Escherichia coli Escherichia_coli_DSM112117,imipenem,susceptible,0,Escherichia coli
+562.102866,Escherichia coli Escherichia_coli_DSM112117,tetracycline,susceptible,0,Escherichia coli
+562.102866,Escherichia coli Escherichia_coli_DSM112117,trimethoprim,susceptible,0,Escherichia coli
+562.102867,Escherichia coli Escherichia_coli_DSM112112,ampicillin,susceptible,0,Escherichia coli
+562.102867,Escherichia coli Escherichia_coli_DSM112112,ciprofloxacin,susceptible,0,Escherichia coli
+562.102867,Escherichia coli Escherichia_coli_DSM112112,gentamicin,susceptible,0,Escherichia coli
+562.102867,Escherichia coli Escherichia_coli_DSM112112,imipenem,susceptible,0,Escherichia coli
+562.102867,Escherichia coli Escherichia_coli_DSM112112,tetracycline,susceptible,0,Escherichia coli
+562.102867,Escherichia coli Escherichia_coli_DSM112112,trimethoprim,susceptible,0,Escherichia coli
+562.102868,Escherichia coli Escherichia_coli_DSM112122,ampicillin,susceptible,0,Escherichia coli
+562.102868,Escherichia coli Escherichia_coli_DSM112122,ciprofloxacin,susceptible,0,Escherichia coli
+562.102868,Escherichia coli Escherichia_coli_DSM112122,gentamicin,susceptible,0,Escherichia coli
+562.102868,Escherichia coli Escherichia_coli_DSM112122,imipenem,susceptible,0,Escherichia coli
+562.102868,Escherichia coli Escherichia_coli_DSM112122,tetracycline,susceptible,0,Escherichia coli
+562.102868,Escherichia coli Escherichia_coli_DSM112122,trimethoprim,susceptible,0,Escherichia coli
+562.102869,Escherichia coli Escherichia_coli_DSM112123,ampicillin,susceptible,0,Escherichia coli
+562.102869,Escherichia coli Escherichia_coli_DSM112123,ciprofloxacin,susceptible,0,Escherichia coli
+562.102869,Escherichia coli Escherichia_coli_DSM112123,gentamicin,susceptible,0,Escherichia coli
+562.102869,Escherichia coli Escherichia_coli_DSM112123,imipenem,susceptible,0,Escherichia coli
+562.102869,Escherichia coli Escherichia_coli_DSM112123,tetracycline,susceptible,0,Escherichia coli
+562.102869,Escherichia coli Escherichia_coli_DSM112123,trimethoprim,susceptible,0,Escherichia coli
+562.102870,Escherichia coli Escherichia_coli_DSM112115,ampicillin,susceptible,0,Escherichia coli
+562.102870,Escherichia coli Escherichia_coli_DSM112115,ciprofloxacin,susceptible,0,Escherichia coli
+562.102870,Escherichia coli Escherichia_coli_DSM112115,gentamicin,susceptible,0,Escherichia coli
+562.102870,Escherichia coli Escherichia_coli_DSM112115,imipenem,susceptible,0,Escherichia coli
+562.102870,Escherichia coli Escherichia_coli_DSM112115,tetracycline,susceptible,0,Escherichia coli
+562.102870,Escherichia coli Escherichia_coli_DSM112115,trimethoprim,susceptible,0,Escherichia coli
+562.102871,Escherichia coli Escherichia_coli_DSM112124,ampicillin,susceptible,0,Escherichia coli
+562.102871,Escherichia coli Escherichia_coli_DSM112124,ciprofloxacin,susceptible,0,Escherichia coli
+562.102871,Escherichia coli Escherichia_coli_DSM112124,gentamicin,susceptible,0,Escherichia coli
+562.102871,Escherichia coli Escherichia_coli_DSM112124,imipenem,susceptible,0,Escherichia coli
+562.102871,Escherichia coli Escherichia_coli_DSM112124,tetracycline,susceptible,0,Escherichia coli
+562.102871,Escherichia coli Escherichia_coli_DSM112124,trimethoprim,susceptible,0,Escherichia coli
+562.102872,Escherichia coli Escherichia_coli_DSM112110,ampicillin,susceptible,0,Escherichia coli
+562.102872,Escherichia coli Escherichia_coli_DSM112110,ciprofloxacin,susceptible,0,Escherichia coli
+562.102872,Escherichia coli Escherichia_coli_DSM112110,gentamicin,susceptible,0,Escherichia coli
+562.102872,Escherichia coli Escherichia_coli_DSM112110,imipenem,susceptible,0,Escherichia coli
+562.102872,Escherichia coli Escherichia_coli_DSM112110,tetracycline,susceptible,0,Escherichia coli
+562.102872,Escherichia coli Escherichia_coli_DSM112110,trimethoprim,susceptible,0,Escherichia coli
+562.102873,Escherichia coli Escherichia_coli_DSM112118,ampicillin,susceptible,0,Escherichia coli
+562.102873,Escherichia coli Escherichia_coli_DSM112118,ciprofloxacin,susceptible,0,Escherichia coli
+562.102873,Escherichia coli Escherichia_coli_DSM112118,gentamicin,susceptible,0,Escherichia coli
+562.102873,Escherichia coli Escherichia_coli_DSM112118,imipenem,susceptible,0,Escherichia coli
+562.102873,Escherichia coli Escherichia_coli_DSM112118,tetracycline,susceptible,0,Escherichia coli
+562.102873,Escherichia coli Escherichia_coli_DSM112118,trimethoprim,susceptible,0,Escherichia coli
+562.102874,Escherichia coli Escherichia_coli_DSM112120,ampicillin,susceptible,0,Escherichia coli
+562.102874,Escherichia coli Escherichia_coli_DSM112120,ciprofloxacin,susceptible,0,Escherichia coli
+562.102874,Escherichia coli Escherichia_coli_DSM112120,gentamicin,susceptible,0,Escherichia coli
+562.102874,Escherichia coli Escherichia_coli_DSM112120,imipenem,susceptible,0,Escherichia coli
+562.102874,Escherichia coli Escherichia_coli_DSM112120,tetracycline,susceptible,0,Escherichia coli
+562.102874,Escherichia coli Escherichia_coli_DSM112120,trimethoprim,susceptible,0,Escherichia coli
+562.102875,Escherichia coli Escherichia_coli_DSM112116,ampicillin,susceptible,0,Escherichia coli
+562.102875,Escherichia coli Escherichia_coli_DSM112116,ciprofloxacin,susceptible,0,Escherichia coli
+562.102875,Escherichia coli Escherichia_coli_DSM112116,gentamicin,susceptible,0,Escherichia coli
+562.102875,Escherichia coli Escherichia_coli_DSM112116,imipenem,susceptible,0,Escherichia coli
+562.102875,Escherichia coli Escherichia_coli_DSM112116,tetracycline,susceptible,0,Escherichia coli
+562.102875,Escherichia coli Escherichia_coli_DSM112116,trimethoprim,susceptible,0,Escherichia coli
+562.102876,Escherichia coli Escherichia_coli_DSM112111,ampicillin,susceptible,0,Escherichia coli
+562.102876,Escherichia coli Escherichia_coli_DSM112111,ciprofloxacin,susceptible,0,Escherichia coli
+562.102876,Escherichia coli Escherichia_coli_DSM112111,gentamicin,susceptible,0,Escherichia coli
+562.102876,Escherichia coli Escherichia_coli_DSM112111,imipenem,susceptible,0,Escherichia coli
+562.102876,Escherichia coli Escherichia_coli_DSM112111,tetracycline,susceptible,0,Escherichia coli
+562.102876,Escherichia coli Escherichia_coli_DSM112111,trimethoprim,susceptible,0,Escherichia coli
+562.102877,Escherichia coli Escherichia_coli_DSM112126,ampicillin,susceptible,0,Escherichia coli
+562.102877,Escherichia coli Escherichia_coli_DSM112126,ciprofloxacin,susceptible,0,Escherichia coli
+562.102877,Escherichia coli Escherichia_coli_DSM112126,gentamicin,susceptible,0,Escherichia coli
+562.102877,Escherichia coli Escherichia_coli_DSM112126,imipenem,susceptible,0,Escherichia coli
+562.102877,Escherichia coli Escherichia_coli_DSM112126,tetracycline,susceptible,0,Escherichia coli
+562.102877,Escherichia coli Escherichia_coli_DSM112126,trimethoprim,susceptible,0,Escherichia coli
+562.102878,Escherichia coli Escherichia_coli_DSM112119,ampicillin,susceptible,0,Escherichia coli
+562.102878,Escherichia coli Escherichia_coli_DSM112119,ciprofloxacin,susceptible,0,Escherichia coli
+562.102878,Escherichia coli Escherichia_coli_DSM112119,gentamicin,susceptible,0,Escherichia coli
+562.102878,Escherichia coli Escherichia_coli_DSM112119,imipenem,susceptible,0,Escherichia coli
+562.102878,Escherichia coli Escherichia_coli_DSM112119,tetracycline,susceptible,0,Escherichia coli
+562.102878,Escherichia coli Escherichia_coli_DSM112119,trimethoprim,susceptible,0,Escherichia coli
+562.102879,Escherichia coli Escherichia_coli_DSM112114,ampicillin,susceptible,0,Escherichia coli
+562.102879,Escherichia coli Escherichia_coli_DSM112114,ciprofloxacin,susceptible,0,Escherichia coli
+562.102879,Escherichia coli Escherichia_coli_DSM112114,gentamicin,susceptible,0,Escherichia coli
+562.102879,Escherichia coli Escherichia_coli_DSM112114,imipenem,susceptible,0,Escherichia coli
+562.102879,Escherichia coli Escherichia_coli_DSM112114,tetracycline,susceptible,0,Escherichia coli
+562.102879,Escherichia coli Escherichia_coli_DSM112114,trimethoprim,susceptible,0,Escherichia coli
+562.102880,Escherichia coli Escherichia_coli_DSM112127,ampicillin,susceptible,0,Escherichia coli
+562.102880,Escherichia coli Escherichia_coli_DSM112127,ciprofloxacin,susceptible,0,Escherichia coli
+562.102880,Escherichia coli Escherichia_coli_DSM112127,gentamicin,susceptible,0,Escherichia coli
+562.102880,Escherichia coli Escherichia_coli_DSM112127,imipenem,susceptible,0,Escherichia coli
+562.102880,Escherichia coli Escherichia_coli_DSM112127,tetracycline,susceptible,0,Escherichia coli
+562.102880,Escherichia coli Escherichia_coli_DSM112127,trimethoprim,susceptible,0,Escherichia coli
+562.135462,Escherichia coli 23-C-YW-2_Escherichia,ampicillin,resistant,1,Escherichia coli
+562.135462,Escherichia coli 23-C-YW-2_Escherichia,ciprofloxacin,resistant,1,Escherichia coli
+562.135462,Escherichia coli 23-C-YW-2_Escherichia,gentamicin,susceptible,0,Escherichia coli
+562.135462,Escherichia coli 23-C-YW-2_Escherichia,imipenem,resistant,1,Escherichia coli
+562.135462,Escherichia coli 23-C-YW-2_Escherichia,tetracycline,susceptible,0,Escherichia coli
+562.135462,Escherichia coli 23-C-YW-2_Escherichia,trimethoprim,resistant,1,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,ampicillin,resistant,1,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,imipenem,susceptible,0,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,ciprofloxacin,resistant,1,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,gentamicin,susceptible,0,Escherichia coli
+1144303.11,Escherichia coli J53 strain E. coli,ampicillin,resistant,1,Escherichia coli
+1144303.11,Escherichia coli J53 strain E. coli,ciprofloxacin,susceptible,0,Escherichia coli
+1144303.11,Escherichia coli J53 strain E. coli,gentamicin,resistant,1,Escherichia coli
+1144303.11,Escherichia coli J53 strain E. coli,imipenem,susceptible,0,Escherichia coli
+1144303.11,Escherichia coli J53 strain E. coli,tetracycline,resistant,1,Escherichia coli
+1144303.11,Escherichia coli J53 strain E. coli,trimethoprim,susceptible,0,Escherichia coli
+1144303.12,Escherichia coli J53 strain E. coli,ampicillin,resistant,1,Escherichia coli
+1144303.12,Escherichia coli J53 strain E. coli,ciprofloxacin,susceptible,0,Escherichia coli
+1144303.12,Escherichia coli J53 strain E. coli,gentamicin,resistant,1,Escherichia coli
+1144303.12,Escherichia coli J53 strain E. coli,imipenem,susceptible,0,Escherichia coli
+1144303.12,Escherichia coli J53 strain E. coli,tetracycline,susceptible,0,Escherichia coli
+1144303.12,Escherichia coli J53 strain E. coli,trimethoprim,susceptible,0,Escherichia coli
+562.9322,Escherichia coli strain E. coli ErtS,ampicillin,resistant,1,Escherichia coli
+562.9322,Escherichia coli strain E. coli ErtS,ciprofloxacin,resistant,1,Escherichia coli
+562.9322,Escherichia coli strain E. coli ErtS,gentamicin,susceptible,0,Escherichia coli
+562.9322,Escherichia coli strain E. coli ErtS,imipenem,susceptible,0,Escherichia coli
+562.9322,Escherichia coli strain E. coli ErtS,tetracycline,resistant,1,Escherichia coli
+562.9322,Escherichia coli strain E. coli ErtS,trimethoprim,resistant,1,Escherichia coli
+562.16426,Escherichia coli strain HB-Coli0,ampicillin,susceptible,0,Escherichia coli
+562.16426,Escherichia coli strain HB-Coli0,ciprofloxacin,resistant,1,Escherichia coli
+562.16426,Escherichia coli strain HB-Coli0,gentamicin,susceptible,0,Escherichia coli
+562.16426,Escherichia coli strain HB-Coli0,imipenem,susceptible,0,Escherichia coli
+562.16426,Escherichia coli strain HB-Coli0,tetracycline,resistant,1,Escherichia coli
+562.16426,Escherichia coli strain HB-Coli0,trimethoprim,resistant,1,Escherichia coli
+562.24626,Escherichia coli strain HB-Coli0,ampicillin,resistant,1,Escherichia coli
+562.24626,Escherichia coli strain HB-Coli0,ciprofloxacin,susceptible,0,Escherichia coli
+562.24626,Escherichia coli strain HB-Coli0,gentamicin,susceptible,0,Escherichia coli
+562.24626,Escherichia coli strain HB-Coli0,imipenem,susceptible,0,Escherichia coli
+562.24626,Escherichia coli strain HB-Coli0,tetracycline,susceptible,0,Escherichia coli
+562.24626,Escherichia coli strain HB-Coli0,trimethoprim,resistant,1,Escherichia coli
+562.24627,Escherichia coli strain HB-Coli0,ampicillin,resistant,1,Escherichia coli
+562.24627,Escherichia coli strain HB-Coli0,ciprofloxacin,susceptible,0,Escherichia coli
+562.24627,Escherichia coli strain HB-Coli0,gentamicin,susceptible,0,Escherichia coli
+562.24627,Escherichia coli strain HB-Coli0,imipenem,susceptible,0,Escherichia coli
+562.24627,Escherichia coli strain HB-Coli0,tetracycline,susceptible,0,Escherichia coli
+562.24627,Escherichia coli strain HB-Coli0,trimethoprim,resistant,1,Escherichia coli
+562.24628,Escherichia coli strain HB-Coli0,ampicillin,resistant,1,Escherichia coli
+562.24628,Escherichia coli strain HB-Coli0,ciprofloxacin,susceptible,0,Escherichia coli
+562.24628,Escherichia coli strain HB-Coli0,gentamicin,susceptible,0,Escherichia coli
+562.24628,Escherichia coli strain HB-Coli0,imipenem,susceptible,0,Escherichia coli
+562.24628,Escherichia coli strain HB-Coli0,tetracycline,resistant,1,Escherichia coli
+562.24628,Escherichia coli strain HB-Coli0,trimethoprim,resistant,1,Escherichia coli
+562.30994,Escherichia coli strain E. coli RL465,ampicillin,resistant,1,Escherichia coli
+562.30994,Escherichia coli strain E. coli RL465,ciprofloxacin,resistant,1,Escherichia coli
+562.30994,Escherichia coli strain E. coli RL465,gentamicin,susceptible,0,Escherichia coli
+562.30994,Escherichia coli strain E. coli RL465,imipenem,susceptible,0,Escherichia coli
+562.30994,Escherichia coli strain E. coli RL465,tetracycline,resistant,1,Escherichia coli
+562.30994,Escherichia coli strain E. coli RL465,trimethoprim,resistant,1,Escherichia coli
+562.31003,Escherichia coli strain E.coli C142,ampicillin,resistant,1,Escherichia coli
+562.31003,Escherichia coli strain E.coli C142,ciprofloxacin,susceptible,0,Escherichia coli
+562.31003,Escherichia coli strain E.coli C142,gentamicin,susceptible,0,Escherichia coli
+562.31003,Escherichia coli strain E.coli C142,imipenem,susceptible,0,Escherichia coli
+562.31003,Escherichia coli strain E.coli C142,tetracycline,resistant,1,Escherichia coli
+562.31003,Escherichia coli strain E.coli C142,trimethoprim,resistant,1,Escherichia coli
+562.31004,Escherichia coli strain E.coli C158,ampicillin,resistant,1,Escherichia coli
+562.31004,Escherichia coli strain E.coli C158,ciprofloxacin,susceptible,0,Escherichia coli
+562.31004,Escherichia coli strain E.coli C158,gentamicin,susceptible,0,Escherichia coli
+562.31004,Escherichia coli strain E.coli C158,imipenem,susceptible,0,Escherichia coli
+562.31004,Escherichia coli strain E.coli C158,tetracycline,resistant,1,Escherichia coli
+562.31004,Escherichia coli strain E.coli C158,trimethoprim,resistant,1,Escherichia coli
+562.123975,Escherichia coli PN-039-E1-S11_E_coli,ampicillin,resistant,1,Escherichia coli
+562.123975,Escherichia coli PN-039-E1-S11_E_coli,ciprofloxacin,resistant,1,Escherichia coli
+562.123975,Escherichia coli PN-039-E1-S11_E_coli,gentamicin,susceptible,0,Escherichia coli
+562.123975,Escherichia coli PN-039-E1-S11_E_coli,imipenem,susceptible,0,Escherichia coli
+562.123975,Escherichia coli PN-039-E1-S11_E_coli,tetracycline,susceptible,0,Escherichia coli
+562.123975,Escherichia coli PN-039-E1-S11_E_coli,trimethoprim,susceptible,0,Escherichia coli
+562.123976,Escherichia coli PN-039-E1-S06_E_coli_ESBL,ampicillin,resistant,1,Escherichia coli
+562.123976,Escherichia coli PN-039-E1-S06_E_coli_ESBL,ciprofloxacin,susceptible,0,Escherichia coli
+562.123976,Escherichia coli PN-039-E1-S06_E_coli_ESBL,gentamicin,susceptible,0,Escherichia coli
+562.123976,Escherichia coli PN-039-E1-S06_E_coli_ESBL,imipenem,susceptible,0,Escherichia coli
+562.123976,Escherichia coli PN-039-E1-S06_E_coli_ESBL,tetracycline,susceptible,0,Escherichia coli
+562.123976,Escherichia coli PN-039-E1-S06_E_coli_ESBL,trimethoprim,resistant,1,Escherichia coli
+562.123977,Escherichia coli PN-039-E1-S06_E_coli_CIP_SLF,ampicillin,resistant,1,Escherichia coli
+562.123977,Escherichia coli PN-039-E1-S06_E_coli_CIP_SLF,ciprofloxacin,resistant,1,Escherichia coli
+562.123977,Escherichia coli PN-039-E1-S06_E_coli_CIP_SLF,gentamicin,susceptible,0,Escherichia coli
+562.123977,Escherichia coli PN-039-E1-S06_E_coli_CIP_SLF,imipenem,susceptible,0,Escherichia coli
+562.123977,Escherichia coli PN-039-E1-S06_E_coli_CIP_SLF,tetracycline,resistant,1,Escherichia coli
+562.123977,Escherichia coli PN-039-E1-S06_E_coli_CIP_SLF,trimethoprim,resistant,1,Escherichia coli
+562.123978,Escherichia coli PN-039-E1-S02_E_coli_CIP_LF,ampicillin,resistant,1,Escherichia coli
+562.123978,Escherichia coli PN-039-E1-S02_E_coli_CIP_LF,ciprofloxacin,resistant,1,Escherichia coli
+562.123978,Escherichia coli PN-039-E1-S02_E_coli_CIP_LF,gentamicin,susceptible,0,Escherichia coli
+562.123978,Escherichia coli PN-039-E1-S02_E_coli_CIP_LF,imipenem,resistant,1,Escherichia coli
+562.123978,Escherichia coli PN-039-E1-S02_E_coli_CIP_LF,tetracycline,resistant,1,Escherichia coli
+562.123978,Escherichia coli PN-039-E1-S02_E_coli_CIP_LF,trimethoprim,resistant,1,Escherichia coli
+562.123979,Escherichia coli PN-039-E1-S02_E_coli_CIP_SLF,ampicillin,resistant,1,Escherichia coli
+562.123979,Escherichia coli PN-039-E1-S02_E_coli_CIP_SLF,ciprofloxacin,resistant,1,Escherichia coli
+562.123979,Escherichia coli PN-039-E1-S02_E_coli_CIP_SLF,gentamicin,susceptible,0,Escherichia coli
+562.123979,Escherichia coli PN-039-E1-S02_E_coli_CIP_SLF,imipenem,susceptible,0,Escherichia coli
+562.123979,Escherichia coli PN-039-E1-S02_E_coli_CIP_SLF,tetracycline,susceptible,0,Escherichia coli
+562.123979,Escherichia coli PN-039-E1-S02_E_coli_CIP_SLF,trimethoprim,resistant,1,Escherichia coli
+562.123980,Escherichia coli PN-013-E1-S01_E_coli_cipro_SLF,ampicillin,resistant,1,Escherichia coli
+562.123980,Escherichia coli PN-013-E1-S01_E_coli_cipro_SLF,ciprofloxacin,resistant,1,Escherichia coli
+562.123980,Escherichia coli PN-013-E1-S01_E_coli_cipro_SLF,gentamicin,susceptible,0,Escherichia coli
+562.123980,Escherichia coli PN-013-E1-S01_E_coli_cipro_SLF,imipenem,susceptible,0,Escherichia coli
+562.123980,Escherichia coli PN-013-E1-S01_E_coli_cipro_SLF,tetracycline,susceptible,0,Escherichia coli
+562.123980,Escherichia coli PN-013-E1-S01_E_coli_cipro_SLF,trimethoprim,resistant,1,Escherichia coli
+562.123981,Escherichia coli PN-039-E1-S02_E_coli_CTX_LF,ampicillin,resistant,1,Escherichia coli
+562.123981,Escherichia coli PN-039-E1-S02_E_coli_CTX_LF,ciprofloxacin,resistant,1,Escherichia coli
+562.123981,Escherichia coli PN-039-E1-S02_E_coli_CTX_LF,gentamicin,susceptible,0,Escherichia coli
+562.123981,Escherichia coli PN-039-E1-S02_E_coli_CTX_LF,imipenem,susceptible,0,Escherichia coli
+562.123981,Escherichia coli PN-039-E1-S02_E_coli_CTX_LF,tetracycline,resistant,1,Escherichia coli
+562.123981,Escherichia coli PN-039-E1-S02_E_coli_CTX_LF,trimethoprim,susceptible,0,Escherichia coli
+562.123982,Escherichia coli PN-013-E1-S04_E_coli_rose,ampicillin,resistant,1,Escherichia coli
+562.123982,Escherichia coli PN-013-E1-S04_E_coli_rose,ciprofloxacin,resistant,1,Escherichia coli
+562.123982,Escherichia coli PN-013-E1-S04_E_coli_rose,gentamicin,susceptible,0,Escherichia coli
+562.123982,Escherichia coli PN-013-E1-S04_E_coli_rose,imipenem,susceptible,0,Escherichia coli
+562.123982,Escherichia coli PN-013-E1-S04_E_coli_rose,tetracycline,susceptible,0,Escherichia coli
+562.123982,Escherichia coli PN-013-E1-S04_E_coli_rose,trimethoprim,resistant,1,Escherichia coli
+562.123983,Escherichia coli PN-013-E3-S01_E_coli_CiP_LF,ampicillin,resistant,1,Escherichia coli
+562.123983,Escherichia coli PN-013-E3-S01_E_coli_CiP_LF,ciprofloxacin,resistant,1,Escherichia coli
+562.123983,Escherichia coli PN-013-E3-S01_E_coli_CiP_LF,gentamicin,susceptible,0,Escherichia coli
+562.123983,Escherichia coli PN-013-E3-S01_E_coli_CiP_LF,imipenem,susceptible,0,Escherichia coli
+562.123983,Escherichia coli PN-013-E3-S01_E_coli_CiP_LF,tetracycline,susceptible,0,Escherichia coli
+562.123983,Escherichia coli PN-013-E3-S01_E_coli_CiP_LF,trimethoprim,resistant,1,Escherichia coli
+562.123984,Escherichia coli PN-013-E3-S01_E_coli_CTX_LF,ampicillin,resistant,1,Escherichia coli
+562.123984,Escherichia coli PN-013-E3-S01_E_coli_CTX_LF,ciprofloxacin,resistant,1,Escherichia coli
+562.123984,Escherichia coli PN-013-E3-S01_E_coli_CTX_LF,gentamicin,susceptible,0,Escherichia coli
+562.123984,Escherichia coli PN-013-E3-S01_E_coli_CTX_LF,imipenem,susceptible,0,Escherichia coli
+562.123984,Escherichia coli PN-013-E3-S01_E_coli_CTX_LF,tetracycline,susceptible,0,Escherichia coli
+562.123984,Escherichia coli PN-013-E3-S01_E_coli_CTX_LF,trimethoprim,resistant,1,Escherichia coli
+562.123985,Escherichia coli PN-013-E3-S02_E_coli_CTX_SLF,ampicillin,resistant,1,Escherichia coli
+562.123985,Escherichia coli PN-013-E3-S02_E_coli_CTX_SLF,ciprofloxacin,resistant,1,Escherichia coli
+562.123985,Escherichia coli PN-013-E3-S02_E_coli_CTX_SLF,gentamicin,susceptible,0,Escherichia coli
+562.123985,Escherichia coli PN-013-E3-S02_E_coli_CTX_SLF,imipenem,susceptible,0,Escherichia coli
+562.123985,Escherichia coli PN-013-E3-S02_E_coli_CTX_SLF,tetracycline,susceptible,0,Escherichia coli
+562.123985,Escherichia coli PN-013-E3-S02_E_coli_CTX_SLF,trimethoprim,resistant,1,Escherichia coli
+562.123986,Escherichia coli PN-013-E3-S02_E_coli_nonrose,ampicillin,resistant,1,Escherichia coli
+562.123986,Escherichia coli PN-013-E3-S02_E_coli_nonrose,ciprofloxacin,resistant,1,Escherichia coli
+562.123986,Escherichia coli PN-013-E3-S02_E_coli_nonrose,gentamicin,susceptible,0,Escherichia coli
+562.123986,Escherichia coli PN-013-E3-S02_E_coli_nonrose,imipenem,susceptible,0,Escherichia coli
+562.123986,Escherichia coli PN-013-E3-S02_E_coli_nonrose,tetracycline,susceptible,0,Escherichia coli
+562.123986,Escherichia coli PN-013-E3-S02_E_coli_nonrose,trimethoprim,resistant,1,Escherichia coli
+562.123987,Escherichia coli PN-013-E3-S02_E_coli_CiP_LF,ampicillin,resistant,1,Escherichia coli
+562.123987,Escherichia coli PN-013-E3-S02_E_coli_CiP_LF,ciprofloxacin,resistant,1,Escherichia coli
+562.123987,Escherichia coli PN-013-E3-S02_E_coli_CiP_LF,gentamicin,susceptible,0,Escherichia coli
+562.123987,Escherichia coli PN-013-E3-S02_E_coli_CiP_LF,imipenem,susceptible,0,Escherichia coli
+562.123987,Escherichia coli PN-013-E3-S02_E_coli_CiP_LF,tetracycline,susceptible,0,Escherichia coli
+562.123987,Escherichia coli PN-013-E3-S02_E_coli_CiP_LF,trimethoprim,resistant,1,Escherichia coli
+562.134429,Escherichia coli E. coli NRZ14408,ampicillin,resistant,1,Escherichia coli
+562.134429,Escherichia coli E. coli NRZ14408,ciprofloxacin,resistant,1,Escherichia coli
+562.134429,Escherichia coli E. coli NRZ14408,gentamicin,resistant,1,Escherichia coli
+562.134429,Escherichia coli E. coli NRZ14408,imipenem,susceptible,0,Escherichia coli
+562.134429,Escherichia coli E. coli NRZ14408,tetracycline,resistant,1,Escherichia coli
+562.134429,Escherichia coli E. coli NRZ14408,trimethoprim,resistant,1,Escherichia coli
+562.140024,Escherichia coli coli_15_spades_megahit.gam,ampicillin,susceptible,0,Escherichia coli
+562.140024,Escherichia coli coli_15_spades_megahit.gam,ciprofloxacin,susceptible,0,Escherichia coli
+562.140024,Escherichia coli coli_15_spades_megahit.gam,gentamicin,susceptible,0,Escherichia coli
+562.140024,Escherichia coli coli_15_spades_megahit.gam,imipenem,susceptible,0,Escherichia coli
+562.140024,Escherichia coli coli_15_spades_megahit.gam,tetracycline,susceptible,0,Escherichia coli
+562.140024,Escherichia coli coli_15_spades_megahit.gam,trimethoprim,susceptible,0,Escherichia coli
+562.140025,Escherichia coli coli_13_spades_megahit.gam,ampicillin,susceptible,0,Escherichia coli
+562.140025,Escherichia coli coli_13_spades_megahit.gam,ciprofloxacin,susceptible,0,Escherichia coli
+562.140025,Escherichia coli coli_13_spades_megahit.gam,gentamicin,susceptible,0,Escherichia coli
+562.140025,Escherichia coli coli_13_spades_megahit.gam,imipenem,susceptible,0,Escherichia coli
+562.140025,Escherichia coli coli_13_spades_megahit.gam,tetracycline,susceptible,0,Escherichia coli
+562.140025,Escherichia coli coli_13_spades_megahit.gam,trimethoprim,susceptible,0,Escherichia coli
+562.140026,Escherichia coli coli_14_spades_megahit.gam,ampicillin,susceptible,0,Escherichia coli
+562.140026,Escherichia coli coli_14_spades_megahit.gam,ciprofloxacin,susceptible,0,Escherichia coli
+562.140026,Escherichia coli coli_14_spades_megahit.gam,gentamicin,susceptible,0,Escherichia coli
+562.140026,Escherichia coli coli_14_spades_megahit.gam,imipenem,susceptible,0,Escherichia coli
+562.140026,Escherichia coli coli_14_spades_megahit.gam,tetracycline,susceptible,0,Escherichia coli
+562.140026,Escherichia coli coli_14_spades_megahit.gam,trimethoprim,susceptible,0,Escherichia coli
+562.140027,Escherichia coli coli_12_spades_megahit.gam,ampicillin,susceptible,0,Escherichia coli
+562.140027,Escherichia coli coli_12_spades_megahit.gam,ciprofloxacin,susceptible,0,Escherichia coli
+562.140027,Escherichia coli coli_12_spades_megahit.gam,gentamicin,susceptible,0,Escherichia coli
+562.140027,Escherichia coli coli_12_spades_megahit.gam,imipenem,susceptible,0,Escherichia coli
+562.140027,Escherichia coli coli_12_spades_megahit.gam,tetracycline,susceptible,0,Escherichia coli
+562.140027,Escherichia coli coli_12_spades_megahit.gam,trimethoprim,susceptible,0,Escherichia coli
+562.140030,Escherichia coli coli_11_spades_megahit.gam,ampicillin,susceptible,0,Escherichia coli
+562.140030,Escherichia coli coli_11_spades_megahit.gam,ciprofloxacin,susceptible,0,Escherichia coli
+562.140030,Escherichia coli coli_11_spades_megahit.gam,gentamicin,susceptible,0,Escherichia coli
+562.140030,Escherichia coli coli_11_spades_megahit.gam,imipenem,susceptible,0,Escherichia coli
+562.140030,Escherichia coli coli_11_spades_megahit.gam,tetracycline,susceptible,0,Escherichia coli
+562.140030,Escherichia coli coli_11_spades_megahit.gam,trimethoprim,susceptible,0,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,ampicillin,resistant,1,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,ciprofloxacin,resistant,1,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,gentamicin,susceptible,0,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,imipenem,susceptible,0,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,tetracycline,resistant,1,Escherichia coli
+562.140876,Escherichia coli 010-E1-DxU-E_coli,trimethoprim,susceptible,0,Escherichia coli
+37762.22,Escherichia coli B strain E.coli-P26_C8,ampicillin,resistant,1,Escherichia coli
+37762.22,Escherichia coli B strain E.coli-P26_C8,ciprofloxacin,resistant,1,Escherichia coli
+37762.22,Escherichia coli B strain E.coli-P26_C8,gentamicin,susceptible,0,Escherichia coli
+37762.22,Escherichia coli B strain E.coli-P26_C8,imipenem,susceptible,0,Escherichia coli
+37762.22,Escherichia coli B strain E.coli-P26_C8,tetracycline,resistant,1,Escherichia coli
+37762.22,Escherichia coli B strain E.coli-P26_C8,trimethoprim,resistant,1,Escherichia coli
+37762.23,Escherichia coli B strain E.coli-P37_C4,ampicillin,resistant,1,Escherichia coli
+37762.23,Escherichia coli B strain E.coli-P37_C4,ciprofloxacin,resistant,1,Escherichia coli
+37762.23,Escherichia coli B strain E.coli-P37_C4,gentamicin,susceptible,0,Escherichia coli
+37762.23,Escherichia coli B strain E.coli-P37_C4,imipenem,susceptible,0,Escherichia coli
+37762.23,Escherichia coli B strain E.coli-P37_C4,tetracycline,resistant,1,Escherichia coli
+37762.23,Escherichia coli B strain E.coli-P37_C4,trimethoprim,resistant,1,Escherichia coli
+37762.24,Escherichia coli B strain E.coli-P2_C27,ampicillin,resistant,1,Escherichia coli
+37762.24,Escherichia coli B strain E.coli-P2_C27,ciprofloxacin,resistant,1,Escherichia coli
+37762.24,Escherichia coli B strain E.coli-P2_C27,gentamicin,susceptible,0,Escherichia coli
+37762.24,Escherichia coli B strain E.coli-P2_C27,imipenem,susceptible,0,Escherichia coli
+37762.24,Escherichia coli B strain E.coli-P2_C27,tetracycline,susceptible,0,Escherichia coli
+37762.24,Escherichia coli B strain E.coli-P2_C27,trimethoprim,resistant,1,Escherichia coli
+37762.25,Escherichia coli B strain E.coli-P15_C34,ampicillin,resistant,1,Escherichia coli
+37762.25,Escherichia coli B strain E.coli-P15_C34,ciprofloxacin,resistant,1,Escherichia coli
+37762.25,Escherichia coli B strain E.coli-P15_C34,gentamicin,resistant,1,Escherichia coli
+37762.25,Escherichia coli B strain E.coli-P15_C34,imipenem,susceptible,0,Escherichia coli
+37762.25,Escherichia coli B strain E.coli-P15_C34,tetracycline,resistant,1,Escherichia coli
+37762.25,Escherichia coli B strain E.coli-P15_C34,trimethoprim,resistant,1,Escherichia coli
+37762.26,Escherichia coli B strain E.coli-P22_C1,ampicillin,resistant,1,Escherichia coli
+37762.26,Escherichia coli B strain E.coli-P22_C1,ciprofloxacin,resistant,1,Escherichia coli
+37762.26,Escherichia coli B strain E.coli-P22_C1,gentamicin,susceptible,0,Escherichia coli
+37762.26,Escherichia coli B strain E.coli-P22_C1,imipenem,susceptible,0,Escherichia coli
+37762.26,Escherichia coli B strain E.coli-P22_C1,tetracycline,resistant,1,Escherichia coli
+37762.26,Escherichia coli B strain E.coli-P22_C1,trimethoprim,resistant,1,Escherichia coli
+37762.27,Escherichia coli B strain E.coli-P37_C3,ampicillin,resistant,1,Escherichia coli
+37762.27,Escherichia coli B strain E.coli-P37_C3,ciprofloxacin,resistant,1,Escherichia coli
+37762.27,Escherichia coli B strain E.coli-P37_C3,gentamicin,susceptible,0,Escherichia coli
+37762.27,Escherichia coli B strain E.coli-P37_C3,imipenem,susceptible,0,Escherichia coli
+37762.27,Escherichia coli B strain E.coli-P37_C3,tetracycline,resistant,1,Escherichia coli
+37762.27,Escherichia coli B strain E.coli-P37_C3,trimethoprim,resistant,1,Escherichia coli
+562.184190,Escherichia coli QU_Oryx_E.coli_6,ampicillin,susceptible,0,Escherichia coli
+562.184190,Escherichia coli QU_Oryx_E.coli_6,ciprofloxacin,resistant,1,Escherichia coli
+562.184190,Escherichia coli QU_Oryx_E.coli_6,imipenem,susceptible,0,Escherichia coli
+562.184190,Escherichia coli QU_Oryx_E.coli_6,tetracycline,susceptible,0,Escherichia coli
+562.56783,Escherichia coli strain 372-13,ciprofloxacin,resistant,1,Escherichia coli
+562.145027,Escherichia coli PT_EC0037,ciprofloxacin,susceptible,0,Escherichia coli
+562.97941,Escherichia coli 85191a64-7bb8-11e9-a8d3-68b59976a384,ampicillin,susceptible,0,Escherichia coli
+562.99107,Escherichia coli e61df582-7bb8-11e9-a8d3-68b59976a384,ciprofloxacin,susceptible,0,Escherichia coli
+562.7641,Escherichia coli strain 401686,tetracycline,resistant,1,Escherichia coli
+562.98963,Escherichia coli 8673d6be-7bb9-11e9-a8d3-68b59976a384,gentamicin,susceptible,0,Escherichia coli
+562.23489,Escherichia coli O6:H1 strain ECO1068,imipenem,susceptible,0,Escherichia coli
+562.99221,Escherichia coli 59faed3e-7bb9-11e9-a8d3-68b59976a384,ciprofloxacin,susceptible,0,Escherichia coli
+562.99297,Escherichia coli 7e518f4e-7bb9-11e9-a8d3-68b59976a384,ampicillin,susceptible,0,Escherichia coli
+562.99515,Escherichia coli cd375914-7bb8-11e9-a8d3-68b59976a384,gentamicin,susceptible,0,Escherichia coli
+562.22950,Escherichia coli O21:H4 strain ECO0563,ciprofloxacin,susceptible,0,Escherichia coli
+562.97842,Escherichia coli 8ec44f88-7bb9-11e9-a8d3-68b59976a384,gentamicin,susceptible,0,Escherichia coli
+562.23663,Escherichia coli O23:H16 strain ECO1398,ciprofloxacin,susceptible,0,Escherichia coli
+562.42792,Escherichia coli strain M37,imipenem,susceptible,0,Escherichia coli
+562.65809,Escherichia coli strain RS119,ciprofloxacin,resistant,1,Escherichia coli
+562.145080,Escherichia coli PT_EC0202,ciprofloxacin,susceptible,0,Escherichia coli
+562.23147,Escherichia coli O2:H1 strain ECO0661,ciprofloxacin,susceptible,0,Escherichia coli
+562.99081,Escherichia coli 7f13efda-7bb9-11e9-a8d3-68b59976a384,gentamicin,susceptible,0,Escherichia coli
+562.100403,Escherichia coli 985bc554-7bb8-11e9-a8d3-68b59976a384,ciprofloxacin,susceptible,0,Escherichia coli
+562.23137,Escherichia coli O18:H5 strain ECO0534,gentamicin,susceptible,0,Escherichia coli
+562.98656,Escherichia coli 856c5378-7bb8-11e9-a8d3-68b59976a384,ampicillin,resistant,1,Escherichia coli
+562.58721,Escherichia coli strain 14066715,ampicillin,resistant,1,Escherichia coli
+562.42768,Escherichia coli strain M14,gentamicin,resistant,1,Escherichia coli
+562.98771,Escherichia coli bcac963a-7bb9-11e9-a8d3-68b59976a384,ampicillin,susceptible,0,Escherichia coli
+562.65246,Escherichia coli strain AMC_456,ampicillin,resistant,1,Escherichia coli
+562.96655,Escherichia coli VREC0840,gentamicin,susceptible,0,Escherichia coli
+562.58718,Escherichia coli strain 14062120,ciprofloxacin,susceptible,0,Escherichia coli
+562.50291,Escherichia coli strain URMC_17,ciprofloxacin,resistant,1,Escherichia coli
+562.7673,Escherichia coli strain 401250_aEPEC,ampicillin,resistant,1,Escherichia coli
+562.65565,Escherichia coli strain AMC_634,ampicillin,resistant,1,Escherichia coli
+562.145047,Escherichia coli PT_EC0217,tetracycline,susceptible,0,Escherichia coli
+562.7754,Escherichia coli strain 402227_aEPEC,trimethoprim,resistant,1,Escherichia coli
+562.97145,Escherichia coli VREC1290,ciprofloxacin,susceptible,0,Escherichia coli
+562.98415,Escherichia coli 98cd2964-7bb9-11e9-a8d3-68b59976a384,gentamicin,susceptible,0,Escherichia coli

@@ -1,0 +1,1268 @@
+resistant_phenotype,genome_name,genome_id,antibiotic,label,organism
+susceptible,Klebsiella pneumoniae strain Klebsiella_pneumoniae_MC1,573.27574,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella pneumoniae kpn154,573.31049,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella pneumoniae kpn154,573.31049,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella pneumoniae kpn154,573.31049,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1000,573.18699,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1000,573.18699,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1041,573.18697,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella_pneumoniae_MC1,573.27574,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella_pneumoniae_MC1,573.27574,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella pneumoniae 1000,573.18699,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1074,573.18698,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1074,573.18698,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1074,573.18698,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1041,573.18697,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella pneumoniae 1074,573.18698,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1041,573.18697,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella pneumoniae 1041,573.18697,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae kpn154,573.31049,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae strain Klebsiella_pneumoniae_MC1,573.27574,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae strain Klebsiella pneumoniae 1000,573.18699,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae Klebsiella pneumoniae 7EL,573.83634,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae Klebsiella pneumoniae 7EL,573.83634,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae Klebsiella pneumoniae 7EL,573.83634,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae Klebsiella pneumoniae 7EL,573.83634,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae 23-C-YW-18_klebsiella,573.62623,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae 23-C-YW-18_klebsiella,573.62623,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae 23-C-YW-18_klebsiella,573.62623,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae 23-C-YW-18_klebsiella,573.62623,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN752001,72407.2898,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG7784,72407.1092,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0230,72407.2374,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP042,72407.1297,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDADA-19-0036,72407.2501,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae N4292977,72407.3038,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0016,72407.2387,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAAB-19-0104,72407.2302,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain A2,72407.1439,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCCABB-19-0070,72407.2469,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KpvST15_NDM,72407.1370,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 971/1909,72407.995,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDEABH-19-0122,72407.2776,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KKP039,72407.1807,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain H1523,72407.1412,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1489/2411,72407.999,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain NCTC11695,72407.1141,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDAAF-19-0088,72407.2746,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBEABA-19-0006,72407.2424,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDABD-19-0033,72407.2756,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 938/1888,72407.911,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCDACJ-19-0059,72407.2495,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDCAAC-19-0067,72407.2730,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN752035,72407.2895,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBAAB-19-0097,72407.2245,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP107,72407.1360,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGADG-19-0025,72407.2568,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1352/2240,72407.1003,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAEABJ-19-0046,72407.2903,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAB-19-0030,72407.2232,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KKP006,72407.1826,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KP_DC,72407.773,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015107,72407.853,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKP043,72407.1805,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABAGH-19-0086,72407.2190,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864763,72407.528,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864738,72407.500,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDAAJ-19-0034,72407.2748,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864875,72407.550,ampicillin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0006,72407.2868,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP048,72407.1295,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 953/1898,72407.957,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 79,72407.1259,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN752795,72407.2894,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1255/2130,72407.1044,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1354/2241,72407.1010,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPSW+01,72407.668,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDABE-19-0169,72407.2345,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP176,72407.1355,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP016,72407.1913,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDAAAB-19-0006,72407.2710,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1545/2475,72407.1068,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020153,72407.894,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC31_S468MPC,72407.1636,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain K47,72407.1448,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864742,72407.480,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain EC3089-F-N716-1-636,72407.1599,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864797,72407.579,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 744/1800,72407.1053,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain NCTC7761,72407.1395,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0361,72407.2588,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain ATH7,72407.1394,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864886,72407.566,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0094,72407.2326,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEACE-19-0109,72407.2780,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain M5,72407.1140,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC19_AI1572C,72407.1651,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKPE27,72407.1767,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864837,72407.487,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864858,72407.529,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864774,72407.546,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDAAC-19-0012,72407.2486,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBEADF-19-0097,72407.2434,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC16_AI1547M,72407.1628,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDAAAE-19-0028,72407.2712,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP016,72407.1913,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPPUTH03,72407.678,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KP_DC,72407.773,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae RTE-E3,72407.1713,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KKP091,72407.1866,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAB-19-0230,72407.2310,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAAH-19-0017,72407.2645,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 852,72407.2128,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KKP058,72407.1886,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain ATH22,72407.1385,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN613178,72407.1773,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1357/2245,72407.921,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae DD02280,72407.1743,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864772,72407.539,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1498/2420,72407.1050,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP081,72407.1325,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAE-19-0005,72407.2236,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC29_CMC309MPCH,72407.1659,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN613178,72407.1862,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDEAAD-19-0016,72407.2763,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAGAAD-19-0020,72407.2207,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864795,72407.572,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBADAAG-19-0018,72407.2199,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDBAAJ-19-0028,72407.2726,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN849862,72407.2970,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDBAAB-19-0115,72407.2723,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBFABG-19-0096,72407.2908,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015109,72407.1975,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn2108,72407.1839,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP005,72407.1919,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAACH-19-0027,72407.2968,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN825022,72407.1766,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KpvST23L_OXA-48,72407.627,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCAADB-19-0003,72407.2912,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDAAAB-19-0064,72407.2709,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain BL143,72407.1088,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864892,72407.575,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1489/2411,72407.999,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG7180,72407.1096,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kpn1426,72407.1933,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015116,72407.1969,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015123,72407.1967,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1606/2552,72407.963,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBEADA-19-0034,72407.2428,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0377,72407.2886,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae Kpn35,72407.1927,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864813,72407.586,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KKPE6,72407.1859,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864855,72407.521,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae T3,72407.2103,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain K219,72407.1474,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015114,72407.1973,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN824868,72407.1810,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn35,72407.1835,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0287,72407.2865,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KP72,72407.1666,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1173/2056,72407.922,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDAAF-19-0226,72407.2745,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAB-19-0041,72407.2307,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC21_AI1646PC,72407.1653,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPLC+01,72407.697,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCJABE-19-0107,72407.2706,imipenem,0,Klebsiella pneumoniae
+resistant,"Klebsiella pneumoniae subsp. pneumoniae strain 738/1691,4",72407.902,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain ATH21,72407.1386,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0186,72407.2842,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCCAAB-19-0076,72407.2468,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPPUTH02,72407.677,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAFI-19-0024,72407.2395,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 43UCESBL_BLUE2LB,72407.728,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAGD-19-0013,72407.2397,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGH-19-0004,72407.2407,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1609/2559,72407.1076,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae N1301621,72407.3057,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0020,72407.2870,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH31,72407.695,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae RTE-E3,72407.1713,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864753,72407.490,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKP020,72407.1818,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBCADC-19-0069,72407.2293,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGADG-19-0050,72407.2569,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1685/2660,72407.1021,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain BR21,72407.978,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCAADB-19-0079,72407.2909,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 59,72407.1258,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain EC2572-F-N720-1-636,72407.1596,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1463/2375,72407.942,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCBAAI-19-0070,72407.2463,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864822,72407.593,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0376,72407.2884,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae TUM2681,72407.1944,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0248,72407.2863,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain GCID_CRE_0009,72407.1185,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020079,72407.2008,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAB-19-0067,72407.2787,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0137,72407.2356,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1787/2780,72407.1032,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N4214030,72407.3040,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0008,72407.2318,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP021,72407.1908,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864815,72407.587,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN612920,72407.1884,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEAAD-19-0067,72407.2764,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1775/2764,72407.1087,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC04_AI1235M,72407.1612,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIEB064,72407.1315,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1686/2661,72407.964,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEACE-19-0035,72407.2779,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae DD02341,72407.1744,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC10_CMC309,72407.1614,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020092,72407.891,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0191,72407.2596,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864934,72407.496,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0002,72407.2693,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015073,72407.868,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP087,72407.1284,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAACG-19-0050,72407.2956,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain R1876,72407.1155,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEGAAC-19-0008,72407.2838,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1388/2281,72407.1055,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAAGC-19-0006,72407.2965,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACA-19-0054,72407.2579,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015079,72407.863,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae TUM2590,72407.1942,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae M6284360,72407.3056,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDAAJ-19-0029,72407.2749,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020075,72407.899,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain kpn-hnqyy,72407.1602,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC17_CMC307,72407.1624,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain PP1,72407.1461,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0165,72407.2535,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 291_EBAC,72407.1253,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain AUSMDU00008079,72407.693,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM2681,72407.1944,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 785/1754,72407.906,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAJB-19-0090,72407.2420,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae TUM9506,72407.1946,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCGACB-19-0315,72407.2562,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP159,72407.1314,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864793,72407.569,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCBAAI-19-0077,72407.2461,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEGADG-19-0001,72407.2839,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1719/2692,72407.1023,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KP21,72407.1758,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0273,72407.2656,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1601/2543,72407.1016,gentamicin,0,Klebsiella pneumoniae
+susceptible,"Klebsiella pneumoniae subsp. pneumoniae strain 2000/3010,1",72407.943,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015113,72407.1970,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1934/2945,72407.940,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN824964,72407.1885,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAGH-19-0018,72407.2408,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 61,72407.1276,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP117,72407.1334,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1754/2734,72407.1081,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015075,72407.867,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 893,72407.2127,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBEADF-19-0064,72407.2432,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1092/1983,72407.955,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn1426,72407.1843,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864791,72407.565,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KP21,72407.1757,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDABB-19-0140,72407.2752,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDAAB-19-0052,72407.2481,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN613318,72407.1855,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae L7202969,72407.3063,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864816,72407.588,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0226,72407.2860,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0012,72407.2665,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN825224,72407.1824,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDAAJ-19-0029,72407.2749,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAJAAH-19-0042,72407.2218,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG8133,72407.1105,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kp2,72407.1722,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KUH-KPNHVF1,72407.1417,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEAAB-19-0192,72407.2761,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPSW+03,72407.670,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAJAAH-19-0248,72407.2223,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDJAAE-19-0045,72407.2939,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH18,72407.640,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0049,72407.2875,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KP-3R,72407.2039,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0376,72407.2884,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN488952,72407.1883,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEABH-19-0028,72407.2772,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0155,72407.2969,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain YmcD1,72407.1410,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain kpn-hnqyy,72407.1602,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KP96_L17_12.23_ST6796_NDM5,72407.2154,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1396/2289,72407.1070,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGD-19-0285,72407.2404,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0152,72407.2840,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae CS00491,72407.2096,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM2577,72407.1941,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015111,72407.1972,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020125,72407.876,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDHAAI-19-0075,72407.2798,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP096,72407.1322,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP012,72407.1277,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKP016,72407.1821,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBAAAF-19-0018,72407.2239,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1491/2413,72407.1007,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHAAB-19-0010,72407.2570,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0228,72407.2683,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 68UCESBL_BLUE1LB,72407.726,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0035,72407.2321,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864800,72407.583,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain A2,72407.1439,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN752001,72407.2898,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG5547,72407.1127,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABAGH-19-0033,72407.2188,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain Kp6,72407.1700,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDCAAE-19-0010,72407.2732,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDAAJ-19-0034,72407.2748,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDADH-19-0040,72407.2365,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015131,72407.843,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864895,72407.577,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAEABJ-19-0023,72407.2201,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP020126,72407.2001,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHAEA-19-0172,72407.2604,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDABD-19-0033,72407.2756,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae DD02391,72407.1746,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH12,72407.666,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC08_CMC432M,72407.1617,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDIABB-19-0098,72407.2931,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020059,72407.883,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP151,72407.1332,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP182,72407.1364,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBCADC-19-0008,72407.2295,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAAFA-19-0062,72407.2816,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABAGH-19-0006,72407.2185,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDCAAE-19-0010,72407.2732,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP090,72407.1312,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain EC1339-F-N721-1-636,72407.1593,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1173/2056,72407.922,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP019,72407.1301,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain NUFHKp,72407.1138,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864755,72407.516,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEABG-19-0379,72407.2770,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864760,72407.527,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0037,72407.2528,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain RTE-E3,72407.1701,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAAB-19-0001,72407.2938,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP020127,72407.1996,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N4292977,72407.3038,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN849636,72407.2893,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP020124,72407.2000,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDIAAB-19-0083,72407.2801,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae N5303358,72407.3035,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBBAEF-19-0064,72407.2278,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC19_AI1572C,72407.1651,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae CS00491,72407.2096,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1461/2371,72407.1056,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864828,72407.595,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020124,72407.877,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JNQH327,72407.3068,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864739,72407.509,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKP043,72407.1805,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAB-19-0076,72407.2789,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP009,72407.1300,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864852,72407.479,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDACE-19-0002,72407.2346,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020060,72407.881,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG5546,72407.1126,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 847/1793,72407.954,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0147,72407.2386,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPLC+01,72407.697,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0001,72407.2694,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015134,72407.1964,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACA-19-0054,72407.2579,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP020111,72407.2002,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEFAAC-19-0019,72407.2836,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae M7233093,72407.3059,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae T1,72407.2101,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain EC3069-F-N728-1-636,72407.1587,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBCABH-19-0059,72407.2285,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCBAAJ-19-0072,72407.2465,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MMGN122,72407.1714,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1853/2846,72407.935,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain AP278,72407.1256,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0550,72407.2658,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP069,72407.1323,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864848,72407.497,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain PP9,72407.1468,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae SCKP020058,72407.2005,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAB-19-0028,72407.2230,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCDAAB-19-0170,72407.2916,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864736,72407.512,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae L8263415,72407.3051,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHAEJ-19-0013,72407.2617,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864792,72407.570,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBADAAG-19-0018,72407.2199,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCTRPRTH02,72407.652,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP048,72407.1295,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAEI-19-0067,72407.2810,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0035,72407.2321,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864853,72407.513,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 63,72407.1272,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAFA-19-0062,72407.2816,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIAAB-19-0101,72407.2632,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain R4462,72407.1175,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAAH-19-0203,72407.2639,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain E109-1,72407.1151,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0043,72407.2872,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABADF-19-0156,72407.2169,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC31_S468MPCH,72407.1660,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABADI-19-0053,72407.2177,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Ecl8,1226680.5,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 43UC17,72407.2055,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP020130,72407.1997,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864839,72407.494,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHAEA-19-0028,72407.2606,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP004,72407.1293,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae DD02297,72407.1745,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0243,72407.2859,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGD-19-0097,72407.2403,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 33UCLB_AMP_LB,72407.719,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain CREC003-1,72407.704,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain M1A,72407.904,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864786,72407.563,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1169/2053,72407.1004,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 46,72407.1260,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABAGH-19-0143,72407.2182,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP080,72407.1311,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN489100,72407.1827,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain GCID_CRE_0013,72407.1184,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864754,72407.514,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 649/1571,72407.952,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCCACA-19-0007,72407.2473,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1828/2823,72407.938,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH16,72407.637,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBEADF-19-0080,72407.2433,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864895,72407.577,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015111,72407.850,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1643/2603,72407.1077,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1356/2244,72407.961,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1591/2529,72407.1085,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0096,72407.2667,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae LC-1872/18,72407.2029,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn37,72407.1841,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain R4462,72407.1175,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN824964,72407.1793,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae DEUKp1212_1,72407.2023,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864744,72407.502,ampicillin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBBAEF-19-0049,72407.2281,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864755,72407.516,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KP-63,72407.2159,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1690/2666,72407.965,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae N5062754,72407.3032,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0136,72407.2353,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020078,72407.2007,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP146,72407.1348,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864872,72407.538,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1250/2123,72407.1000,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae TUM2756,72407.1949,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN825128,72407.1901,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCGACB-19-0034,72407.2553,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDAAB-19-0169,72407.2918,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0002,72407.2845,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KP21,72407.1758,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP166,72407.1344,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAAGC-19-0036,72407.2827,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP169,72407.1368,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP056,72407.1319,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1606/2552,72407.963,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0199,72407.2541,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC04_AI1235M,72407.1612,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0043,72407.2591,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864742,72407.480,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae ATCC 33259,72407.1937,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WGR351,72407.1605,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBHAAC-19-0078,72407.2450,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0183,72407.2858,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0132,72407.2530,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBEADA-19-0016,72407.2430,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864790,72407.698,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN825224,72407.1824,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020131,72407.871,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP068,72407.1326,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864856,72407.519,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDAAB-19-0079,72407.2919,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1169/2053,72407.1004,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864793,72407.569,ampicillin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM12585,72407.1956,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP051,72407.1890,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEGAAC-19-0005,72407.2837,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAAGC-19-0006,72407.2965,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDEABG-19-0188,72407.2769,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae VH1-2,72407.1938,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae T698-1,72407.1737,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACA-19-0128,72407.2583,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDABA-19-0041,72407.2488,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN570244,72407.1891,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain EC1149-F-N716-1-636,72407.1594,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAAB-19-0015,72407.2306,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kpn4709,72407.1923,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0126,72407.2354,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP173,72407.1357,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1606/2552,72407.963,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDEABG-19-0026,72407.2777,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae K606,72407.1850,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae M7213934,72407.3060,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEABG-19-0117,72407.2765,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAABH-19-0130,72407.2959,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCDAAB-19-0259,72407.2484,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP004,72407.1293,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAF-19-0016,72407.2238,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN613318,72407.1764,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0074,72407.2379,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KUH-KPNHVL1,72407.1418,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain JNM8C2,72407.1139,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kpn4709,72407.1923,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain RJA166,72407.626,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae CS00782,72407.2100,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDGAAG-19-0163,72407.2794,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBEADA-19-0068,72407.2426,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP090,72407.1312,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH15,72407.667,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDADA-19-0053,72407.2502,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAEJ-19-0055,72407.2686,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCDAAB-19-0168,72407.2476,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0013,72407.2666,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG5544,72407.1128,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 51851,72407.3030,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1609/2560,72407.1078,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 912/1862,72407.1066,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 43UCESBL_BLUE2PLATE,72407.723,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1691/2667,72407.1022,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JNQH327,72407.3068,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1471/2386,72407.959,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae A 165,72407.2160,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KKP026,72407.1905,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBEADE-19-0010,72407.2431,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBCADC-19-0052,72407.2292,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864760,72407.527,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae VH1-2,72407.1938,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBABI-19-0010,72407.2268,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBABI-19-0143,72407.2259,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N4213107,72407.3039,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAEE-19-0009,72407.2967,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KP67,72407.1668,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCCAAB-19-0076,72407.2468,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDACH-19-0004,72407.2492,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP077,72407.1317,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABADF-19-0084,72407.2174,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1448/2356,72407.1049,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDCAAC-19-0067,72407.2730,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KP-NE368,72407.2059,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kp1,72407.1721,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 789/1759,72407.907,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae DEUKp4822,72407.2042,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDEAAB-19-0027,72407.2758,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDADA-19-0051,72407.2362,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0137,72407.2356,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015121,72407.845,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020131,72407.871,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBACAAB-19-0018,72407.2195,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPN_KPC_HUG_B6,72407.475,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0152,72407.2372,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEAAB-19-0091,72407.2760,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP044,72407.1296,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015134,72407.840,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAGD-19-0013,72407.2397,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPLC+02 strain KPLC+02 strain KPLC+02,72407.732,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae P-61,72407.2065,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn37,72407.1841,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015079,72407.863,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015109,72407.1975,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBHAAB-19-0015,72407.2448,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1768/2754,72407.1030,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBACAAF-19-0002,72407.2197,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCTRPRTH04,72407.635,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn3689,72407.1837,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH22,72407.641,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBCAHF-19-0004,72407.2301,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBCADC-19-0135,72407.2298,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KKP043,72407.1895,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC05_CMC387P,72407.1616,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC10_CMC309MC,72407.1648,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG7163,72407.1098,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1986/2993,72407.1037,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPSW+03,72407.670,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGADG-19-0025,72407.2568,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015075,72407.1990,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864800,72407.583,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015141,72407.1961,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0080,72407.2850,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 43UCESBL_BLUE4LB,72407.721,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae LC-394/19,72407.2034,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864780,72407.551,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain NCTC9494,72407.1144,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDABH-19-0001,72407.2922,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae LC-159/18,72407.2028,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP099,72407.1304,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain RJBSI76-pV,72407.1498,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDABG-19-0004,72407.2344,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBFABC-19-0051,72407.2442,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1354/2241,72407.1010,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN613017,72407.1779,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDADH-19-0088,72407.2368,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN752623,72407.2889,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAGF-19-0047,72407.2406,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN849896,72407.2897,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAB-19-0021,72407.2786,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAAI-19-0031,72407.2950,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 849,72407.2125,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAGI-19-0007,72407.2409,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0019,72407.2702,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864747,72407.495,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain H642,72407.1413,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM9979,72407.1954,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBAAI-19-0014,72407.2254,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain JNM8C2,72407.1139,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDCAAE-19-0256,72407.2734,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPPSTH05,72407.685,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIAAB-19-0096,72407.2630,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020060,72407.881,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDADA-19-0049,72407.2361,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0112,72407.2669,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0037,72407.2528,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864839,72407.494,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAG-19-0036,72407.2792,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBAEABJ-19-0100,72407.2200,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN488952,72407.1883,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP052,72407.1889,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN824964,72407.1885,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864852,72407.479,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDADH-19-0088,72407.2368,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain LC-1825/18,72407.1411,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDBAAB-19-0154,72407.2932,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAEE-19-0118,72407.2807,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1983/2989,72407.971,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain R2589,72407.1157,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kpn290,72407.1932,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0061,72407.2380,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN849636,72407.2893,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHACA-19-0073,72407.2581,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020124,72407.877,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae M7173549,72407.3061,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0003,72407.2692,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN570165,72407.1803,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0176,72407.2671,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 4771,72407.1716,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0467,72407.2549,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae L8263415,72407.3051,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae TUM12586,72407.1957,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG6684,72407.1110,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864776,72407.536,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864872,72407.538,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1423/2324,72407.1072,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACA-19-0024,72407.2577,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0295,72407.2592,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae N0244028,72407.3050,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015091,72407.1983,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAE-19-0011,72407.2237,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP003,72407.1291,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHAEA-19-0048,72407.2610,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBCAAG-19-0005,72407.2283,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain EC2916-F-N720-1-636,72407.1597,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAF-19-0043,72407.2240,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015104,72407.1977,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM2765,72407.1951,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0176,72407.2671,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864747,72407.495,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEFAAC-19-0093,72407.2835,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0147,72407.2670,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH15,72407.667,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN570332,72407.1873,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain P781,72407.1162,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae DEUKp9961_18,72407.2038,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864864,72407.535,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae CS00013,72407.2098,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0153,72407.2855,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP068,72407.1878,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015093,72407.860,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN752921,72407.2891,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1604/2548,72407.1017,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 51851,72407.3030,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015075,72407.1990,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP150,72407.1347,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 850,72407.2123,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 2102/3132,72407.974,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0003,72407.2867,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABAFF-19-0049,72407.2180,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN537762,72407.1876,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain R210-2,72407.1150,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae FF29-002PS2,72407.2155,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAABH-19-0077,72407.2960,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBAAAB-19-0033,72407.2234,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABAGH-19-0177,72407.2184,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPSW+02,72407.669,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG5547,72407.1127,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG6664,72407.1122,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDABB-19-0155,72407.2753,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1624/2578,72407.928,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae SCKP020154,72407.2015,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kvivo-1,72407.1720,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015091,72407.861,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC24_S468MC,72407.1655,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1533/2460,72407.920,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDAAC-19-0013,72407.2913,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC29_CMC309MPCH,72407.1659,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDAAAE-19-0028,72407.2712,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN613196,72407.1853,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAGC-19-0126,72407.2829,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864793,72407.569,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1442/2349,72407.998,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae L8263415,72407.3051,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCAADB-19-0079,72407.2909,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCDABA-19-0112,72407.2921,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN570493,72407.1780,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MV931658,72407.3066,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020154,72407.893,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0219,72407.2544,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDABA-19-0152,72407.2490,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1491/2413,72407.1007,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN824868,72407.1900,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain ATH21,72407.1386,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABADF-19-0004,72407.2170,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDIABB-19-0098,72407.2931,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP020132,72407.1993,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC07_CMC432PC,72407.1641,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 1001,72407.2139,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kp2,72407.1722,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHAEA-19-0030,72407.2607,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1606/2554,72407.930,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn3167,72407.1845,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864865,72407.532,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAAB-19-0017,72407.2629,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0180,72407.2538,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0467,72407.2549,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0136,72407.2353,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 48,72407.1263,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae M5191546,72407.3054,tetracycline,1,Klebsiella pneumoniae
+resistant,"Klebsiella pneumoniae subsp. pneumoniae strain 140/1040,2",72407.994,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SC-7,72407.1131,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn290,72407.1838,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG6664,72407.1122,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP060,72407.1328,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864748,72407.485,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0091,72407.2323,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KP_DC,72407.773,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP121,72407.1353,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1498/2420,72407.1050,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864942,72407.507,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAF-19-0048,72407.2241,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAACH-19-0030,72407.2804,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 3263,72407.2130,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864754,72407.514,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP020131,72407.1994,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015076,72407.866,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 43UC12,72407.2057,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKPE21,72407.1772,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEABG-19-0188,72407.2769,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAFF-19-0100,72407.2690,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain BR7,72407.977,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae K624,72407.1851,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N1062450,72407.3049,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN488679,72407.1898,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDAAAB-19-0006,72407.2710,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 2061/3084,72407.948,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDADH-19-0150,72407.2369,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN488606,72407.1911,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP020100,72407.2012,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAFH-19-0095,72407.2392,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBFABG-19-0184,72407.2443,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAACH-19-0273,72407.2805,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864814,72407.585,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP023,72407.1302,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAABH-19-0023,72407.2962,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain ATCC 33259,72407.1847,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 847/1793,72407.954,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain GCID_CRE_0017,72407.1183,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABAFF-19-0049,72407.2180,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABADF-19-0098,72407.2175,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBABI-19-0194,72407.2264,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1690/2666,72407.965,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain EC1149-F-N716-1-636,72407.1594,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0186,72407.2842,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAAH-19-0212,72407.2637,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn1426,72407.1843,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH20,72407.639,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP044,72407.1296,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N3133201,72407.3045,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG6078,72407.1115,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBAJAAH-19-0091,72407.2221,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHAEA-19-0023,72407.2609,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KP18069,72407.1453,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain R1014,72407.1173,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPPSTH02,72407.682,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae HSD,72407.2984,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBAAAB-19-0029,72407.2231,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBCAAG-19-0005,72407.2283,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864744,72407.502,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGH-19-0018,72407.2408,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0152,72407.2840,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015112,72407.849,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDAAF-19-0147,72407.2737,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020152,72407.2017,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP020131,72407.1994,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBEADA-19-0030,72407.2427,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIAFF-19-0076,72407.2688,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1621/2574,72407.1086,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain C2,72407.1437,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1472/2387,72407.1002,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae IHIT34097,72407.2985,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020146,72407.896,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020046,72407.2009,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAJAAH-19-0019,72407.2216,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN752085,72407.2899,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 56,72407.1262,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1609/2560,72407.1078,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHAAB-19-0010,72407.2570,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae SCKP020079,72407.2008,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae DD01754,72407.1747,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0015,72407.2701,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015099,72407.1979,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain PP6,72407.1465,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAACG-19-0038,72407.2958,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFH-19-0007,72407.2391,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP020124,72407.2000,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864831,72407.501,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain AMKP10,72407.1402,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABADF-19-0047,72407.2172,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN824906,72407.1904,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn3689,72407.1837,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae HS20R14,72407.1738,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 3263,72407.2130,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0146,72407.2384,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDGAAG-19-0052,72407.2795,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 43UC14,72407.2053,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH28,72407.646,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM9506,72407.1946,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain PP5,72407.1466,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0116,72407.2331,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDAAAE-19-0052,72407.2718,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KKP006,72407.1826,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPH+03,72407.673,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAAEI-19-0061,72407.2813,tetracycline,1,Klebsiella pneumoniae
+susceptible,"Klebsiella pneumoniae subsp. pneumoniae strain 663/1591,3",72407.983,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAACH-19-0003,72407.2964,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN613512,72407.1914,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 43UC11,72407.2056,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABAHA-19-0067,72407.2193,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020078,72407.2007,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG6681,72407.1101,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864881,72407.558,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0059,72407.2590,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain D8,72407.1435,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDABE-19-0169,72407.2345,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEBAAD-19-0049,72407.2831,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020046,72407.885,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015104,72407.854,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020153,72407.2016,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1348/2234,72407.1039,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 744/1800,72407.1053,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH23,72407.642,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N4034288,72407.3042,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020111,72407.879,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKP020,72407.1818,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae SM117,72407.2111,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0001,72407.2694,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC31_S468MPC,72407.1636,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KKPE7,72407.1858,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0152,72407.2372,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0387,72407.2887,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015078,72407.865,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBACD-19-0026,72407.2269,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1754/2734,72407.1081,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP062,72407.1329,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHAEA-19-0048,72407.2610,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAJAAJ-19-0046,72407.2229,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864943,72407.515,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae N5071671,72407.3034,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1465/2377,72407.1008,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 3259,72407.2138,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KKPE13,72407.1768,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864895,72407.577,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020059,72407.2006,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1443/2351,72407.924,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1592/2530,72407.1052,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDAAF-19-0188,72407.2738,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN825128,72407.1812,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAABH-19-0023,72407.2962,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain C9,72407.1436,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAGI-19-0007,72407.2409,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864786,72407.563,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP165,72407.1343,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP111,72407.1341,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBABADF-19-0130,72407.2167,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 2005/3015,72407.944,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDAAAE-19-0052,72407.2718,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC30_AI 1547MPC,72407.1634,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0139,72407.2333,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP058,72407.1886,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBAAAE-19-0005,72407.2236,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae RTE-E3,72407.1713,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKP068,72407.1789,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC12_S471M,72407.1695,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 852/1802,72407.908,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDEABH-19-0052,72407.2774,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1915/2933,72407.946,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCFAAJ-19-0050,72407.2515,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP111,72407.1341,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain NUFHKp,72407.1138,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN849636,72407.2893,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAFA-19-0154,72407.2825,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDHAAI-19-0075,72407.2798,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFH-19-0095,72407.2392,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP005,72407.1298,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP024,72407.1906,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1217/2083,72407.915,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0295,72407.2866,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC11_S471PC,72407.1642,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020132,72407.870,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0176,72407.2536,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP020133,72407.1992,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAEI-19-0018,72407.2808,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAGC-19-0086,72407.2828,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864847,72407.508,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0098,72407.2851,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1093/1967,72407.912,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAJA-19-0088,72407.2413,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864872,72407.538,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAFA-19-0154,72407.2825,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBJAAG-19-0080,72407.2451,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGF-19-0066,72407.2405,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae WCHKP015080,72407.1987,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kp6,72407.1693,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABAGH-19-0143,72407.2182,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864878,72407.556,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015138,72407.839,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain EC3069-F-N728-1-636,72407.1587,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPPSTH01,72407.681,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEAACG-19-0050,72407.2956,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864790,72407.698,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDABA-19-0025,72407.2339,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020128,72407.872,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain R1651,72407.1172,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBABI-19-0116,72407.2258,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864784,72407.559,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKPE7,72407.1858,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain EC1410-F-N723-1-636,72407.1595,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKP021,72407.1817,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain RTE-E3,72407.1701,imipenem,0,Klebsiella pneumoniae
+susceptible,"Klebsiella pneumoniae subsp. pneumoniae strain 160/1080,2",72407.981,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 04A025,72407.1371,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 854,72407.2126,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP085,72407.1285,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG6078,72407.1115,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015091,72407.1983,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn4709,72407.1833,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015099,72407.1979,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAIABE-19-0001,72407.2210,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain B10,72407.1438,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFH-19-0095,72407.2392,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864864,72407.535,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn290,72407.1844,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain ATH23,72407.1384,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain AP268,72407.1257,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDACE-19-0002,72407.2346,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP062,72407.1329,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDABA-19-0102,72407.2920,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015080,72407.864,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCTRPRTH02,72407.652,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N2251932,72407.3046,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0291,72407.2546,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kpn76,72407.1936,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,"Klebsiella pneumoniae subsp. pneumoniae strain 160/1080,2",72407.981,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0165,72407.2535,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0096,72407.2878,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1373/2263,72407.1048,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015079,72407.863,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP176,72407.1355,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAAI-19-0052,72407.2334,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0022,72407.2389,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABADI-19-0053,72407.2177,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP032,72407.1902,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGF-19-0066,72407.2405,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 49,72407.1270,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0114,72407.2329,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP164,72407.1361,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP146,72407.1348,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC08_CMC432MC,72407.1645,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDHAAI-19-0102,72407.2800,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABADF-19-0130,72407.2167,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN489021,72407.1786,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae Kp3412_LBHALD,72407.2107,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1868/2868,72407.934,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAGD-19-0099,72407.2402,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAB-19-0072,72407.2519,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDABA-19-0008,72407.2487,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN752309,72407.2890,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBGAAF-19-0043,72407.2444,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain CREI026-1,72407.706,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0266,72407.2547,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1893/2912,72407.972,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain AMKP5,72407.1452,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCCACA-19-0019,72407.2472,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBAJAAH-19-0053,72407.2219,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1654/2618,72407.1060,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP012,72407.1277,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1591/2529,72407.1085,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGABB-19-0035,72407.2550,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N5062754,72407.3032,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP121,72407.1353,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 784/1752,72407.905,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0117,72407.2330,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM3322,72407.1952,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1348/2237,72407.1041,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0137,72407.2356,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDABB-19-0174,72407.2754,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAG-19-0163,72407.2794,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 1802,72407.1849,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAB-19-0065,72407.2788,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPN_KPC_HUG_11,72407.467,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0002,72407.2526,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG5556,72407.1120,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0155,72407.2969,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP019,72407.1910,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPSW+01,72407.668,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SC-7,72407.1131,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP091,72407.1306,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0328,72407.2585,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae KP21,72407.1757,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain PP6,72407.1465,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020143,72407.897,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae LC-422/19,72407.2037,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP101,72407.1305,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864870,72407.548,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP066,72407.1881,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBBAAH-19-0058,72407.2249,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain ATH21,72407.1386,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864785,72407.557,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDAAJ-19-0154,72407.2750,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1691/2667,72407.1022,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0183,72407.2858,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KKP066,72407.1792,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPH+05,72407.687,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN570101,72407.1806,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBEDACG-19-0003,72407.2833,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBAEF-19-0040,72407.2282,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCTRPRTH01,72407.663,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBACAAB-19-0018,72407.2195,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN752729,72407.2896,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCGACB-19-0361,72407.2565,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SCKP040074,72407.1089,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0366,72407.2675,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0027,72407.2703,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCHAEB-19-0097,72407.2615,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG5560,72407.1121,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG6684,72407.1110,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGACB-19-0290,72407.2557,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDAAC-19-0119,72407.2914,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae GX34,72407.2044,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kpn290,72407.1844,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIAAH-19-0017,72407.2645,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 3256,72407.2122,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864934,72407.496,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020128,72407.872,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC07_CMC432P,72407.1619,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SA-KpST14,72407.1506,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAAI-19-0056,72407.2946,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP023,72407.1302,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain ATH30,72407.1381,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KP-NE368,72407.2059,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 43UC17,72407.2055,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1309/2191,72407.1047,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0413,72407.2685,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAAH-19-0203,72407.2639,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae TUM2592,72407.1943,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 76,72407.1269,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0459,72407.2599,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCCABB-19-0034,72407.2474,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPPSTH02,72407.682,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCFAAJ-19-0030,72407.2514,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae HS20R14,72407.1738,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0273,72407.2656,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KpvK54,72407.696,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 24Kp09,72407.1477,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0022,72407.2389,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N3041884,72407.3053,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAFA-19-0038,72407.2815,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kpn37,72407.1928,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0449,72407.2662,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGD-19-0099,72407.2402,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864842,72407.478,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae HGRS058,72407.1735,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0410,72407.2597,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP168,72407.1356,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBAJAAH-19-0019,72407.2216,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 68UCLB_AMP_LB,72407.725,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae P10,72407.2142,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0228,72407.2683,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP164,72407.1361,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG6106,72407.1123,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBBAAI-19-0019,72407.2256,tetracycline,1,Klebsiella pneumoniae
+susceptible,"Klebsiella pneumoniae subsp. pneumoniae strain 2000/3010,2",72407.970,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAAB-19-0001,72407.2938,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDABG-19-0004,72407.2344,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864738,72407.500,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCCACA-19-0019,72407.2472,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBEADA-19-0034,72407.2428,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864873,72407.545,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH32,72407.649,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDAAAE-19-0002,72407.2713,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 849,72407.2125,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain AMKP4,72407.1403,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAJ-19-0049,72407.2337,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN489021,72407.1786,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae M6284360,72407.3056,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBABI-19-0143,72407.2259,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP005,72407.1298,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0059,72407.2325,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1584/2521,72407.960,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC11_S471PC,72407.1642,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015131,72407.1966,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864822,72407.593,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCGACB-19-0034,72407.2553,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1780/2772,72407.1029,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain ATH22,72407.1385,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 3245,72407.2129,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 68UCESBL_BLUE3LB,72407.720,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHAAB-19-0036,72407.2923,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCAAAI-19-0007,72407.2452,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC17_CMC307PC,72407.1661,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN752085,72407.2899,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015098,72407.857,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHAAB-19-0080,72407.2850,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KP72,72407.1666,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCBAAD-19-0061,72407.2458,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 1780/2772,72407.1029,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0011,72407.2677,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0101,72407.2381,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBABADI-19-0109,72407.2179,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae KKP026,72407.1905,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864869,72407.540,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH24,72407.644,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAEACI-19-0028,72407.2203,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae N5061391,72407.3033,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0102,72407.2355,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAJA-19-0047,72407.2418,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae VH1-2,72407.1938,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBABI-19-0067,72407.2263,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain ATH8,72407.1393,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIAEJ-19-0067,72407.2687,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDGAAD-19-0011,72407.2790,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015073,72407.1991,imipenem,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0152,72407.2372,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864744,72407.502,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG6681,72407.1101,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain MRSN570217,72407.1804,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBEABA-19-0020,72407.2425,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SIKP163,72407.1354,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP159,72407.1314,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN570509,72407.1872,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae MRSN849888,72407.2900,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAD-19-0011,72407.2790,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864891,72407.571,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC18_CMC307,72407.1626,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain C9,72407.1436,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEHABI-19-0096,72407.2878,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864848,72407.497,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDFABA-19-0030,72407.2782,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDABB-19-0178,72407.2755,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP176,72407.1355,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0148,72407.2357,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae 43UC15,72407.2052,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain Kp6,72407.1689,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864742,72407.480,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP165,72407.1343,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae WCHKP015107,72407.1976,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPCRETH26,72407.656,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0035,72407.2321,tetracycline,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 648/1570,72407.903,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAAF-19-0059,72407.2325,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KKPE27,72407.1767,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015075,72407.867,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain H1523,72407.1412,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain SIKP046,72407.1280,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCGAAG-19-0188,72407.2540,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864786,72407.563,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain H1119,72407.1423,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBAAB-19-0044,72407.2243,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain KPSW+02,72407.669,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDBAAJ-19-0001,72407.2724,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 930/1878,72407.988,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 291_EBAC,72407.1253,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDDAAJ-19-0003,72407.2747,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDDABD-19-0076,72407.2757,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0348,72407.2664,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864740,72407.492,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFI-19-0024,72407.2395,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864777,72407.542,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015091,72407.861,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDABE-19-0169,72407.2345,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAGD-19-0097,72407.2403,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN849636,72407.2893,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1307/2188,72407.1046,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae Kpn661,72407.1922,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0102,72407.2355,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP020128,72407.872,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain R1651,72407.1172,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0096,72407.2667,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae CRKP18622,72407.1939,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain KPH+01,72407.671,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBABI-19-0010,72407.2268,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864749,72407.491,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,"Klebsiella pneumoniae subsp. pneumoniae strain 738/1691,4",72407.902,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDAAAE-19-0043,72407.2716,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDHAAI-19-0075,72407.2798,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864809,72407.584,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WRC14_AI2040M,72407.1623,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae 3254,72407.2121,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDBAAJ-19-0036,72407.2725,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAFA-19-0218,72407.2818,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBAEACI-19-0028,72407.2203,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCDAAC-19-0013,72407.2913,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0271,72407.2684,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0295,72407.2592,ciprofloxacin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain DG7784,72407.1092,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae RX.G5M15,72407.2060,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0550,72407.2658,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1442/2349,72407.998,tetracycline,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBCADC-19-0135,72407.2298,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDADH-19-0188,72407.2370,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain WRC07_CMC432P,72407.1619,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDAFG-19-0192,72407.2373,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBDGAAG-19-0079,72407.2796,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain RJA166,72407.626,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864838,72407.499,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBAAI-19-0019,72407.2256,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain MRSN825128,72407.1812,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0273,72407.2656,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBCABH-19-0091,72407.2286,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAEI-19-0072,72407.2811,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain WCHKP015138,72407.839,tetracycline,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBBDAEE-19-0001,72407.2371,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 79,72407.1259,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBDACI-19-0136,72407.2353,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 56,72407.1262,ciprofloxacin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864796,72407.578,ampicillin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBEAAFA-19-0110,72407.2823,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0462,72407.2600,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 3189STDY5864777,72407.542,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain DG6658,72407.1102,imipenem,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBAGAAD-19-0142,72407.2208,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae DD02162,72407.1742,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1737/2713,72407.1028,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 1624/2578,72407.928,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae strain 49,72407.1270,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACE-19-0077,72407.2679,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae DD01665,72407.2049,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCIACA-19-0257,72407.2655,gentamicin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae DD02172,72407.1740,gentamicin,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae MRSN537762,72407.1876,imipenem,0,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBBACD-19-0134,72407.2271,gentamicin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae SCKP020079,72407.2008,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBDGAAB-19-0021,72407.2786,ciprofloxacin,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCJAAB-19-0010,72407.2699,tetracycline,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBBJAAG-19-0080,72407.2451,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae H39,72407.2048,gentamicin,1,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae JBCDADE-19-0014,72407.2503,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae JBCHACG-19-0361,72407.2588,imipenem,0,Klebsiella pneumoniae
+resistant,Klebsiella pneumoniae subsp. pneumoniae strain SCKP020049,72407.887,ciprofloxacin,1,Klebsiella pneumoniae
+susceptible,Klebsiella pneumoniae subsp. pneumoniae SCKP020077,72407.1958,tetracycline,0,Klebsiella pneumoniae
