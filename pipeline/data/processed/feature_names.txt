@@ -1,0 +1,13 @@
+organism_encoded
+antibiotic_encoded
+is_south_asian
+year_normalized
+is_ampicillin
+is_ciprofloxacin
+is_tetracycline
+is_gentamicin
+is_imipenem
+is_trimethoprim
+is_escherichia_coli
+is_klebsiella_pneumoniae
+is_staphylococcus_aureus
