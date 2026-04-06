@@ -1,0 +1,51 @@
+AMRGuard - Classification Reports
+============================================================
+
+Logistic Regression
+----------------------------------------
+              precision    recall  f1-score   support
+
+ Susceptible       0.71      0.92      0.80       372
+   Resistant       0.59      0.24      0.34       186
+
+    accuracy                           0.69       558
+   macro avg       0.65      0.58      0.57       558
+weighted avg       0.67      0.69      0.65       558
+
+
+Random Forest
+----------------------------------------
+              precision    recall  f1-score   support
+
+ Susceptible       0.77      0.82      0.79       372
+   Resistant       0.59      0.51      0.54       186
+
+    accuracy                           0.72       558
+   macro avg       0.68      0.66      0.67       558
+weighted avg       0.71      0.72      0.71       558
+
+
+SVM
+----------------------------------------
+              precision    recall  f1-score   support
+
+ Susceptible       0.76      0.83      0.79       372
+   Resistant       0.58      0.46      0.51       186
+
+    accuracy                           0.71       558
+   macro avg       0.67      0.65      0.65       558
+weighted avg       0.70      0.71      0.70       558
+
+
+XGBoost
+----------------------------------------
+              precision    recall  f1-score   support
+
+ Susceptible       0.77      0.82      0.79       372
+   Resistant       0.59      0.51      0.54       186
+
+    accuracy                           0.72       558
+   macro avg       0.68      0.66      0.67       558
+weighted avg       0.71      0.72      0.71       558
+
+
