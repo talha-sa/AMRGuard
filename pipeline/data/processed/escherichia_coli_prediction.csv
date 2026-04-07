@@ -1,0 +1,7 @@
+antibiotic,result,confidence
+ampicillin,RESISTANT,63.02
+ciprofloxacin,SUSCEPTIBLE,56.6
+tetracycline,SUSCEPTIBLE,61.94
+gentamicin,SUSCEPTIBLE,85.71
+imipenem,SUSCEPTIBLE,95.65
+trimethoprim,RESISTANT,50.69
