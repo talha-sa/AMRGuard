@@ -1,6 +1,13 @@
 # AMRGuard - Main App Entry Point
 
 import streamlit as st
+import os
+import sys
+
+# Permanent path fix — always point to AMRGuard root folder
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+sys.path.insert(0, ROOT)
 
 st.set_page_config(
     page_title="AMRGuard",
@@ -9,7 +16,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Sidebar navigation
 st.sidebar.title("🦠 AMRGuard")
 st.sidebar.markdown("*AMR Predictor for South Asian Pathogens*")
 st.sidebar.markdown("---")
@@ -24,19 +30,15 @@ st.sidebar.markdown("**Developed by:** Talha")
 st.sidebar.markdown("**University:** UAF")
 st.sidebar.markdown("**Project:** AMRGuard v1.0")
 
-# Load pages
 if page == "🏠 Home":
-    from pages.home import show
+    from app.pages.home import show
     show()
-
 elif page == "🔬 Predict":
-    from pages.predict import show
+    from app.pages.predict import show
     show()
-
 elif page == "📊 Explore Data":
-    from pages.explore import show
+    from app.pages.explore import show
     show()
-
 elif page == "🤖 Model Info":
-    from pages.model_info import show
+    from app.pages.model_info import show
     show()
