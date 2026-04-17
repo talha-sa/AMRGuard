@@ -3,10 +3,10 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 import os
 
-DATA_FILE = "data/raw/master_amr_data.csv"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+DATA_FILE = os.path.join(ROOT, "data", "raw", "master_amr_data.csv")
 
 @st.cache_data
 def load_data():
@@ -21,13 +21,13 @@ def show():
 
     df = load_data()
     if df is None:
-        st.error("Data not found! Please run pipeline scripts first.")
+        st.error(f"Data not found at: {DATA_FILE}")
         return
 
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Total Records",    len(df))
-    col2.metric("Organisms",        df["organism"].nunique())
-    col3.metric("Antibiotics",      df["antibiotic"].nunique())
+    col1.metric("Total Records",     len(df))
+    col2.metric("Organisms",         df["organism"].nunique())
+    col3.metric("Antibiotics",       df["antibiotic"].nunique())
     col4.metric("Resistant Records", int(df["label"].sum()))
 
     st.markdown("---")
@@ -55,7 +55,6 @@ def show():
     st.plotly_chart(fig2, use_container_width=True)
 
     col1, col2 = st.columns(2)
-
     with col1:
         st.markdown("### 🏷️ Resistance Distribution")
         label_counts = df["label"].value_counts().reset_index()
@@ -77,7 +76,8 @@ def show():
                 "Sri Lanka", "Nepal", "Afghanistan"
             ]
             df["region"] = df["isolation_country"].apply(
-                lambda x: "South Asian" if str(x) in sa_countries else "Other/Unknown"
+                lambda x: "South Asian"
+                if str(x) in sa_countries else "Other/Unknown"
             )
             region_counts = df["region"].value_counts().reset_index()
             fig4 = px.pie(
@@ -87,7 +87,7 @@ def show():
             fig4.update_layout(height=350)
             st.plotly_chart(fig4, use_container_width=True)
 
-    st.markdown("### 🔥 Resistance Heatmap by Organism & Antibiotic")
+    st.markdown("### 🔥 Resistance Heatmap")
     pivot = df.groupby(
         ["organism", "antibiotic"]
     )["label"].mean().reset_index()

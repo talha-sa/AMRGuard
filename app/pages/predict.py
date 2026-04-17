@@ -2,14 +2,11 @@
 
 import streamlit as st
 import pandas as pd
-import numpy as np
 import joblib
 import os
-import sys
 
-sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
-
-MODELS_DIR = "models"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+MODEL_PATH = os.path.join(ROOT, "models", "best_model.pkl")
 
 ORGANISMS = [
     "Escherichia coli",
@@ -18,12 +15,8 @@ ORGANISMS = [
 ]
 
 TARGET_ANTIBIOTICS = [
-    "ampicillin",
-    "ciprofloxacin",
-    "tetracycline",
-    "gentamicin",
-    "imipenem",
-    "trimethoprim"
+    "ampicillin", "ciprofloxacin", "tetracycline",
+    "gentamicin", "imipenem", "trimethoprim"
 ]
 
 ORGANISM_ENCODING = {
@@ -43,26 +36,25 @@ ANTIBIOTIC_ENCODING = {
 
 @st.cache_resource
 def load_model():
-    path = os.path.join(MODELS_DIR, "best_model.pkl")
-    if os.path.exists(path):
-        return joblib.load(path)
+    if os.path.exists(MODEL_PATH):
+        return joblib.load(MODEL_PATH)
     return None
 
 def build_input_row(organism, antibiotic, is_south_asian):
     row = {
-        "organism_encoded"        : ORGANISM_ENCODING.get(organism, 0),
-        "antibiotic_encoded"      : ANTIBIOTIC_ENCODING.get(antibiotic, 0),
-        "is_south_asian"          : is_south_asian,
-        "year_normalized"         : 0.5,
-        "is_ampicillin"           : 1 if antibiotic == "ampicillin"    else 0,
-        "is_ciprofloxacin"        : 1 if antibiotic == "ciprofloxacin" else 0,
-        "is_tetracycline"         : 1 if antibiotic == "tetracycline"  else 0,
-        "is_gentamicin"           : 1 if antibiotic == "gentamicin"    else 0,
-        "is_imipenem"             : 1 if antibiotic == "imipenem"      else 0,
-        "is_trimethoprim"         : 1 if antibiotic == "trimethoprim"  else 0,
-        "is_escherichia_coli"     : 1 if organism == "Escherichia coli"      else 0,
-        "is_klebsiella_pneumoniae": 1 if organism == "Klebsiella pneumoniae" else 0,
-        "is_staphylococcus_aureus": 1 if organism == "Staphylococcus aureus" else 0,
+        "organism_encoded"         : ORGANISM_ENCODING.get(organism, 0),
+        "antibiotic_encoded"       : ANTIBIOTIC_ENCODING.get(antibiotic, 0),
+        "is_south_asian"           : is_south_asian,
+        "year_normalized"          : 0.5,
+        "is_ampicillin"            : 1 if antibiotic == "ampicillin"    else 0,
+        "is_ciprofloxacin"         : 1 if antibiotic == "ciprofloxacin" else 0,
+        "is_tetracycline"          : 1 if antibiotic == "tetracycline"  else 0,
+        "is_gentamicin"            : 1 if antibiotic == "gentamicin"    else 0,
+        "is_imipenem"              : 1 if antibiotic == "imipenem"      else 0,
+        "is_trimethoprim"          : 1 if antibiotic == "trimethoprim"  else 0,
+        "is_escherichia_coli"      : 1 if organism == "Escherichia coli"      else 0,
+        "is_klebsiella_pneumoniae" : 1 if organism == "Klebsiella pneumoniae" else 0,
+        "is_staphylococcus_aureus" : 1 if organism == "Staphylococcus aureus" else 0,
     }
     return pd.DataFrame([row])
 
@@ -73,48 +65,38 @@ def show():
 
     model = load_model()
     if model is None:
-        st.error("Model not found! Please run the training pipeline first.")
+        st.error(f"Model not found at: {MODEL_PATH}")
         return
 
     col1, col2 = st.columns(2)
-
     with col1:
-        organism = st.selectbox(
-            "🧫 Select Organism",
-            ORGANISMS,
-            help="Choose the bacterial species to analyze"
-        )
-
+        organism = st.selectbox("🧫 Select Organism", ORGANISMS)
     with col2:
         origin = st.radio(
             "🌏 Isolate Origin",
-            ["South Asian", "Other / Unknown"],
-            help="South Asian isolates may have distinct resistance patterns"
+            ["South Asian", "Other / Unknown"]
         )
 
     is_south_asian = 1 if origin == "South Asian" else 0
-
     st.markdown("---")
 
     if st.button("🚀 Run Prediction", type="primary", use_container_width=True):
         with st.spinner("Analyzing resistance profile..."):
-
             results = []
             for antibiotic in TARGET_ANTIBIOTICS:
-                X = build_input_row(organism, antibiotic, is_south_asian)
+                X     = build_input_row(organism, antibiotic, is_south_asian)
                 pred  = model.predict(X)[0]
                 proba = model.predict_proba(X)[0]
                 conf  = proba[pred] * 100
                 results.append({
-                    "Antibiotic"  : antibiotic.capitalize(),
-                    "Result"      : "RESISTANT" if pred == 1 else "SUSCEPTIBLE",
-                    "Confidence"  : round(conf, 1),
-                    "R_prob"      : round(proba[1] * 100, 1),
-                    "S_prob"      : round(proba[0] * 100, 1),
+                    "Antibiotic" : antibiotic.capitalize(),
+                    "Result"     : "RESISTANT" if pred == 1 else "SUSCEPTIBLE",
+                    "Confidence" : round(conf, 1),
+                    "R_prob"     : round(proba[1] * 100, 1),
+                    "S_prob"     : round(proba[0] * 100, 1),
                 })
 
         st.success("✅ Prediction Complete!")
-
         st.markdown(f"### 🧫 {organism}")
         st.markdown(f"**Origin:** {origin}")
         st.markdown("---")
@@ -123,12 +105,11 @@ def show():
         susceptible = [r for r in results if r["Result"] == "SUSCEPTIBLE"]
 
         col1, col2, col3 = st.columns(3)
-        col1.metric("🔴 Resistant",   len(resistant))
-        col2.metric("🟢 Susceptible", len(susceptible))
+        col1.metric("🔴 Resistant",    len(resistant))
+        col2.metric("🟢 Susceptible",  len(susceptible))
         col3.metric("📊 Total Tested", len(results))
 
         st.markdown("### 📋 Full Resistance Profile")
-
         for r in results:
             col1, col2, col3 = st.columns([3, 2, 5])
             with col1:
@@ -145,16 +126,14 @@ def show():
                 )
 
         st.markdown("---")
-
-        df_results = pd.DataFrame(results)[
+        df_out = pd.DataFrame(results)[
             ["Antibiotic", "Result", "Confidence", "R_prob", "S_prob"]
         ]
-        df_results.columns = [
+        df_out.columns = [
             "Antibiotic", "Prediction",
             "Confidence (%)", "Resistant Prob (%)", "Susceptible Prob (%)"
         ]
-
-        csv = df_results.to_csv(index=False).encode("utf-8")
+        csv = df_out.to_csv(index=False).encode("utf-8")
         st.download_button(
             label="⬇️ Download Results as CSV",
             data=csv,
